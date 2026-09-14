@@ -1,0 +1,1801 @@
+Date,Source / Medium,Channel,Campaign,Device,Country,Users,Sessions,Engaged Sessions,Engagement Rate,Average Engagement Time (sec),Key Events,Revenue
+2026-01-01,(direct) / (none),Direct,not_set,Mobile,United Kingdom,90,129,73,0.5641,51,3,75.35
+2026-01-01,(direct) / (none),Direct,not_set,Mobile,India,86,112,61,0.5442,61,2,29.52
+2026-01-01,(direct) / (none),Direct,not_set,Desktop,Canada,113,170,87,0.5129,65,4,120.63
+2026-01-01,(direct) / (none),Direct,not_set,Mobile,United States,104,132,89,0.6727,69,7,341.44
+2026-01-01,(direct) / (none),Direct,not_set,Desktop,United States,102,162,117,0.723,67,8,154.43
+2026-01-01,promo_email / email,Email,product_launch,Tablet,India,102,124,81,0.6557,97,11,349.77
+2026-01-01,bing / organic,Organic Search,not_set,Tablet,United Kingdom,99,135,115,0.8537,80,8,276.97
+2026-01-01,google / organic,Organic Search,not_set,Desktop,India,109,177,133,0.7501,69,7,166.79
+2026-01-01,bing / organic,Organic Search,not_set,Tablet,United States,88,135,94,0.6985,92,4,264.04
+2026-01-01,bing / organic,Organic Search,not_set,Desktop,Australia,112,149,107,0.7157,64,9,209.17
+2026-01-01,facebook / social,Organic Social,not_set,Desktop,India,98,161,102,0.6347,64,3,183.63
+2026-01-01,linkedin / social,Organic Social,not_set,Desktop,United States,89,108,70,0.6442,41,3,207.35
+2026-01-01,linkedin / social,Organic Social,not_set,Mobile,India,106,159,105,0.6579,60,4,74.28
+2026-01-01,google / cpc,Paid Search,brand_campaign,Tablet,United Kingdom,102,125,72,0.5762,49,4,371.02
+2026-01-01,bing / cpc,Paid Search,brand_campaign,Desktop,Canada,105,157,76,0.4825,50,4,170.83
+2026-01-01,google / cpc,Paid Search,brand_campaign,Tablet,United States,100,135,66,0.49,64,11,341.63
+2026-01-01,google / cpc,Paid Search,summer_sale,Mobile,United States,94,136,66,0.4888,50,5,366.55
+2026-01-01,google / cpc,Paid Search,brand_campaign,Desktop,India,111,152,74,0.4845,43,4,150.49
+2026-01-01,youtube.com / referral,Referral,not_set,Mobile,India,106,157,96,0.6091,93,6,370.76
+2026-01-01,blog.example.com / referral,Referral,not_set,Mobile,India,91,106,81,0.7654,100,3,153.33
+2026-01-01,youtube.com / referral,Referral,not_set,Mobile,India,98,142,91,0.6414,84,5,197.91
+2026-01-01,partner.com / referral,Referral,not_set,Mobile,India,119,135,104,0.7696,105,2,87.48
+2026-01-02,(direct) / (none),Direct,not_set,Mobile,India,114,177,97,0.5469,63,3,170.59
+2026-01-02,(direct) / (none),Direct,not_set,Desktop,United States,97,102,59,0.5761,57,4,314.85
+2026-01-02,(direct) / (none),Direct,not_set,Tablet,India,106,143,85,0.5954,55,6,228.23
+2026-01-02,(direct) / (none),Direct,not_set,Desktop,United States,110,161,81,0.5034,60,4,196.29
+2026-01-02,promo_email / email,Email,brand_campaign,Desktop,United States,86,93,79,0.8547,114,4,88.45
+2026-01-02,google / organic,Organic Search,not_set,Desktop,India,110,135,86,0.6361,69,6,312.62
+2026-01-02,linkedin / social,Organic Social,not_set,Mobile,Australia,84,123,80,0.649,78,2,54.5
+2026-01-02,facebook / social,Organic Social,not_set,Mobile,United States,98,154,100,0.6469,57,5,149.9
+2026-01-02,instagram / social,Organic Social,not_set,Mobile,India,105,152,97,0.6394,90,1,24.87
+2026-01-02,facebook / social,Organic Social,not_set,Mobile,United Kingdom,108,167,100,0.5994,79,3,122.5
+2026-01-02,google / cpc,Paid Search,brand_campaign,Desktop,Canada,90,145,48,0.3323,57,3,263.45
+2026-01-02,bing / cpc,Paid Search,product_launch,Desktop,India,108,116,51,0.4378,40,5,144.98
+2026-01-02,google / cpc,Paid Search,retargeting,Mobile,United States,114,162,78,0.4841,62,8,391.47
+2026-01-02,google / cpc,Paid Search,retargeting,Desktop,India,89,144,50,0.3439,20,3,109.67
+2026-01-02,youtube.com / referral,Referral,not_set,Desktop,Canada,100,124,97,0.7806,99,2,73.88
+2026-01-02,blog.example.com / referral,Referral,not_set,Mobile,India,105,116,80,0.6936,80,3,110.3
+2026-01-03,(direct) / (none),Direct,not_set,Mobile,United States,108,123,61,0.4945,51,1,49.62
+2026-01-03,(direct) / (none),Direct,not_set,Mobile,India,100,133,82,0.6153,74,6,234.46
+2026-01-03,(direct) / (none),Direct,not_set,Desktop,United Kingdom,73,111,67,0.6028,80,1,34.49
+2026-01-03,(direct) / (none),Direct,not_set,Mobile,India,113,121,74,0.6083,52,3,80.22
+2026-01-03,(direct) / (none),Direct,not_set,Mobile,United Kingdom,99,132,83,0.625,70,3,360.74
+2026-01-03,(direct) / (none),Direct,not_set,Tablet,India,104,158,86,0.542,65,5,179.7
+2026-01-03,(direct) / (none),Direct,not_set,Desktop,United States,105,141,86,0.6076,61,4,62.72
+2026-01-03,promo_email / email,Email,summer_sale,Mobile,India,120,141,102,0.7247,110,5,122.22
+2026-01-03,bing / organic,Organic Search,not_set,Desktop,United States,105,134,87,0.6528,92,7,350.26
+2026-01-03,google / organic,Organic Search,not_set,Mobile,India,95,148,102,0.6866,87,2,48.01
+2026-01-03,bing / organic,Organic Search,not_set,Mobile,United States,94,151,104,0.6872,65,5,145.8
+2026-01-03,bing / organic,Organic Search,not_set,Mobile,United States,101,128,74,0.5753,82,8,341.94
+2026-01-03,bing / organic,Organic Search,not_set,Mobile,India,108,141,109,0.7731,52,14,707.55
+2026-01-03,yahoo / organic,Organic Search,not_set,Mobile,United States,85,124,89,0.7153,81,5,193.99
+2026-01-03,yahoo / organic,Organic Search,not_set,Desktop,India,93,140,112,0.8005,69,6,223.12
+2026-01-03,yahoo / organic,Organic Search,not_set,Desktop,India,100,139,94,0.677,86,7,416.84
+2026-01-03,bing / organic,Organic Search,not_set,Mobile,United States,101,164,118,0.7223,99,8,648.55
+2026-01-03,bing / organic,Organic Search,not_set,Mobile,India,99,116,82,0.7101,80,5,177.8
+2026-01-03,google / organic,Organic Search,not_set,Mobile,Australia,95,149,114,0.7653,88,5,297.33
+2026-01-03,facebook / social,Organic Social,not_set,Mobile,United States,102,129,72,0.5595,74,3,144.07
+2026-01-03,instagram / social,Organic Social,not_set,Mobile,India,93,139,90,0.6469,63,3,120.58
+2026-01-03,bing / cpc,Paid Search,product_launch,Desktop,India,100,118,60,0.5113,57,7,382.28
+2026-01-03,bing / cpc,Paid Search,product_launch,Desktop,Canada,95,121,64,0.5312,41,6,465.73
+2026-01-03,google / cpc,Paid Search,brand_campaign,Mobile,India,108,129,50,0.3853,43,5,625.62
+2026-01-03,blog.example.com / referral,Referral,not_set,Mobile,United States,101,132,101,0.766,83,5,229.26
+2026-01-03,partner.com / referral,Referral,not_set,Mobile,India,103,141,95,0.6706,101,4,92.23
+2026-01-03,blog.example.com / referral,Referral,not_set,Desktop,United States,110,157,107,0.6823,101,6,165.55
+2026-01-03,youtube.com / referral,Referral,not_set,Mobile,India,98,148,113,0.7622,96,7,284.19
+2026-01-04,(direct) / (none),Direct,not_set,Mobile,India,108,152,72,0.4765,47,4,144.73
+2026-01-04,(direct) / (none),Direct,not_set,Desktop,Canada,110,144,76,0.5281,65,2,99.63
+2026-01-04,(direct) / (none),Direct,not_set,Mobile,Canada,93,119,60,0.5042,70,2,106.98
+2026-01-04,(direct) / (none),Direct,not_set,Desktop,United States,90,117,67,0.5732,50,2,75.06
+2026-01-04,bing / organic,Organic Search,not_set,Mobile,India,108,151,116,0.7682,82,8,223.82
+2026-01-04,google / organic,Organic Search,not_set,Desktop,India,115,167,116,0.6965,82,11,799.31
+2026-01-04,yahoo / organic,Organic Search,not_set,Desktop,India,94,114,71,0.6262,64,5,251.76
+2026-01-04,bing / organic,Organic Search,not_set,Mobile,Australia,86,104,73,0.7052,74,3,95.24
+2026-01-04,google / organic,Organic Search,not_set,Desktop,India,87,136,93,0.6802,82,4,312.64
+2026-01-04,bing / organic,Organic Search,not_set,Mobile,United Kingdom,103,161,114,0.7083,84,6,219.53
+2026-01-04,google / organic,Organic Search,not_set,Desktop,United States,109,170,115,0.6751,90,8,299.74
+2026-01-04,google / organic,Organic Search,not_set,Desktop,India,86,130,89,0.6813,69,4,252.39
+2026-01-04,instagram / social,Organic Social,not_set,Mobile,India,96,118,74,0.6242,64,0,0.0
+2026-01-04,instagram / social,Organic Social,not_set,Mobile,India,105,137,90,0.6569,69,0,0.0
+2026-01-04,google / cpc,Paid Search,retargeting,Tablet,United States,103,118,67,0.5651,51,4,105.94
+2026-01-04,bing / cpc,Paid Search,summer_sale,Tablet,Canada,102,140,75,0.5355,52,2,56.77
+2026-01-04,google / cpc,Paid Search,retargeting,Mobile,United States,121,130,66,0.5094,42,2,156.62
+2026-01-04,google / cpc,Paid Search,brand_campaign,Desktop,India,103,144,44,0.3084,61,5,291.28
+2026-01-04,bing / cpc,Paid Search,retargeting,Mobile,United States,91,142,66,0.4617,37,6,205.41
+2026-01-04,blog.example.com / referral,Referral,not_set,Mobile,India,112,174,128,0.7368,98,4,126.08
+2026-01-05,(direct) / (none),Direct,not_set,Mobile,United Kingdom,93,147,87,0.5932,50,5,190.61
+2026-01-05,(direct) / (none),Direct,not_set,Desktop,India,94,118,55,0.4662,70,3,173.82
+2026-01-05,google / organic,Organic Search,not_set,Mobile,United States,90,120,88,0.732,98,6,235.47
+2026-01-05,google / organic,Organic Search,not_set,Mobile,Australia,109,115,84,0.7306,96,7,190.64
+2026-01-05,bing / organic,Organic Search,not_set,Desktop,India,91,105,70,0.6684,104,2,51.11
+2026-01-05,yahoo / organic,Organic Search,not_set,Desktop,United States,102,108,74,0.6895,65,2,121.0
+2026-01-05,bing / organic,Organic Search,not_set,Desktop,Canada,111,145,88,0.6094,70,5,221.56
+2026-01-05,bing / organic,Organic Search,not_set,Desktop,India,88,100,73,0.7311,79,7,472.07
+2026-01-05,google / cpc,Paid Search,summer_sale,Desktop,Canada,108,125,57,0.459,54,2,53.91
+2026-01-05,bing / cpc,Paid Search,summer_sale,Mobile,India,100,111,68,0.6169,53,10,621.65
+2026-01-05,google / cpc,Paid Search,brand_campaign,Mobile,India,111,131,59,0.4529,56,4,143.76
+2026-01-05,google / cpc,Paid Search,summer_sale,Mobile,India,95,143,62,0.4338,46,4,125.09
+2026-01-06,(direct) / (none),Direct,not_set,Mobile,United States,100,139,74,0.5302,53,5,288.33
+2026-01-06,(direct) / (none),Direct,not_set,Desktop,India,94,147,91,0.6175,63,5,320.28
+2026-01-06,(direct) / (none),Direct,not_set,Desktop,United States,91,135,80,0.5914,42,6,309.21
+2026-01-06,(direct) / (none),Direct,not_set,Desktop,India,101,139,90,0.6463,56,4,195.11
+2026-01-06,(direct) / (none),Direct,not_set,Desktop,India,86,106,47,0.4459,71,2,83.51
+2026-01-06,(direct) / (none),Direct,not_set,Mobile,United States,91,145,82,0.5688,58,5,103.05
+2026-01-06,bing / organic,Organic Search,not_set,Mobile,United States,80,98,72,0.7355,68,2,76.62
+2026-01-06,google / organic,Organic Search,not_set,Desktop,India,94,137,82,0.6001,84,8,357.81
+2026-01-06,google / organic,Organic Search,not_set,Desktop,United Kingdom,104,114,77,0.6721,73,3,78.07
+2026-01-06,google / organic,Organic Search,not_set,Mobile,United Kingdom,105,115,81,0.7022,98,3,144.63
+2026-01-06,yahoo / organic,Organic Search,not_set,Mobile,United States,104,156,107,0.6878,81,7,285.32
+2026-01-06,google / organic,Organic Search,not_set,Mobile,Canada,94,106,62,0.5895,90,3,108.59
+2026-01-06,bing / organic,Organic Search,not_set,Desktop,India,92,126,100,0.7933,94,5,224.26
+2026-01-06,bing / organic,Organic Search,not_set,Mobile,United States,111,132,94,0.7105,85,4,489.95
+2026-01-06,facebook / social,Organic Social,not_set,Mobile,India,108,120,69,0.5721,81,2,79.05
+2026-01-06,bing / cpc,Paid Search,product_launch,Mobile,India,101,111,55,0.4921,42,5,150.23
+2026-01-06,bing / cpc,Paid Search,product_launch,Desktop,Canada,112,183,81,0.4452,44,5,103.04
+2026-01-06,bing / cpc,Paid Search,brand_campaign,Desktop,India,104,162,87,0.5378,36,2,71.24
+2026-01-06,blog.example.com / referral,Referral,not_set,Desktop,Canada,86,109,78,0.7146,74,2,151.68
+2026-01-06,youtube.com / referral,Referral,not_set,Mobile,India,91,149,116,0.7768,73,6,305.77
+2026-01-07,(direct) / (none),Direct,not_set,Mobile,India,94,126,75,0.5931,87,7,202.65
+2026-01-07,(direct) / (none),Direct,not_set,Desktop,United Kingdom,102,145,63,0.4349,45,5,241.9
+2026-01-07,promo_email / email,Email,summer_sale,Mobile,India,102,122,76,0.6227,85,5,188.36
+2026-01-07,newsletter / email,Email,brand_campaign,Mobile,India,107,135,109,0.8098,104,9,241.04
+2026-01-07,promo_email / email,Email,brand_campaign,Mobile,India,120,183,136,0.7418,100,12,361.55
+2026-01-07,newsletter / email,Email,summer_sale,Desktop,United States,120,135,103,0.7601,100,7,224.11
+2026-01-07,newsletter / email,Email,brand_campaign,Desktop,Australia,96,136,102,0.7474,106,6,243.65
+2026-01-07,bing / organic,Organic Search,not_set,Desktop,United States,97,152,107,0.7071,89,3,108.63
+2026-01-07,bing / organic,Organic Search,not_set,Mobile,India,94,130,97,0.7432,64,3,31.39
+2026-01-07,bing / organic,Organic Search,not_set,Mobile,Canada,90,147,93,0.6309,88,10,408.16
+2026-01-07,yahoo / organic,Organic Search,not_set,Mobile,India,119,165,90,0.547,85,10,399.54
+2026-01-07,yahoo / organic,Organic Search,not_set,Mobile,United States,90,141,86,0.6078,105,4,181.0
+2026-01-07,google / organic,Organic Search,not_set,Desktop,India,124,194,138,0.7121,79,9,252.74
+2026-01-07,google / organic,Organic Search,not_set,Desktop,India,82,116,75,0.645,98,7,166.78
+2026-01-07,google / organic,Organic Search,not_set,Mobile,Canada,116,158,110,0.6975,67,8,607.3
+2026-01-07,facebook / social,Organic Social,not_set,Desktop,India,88,97,65,0.6707,75,2,88.68
+2026-01-07,linkedin / social,Organic Social,not_set,Mobile,United States,97,102,72,0.7015,51,0,0.0
+2026-01-07,bing / cpc,Paid Search,retargeting,Tablet,India,104,146,49,0.3373,50,4,143.37
+2026-01-07,bing / cpc,Paid Search,retargeting,Mobile,India,111,157,65,0.4137,37,7,174.05
+2026-01-07,google / cpc,Paid Search,brand_campaign,Desktop,India,90,119,58,0.4857,68,8,253.77
+2026-01-07,bing / cpc,Paid Search,retargeting,Desktop,India,111,123,74,0.6031,61,5,207.53
+2026-01-07,google / cpc,Paid Search,brand_campaign,Mobile,India,101,166,90,0.5392,56,9,283.95
+2026-01-07,google / cpc,Paid Search,brand_campaign,Desktop,India,95,128,72,0.5646,42,6,156.81
+2026-01-08,(direct) / (none),Direct,not_set,Desktop,India,119,169,85,0.5054,82,3,68.79
+2026-01-08,(direct) / (none),Direct,not_set,Mobile,United States,93,116,52,0.4475,77,2,141.98
+2026-01-08,newsletter / email,Email,summer_sale,Mobile,India,107,142,105,0.7412,82,10,477.78
+2026-01-08,newsletter / email,Email,product_launch,Mobile,India,103,162,131,0.8088,91,8,315.53
+2026-01-08,bing / organic,Organic Search,not_set,Mobile,United Kingdom,107,158,103,0.6487,72,10,244.84
+2026-01-08,bing / organic,Organic Search,not_set,Mobile,India,86,110,89,0.8132,85,2,184.26
+2026-01-08,bing / organic,Organic Search,not_set,Mobile,Australia,119,167,110,0.6603,64,6,143.78
+2026-01-08,yahoo / organic,Organic Search,not_set,Desktop,United States,88,141,106,0.755,90,9,250.64
+2026-01-08,yahoo / organic,Organic Search,not_set,Mobile,Canada,117,124,91,0.7346,61,5,209.2
+2026-01-08,bing / organic,Organic Search,not_set,Mobile,India,95,101,59,0.5842,77,3,147.69
+2026-01-08,google / organic,Organic Search,not_set,Desktop,India,110,127,96,0.7534,92,8,468.04
+2026-01-08,bing / organic,Organic Search,not_set,Mobile,India,94,111,76,0.6886,80,4,130.21
+2026-01-08,linkedin / social,Organic Social,not_set,Desktop,India,93,131,69,0.5252,73,6,370.76
+2026-01-08,google / cpc,Paid Search,summer_sale,Tablet,India,102,168,70,0.4195,30,4,260.51
+2026-01-08,youtube.com / referral,Referral,not_set,Mobile,India,99,114,81,0.7138,101,8,508.35
+2026-01-09,(direct) / (none),Direct,not_set,Mobile,India,92,125,69,0.5509,43,2,35.35
+2026-01-09,(direct) / (none),Direct,not_set,Desktop,United States,108,159,107,0.6731,86,1,118.34
+2026-01-09,(direct) / (none),Direct,not_set,Mobile,Australia,108,117,69,0.5905,46,2,109.52
+2026-01-09,newsletter / email,Email,product_launch,Tablet,United Kingdom,93,117,68,0.5799,91,0,0.0
+2026-01-09,promo_email / email,Email,brand_campaign,Desktop,India,109,151,117,0.7719,91,6,283.99
+2026-01-09,newsletter / email,Email,brand_campaign,Mobile,United States,93,101,66,0.6495,74,6,151.9
+2026-01-09,google / organic,Organic Search,not_set,Mobile,Australia,97,116,85,0.7341,76,1,24.24
+2026-01-09,google / organic,Organic Search,not_set,Mobile,United States,100,111,80,0.7201,86,7,218.89
+2026-01-09,google / organic,Organic Search,not_set,Mobile,United States,97,127,97,0.7653,66,5,153.94
+2026-01-09,bing / organic,Organic Search,not_set,Mobile,United States,98,148,102,0.6914,75,7,371.26
+2026-01-09,yahoo / organic,Organic Search,not_set,Desktop,Australia,109,132,94,0.7119,69,7,135.94
+2026-01-09,instagram / social,Organic Social,not_set,Mobile,India,95,112,73,0.6502,71,1,68.76
+2026-01-09,instagram / social,Organic Social,not_set,Desktop,United States,99,126,78,0.6158,50,2,85.39
+2026-01-09,linkedin / social,Organic Social,not_set,Mobile,India,96,142,102,0.7171,83,0,0.0
+2026-01-09,facebook / social,Organic Social,not_set,Mobile,United Kingdom,122,171,126,0.7395,57,4,92.88
+2026-01-09,bing / cpc,Paid Search,product_launch,Mobile,India,99,127,53,0.4183,48,5,120.04
+2026-01-09,bing / cpc,Paid Search,summer_sale,Mobile,India,105,113,56,0.4926,48,1,31.95
+2026-01-09,google / cpc,Paid Search,summer_sale,Desktop,India,98,155,59,0.3778,47,7,129.26
+2026-01-09,blog.example.com / referral,Referral,not_set,Mobile,United Kingdom,100,131,79,0.6067,67,6,80.43
+2026-01-09,partner.com / referral,Referral,not_set,Desktop,Canada,103,133,88,0.658,73,2,42.43
+2026-01-10,(direct) / (none),Direct,not_set,Desktop,United States,108,117,61,0.5224,67,2,86.72
+2026-01-10,(direct) / (none),Direct,not_set,Mobile,Australia,103,160,80,0.4989,50,5,183.45
+2026-01-10,newsletter / email,Email,summer_sale,Mobile,United Kingdom,85,123,89,0.7205,85,8,232.97
+2026-01-10,yahoo / organic,Organic Search,not_set,Desktop,India,105,122,93,0.7597,73,8,517.75
+2026-01-10,bing / organic,Organic Search,not_set,Mobile,United States,102,110,84,0.7613,97,7,190.2
+2026-01-10,google / organic,Organic Search,not_set,Tablet,India,114,149,103,0.6929,52,11,365.09
+2026-01-10,google / organic,Organic Search,not_set,Mobile,India,99,163,120,0.7377,85,5,105.29
+2026-01-10,yahoo / organic,Organic Search,not_set,Mobile,India,112,123,71,0.5795,90,6,187.29
+2026-01-10,bing / organic,Organic Search,not_set,Tablet,United States,116,158,98,0.6228,59,6,152.3
+2026-01-10,yahoo / organic,Organic Search,not_set,Mobile,Canada,105,150,105,0.7012,76,7,341.41
+2026-01-10,yahoo / organic,Organic Search,not_set,Tablet,United States,97,159,104,0.6514,74,5,222.51
+2026-01-10,google / organic,Organic Search,not_set,Desktop,India,86,131,103,0.7874,91,4,189.29
+2026-01-10,google / organic,Organic Search,not_set,Mobile,United States,87,95,60,0.6332,84,6,141.18
+2026-01-10,google / cpc,Paid Search,retargeting,Mobile,India,97,158,91,0.5756,60,2,40.56
+2026-01-10,bing / cpc,Paid Search,brand_campaign,Desktop,Canada,94,138,60,0.4324,63,9,502.55
+2026-01-10,bing / cpc,Paid Search,brand_campaign,Mobile,United States,85,124,75,0.6022,40,3,69.62
+2026-01-10,partner.com / referral,Referral,not_set,Desktop,United States,92,127,100,0.7901,87,3,92.73
+2026-01-10,youtube.com / referral,Referral,not_set,Mobile,India,105,124,98,0.792,82,2,55.85
+2026-01-10,partner.com / referral,Referral,not_set,Mobile,United States,101,154,107,0.6942,88,8,235.11
+2026-01-11,(direct) / (none),Direct,not_set,Mobile,United States,107,165,94,0.5692,55,6,197.88
+2026-01-11,(direct) / (none),Direct,not_set,Mobile,India,106,123,71,0.5768,63,4,147.59
+2026-01-11,(direct) / (none),Direct,not_set,Mobile,India,112,132,68,0.5161,43,6,420.28
+2026-01-11,(direct) / (none),Direct,not_set,Mobile,United States,95,108,57,0.53,74,4,116.01
+2026-01-11,yahoo / organic,Organic Search,not_set,Desktop,United States,105,150,92,0.6162,82,7,611.33
+2026-01-11,bing / organic,Organic Search,not_set,Desktop,India,93,119,91,0.7648,75,7,225.64
+2026-01-11,bing / organic,Organic Search,not_set,Mobile,Australia,95,121,85,0.7055,70,7,81.46
+2026-01-11,yahoo / organic,Organic Search,not_set,Mobile,India,108,131,88,0.671,67,7,148.25
+2026-01-11,instagram / social,Organic Social,not_set,Desktop,United States,109,150,86,0.5739,51,3,125.5
+2026-01-11,instagram / social,Organic Social,not_set,Mobile,India,105,117,72,0.6193,59,7,437.31
+2026-01-11,google / cpc,Paid Search,product_launch,Desktop,India,99,115,53,0.4594,53,1,26.97
+2026-01-11,google / cpc,Paid Search,product_launch,Mobile,United States,97,109,57,0.5211,60,3,121.63
+2026-01-11,bing / cpc,Paid Search,summer_sale,Desktop,India,64,92,45,0.4939,63,3,47.93
+2026-01-11,google / cpc,Paid Search,brand_campaign,Tablet,India,103,111,41,0.3713,46,4,202.76
+2026-01-11,google / cpc,Paid Search,summer_sale,Mobile,United States,99,153,81,0.5273,58,6,311.53
+2026-01-11,bing / cpc,Paid Search,summer_sale,Mobile,United States,108,175,83,0.4745,45,9,454.55
+2026-01-11,blog.example.com / referral,Referral,not_set,Mobile,United States,110,119,87,0.7287,80,5,242.68
+2026-01-11,youtube.com / referral,Referral,not_set,Desktop,Canada,103,138,89,0.6441,95,3,58.21
+2026-01-12,(direct) / (none),Direct,not_set,Mobile,Canada,84,97,52,0.536,66,5,205.7
+2026-01-12,(direct) / (none),Direct,not_set,Mobile,India,85,122,64,0.5241,47,4,131.0
+2026-01-12,promo_email / email,Email,product_launch,Desktop,United States,95,151,102,0.6722,106,13,575.05
+2026-01-12,newsletter / email,Email,retargeting,Desktop,Canada,104,141,109,0.775,92,5,108.07
+2026-01-12,google / organic,Organic Search,not_set,Mobile,India,101,116,74,0.6415,82,4,403.74
+2026-01-12,yahoo / organic,Organic Search,not_set,Mobile,United States,100,158,118,0.7441,91,8,126.11
+2026-01-12,google / organic,Organic Search,not_set,Mobile,United States,106,139,88,0.6328,75,5,198.81
+2026-01-12,yahoo / organic,Organic Search,not_set,Mobile,United States,95,110,89,0.81,72,2,37.99
+2026-01-12,google / organic,Organic Search,not_set,Mobile,India,131,203,123,0.6057,94,10,533.59
+2026-01-12,linkedin / social,Organic Social,not_set,Desktop,India,90,105,51,0.4813,51,2,120.67
+2026-01-12,linkedin / social,Organic Social,not_set,Mobile,India,104,148,96,0.6513,65,6,219.6
+2026-01-12,instagram / social,Organic Social,not_set,Mobile,India,113,182,112,0.6132,87,8,304.04
+2026-01-12,google / cpc,Paid Search,summer_sale,Mobile,Canada,95,121,56,0.4624,51,3,221.45
+2026-01-12,bing / cpc,Paid Search,summer_sale,Desktop,United States,95,122,51,0.4166,54,7,504.84
+2026-01-12,google / cpc,Paid Search,brand_campaign,Mobile,India,92,144,72,0.497,62,3,107.0
+2026-01-12,bing / cpc,Paid Search,summer_sale,Mobile,India,110,174,78,0.4508,34,5,162.16
+2026-01-12,blog.example.com / referral,Referral,not_set,Tablet,Canada,125,196,126,0.6403,102,7,229.27
+2026-01-12,youtube.com / referral,Referral,not_set,Mobile,India,91,110,73,0.6668,84,7,406.87
+2026-01-12,youtube.com / referral,Referral,not_set,Desktop,United States,94,109,77,0.7098,112,1,13.3
+2026-01-12,partner.com / referral,Referral,not_set,Mobile,Canada,103,144,108,0.7473,90,5,240.1
+2026-01-13,(direct) / (none),Direct,not_set,Mobile,United States,92,104,56,0.5373,71,0,0.0
+2026-01-13,(direct) / (none),Direct,not_set,Mobile,United States,99,109,59,0.5449,78,3,161.68
+2026-01-13,(direct) / (none),Direct,not_set,Mobile,India,105,130,89,0.6811,75,4,111.3
+2026-01-13,(direct) / (none),Direct,not_set,Mobile,India,113,165,82,0.4941,70,6,563.76
+2026-01-13,yahoo / organic,Organic Search,not_set,Mobile,United Kingdom,104,130,91,0.7004,81,5,123.23
+2026-01-13,google / organic,Organic Search,not_set,Desktop,India,105,113,75,0.6624,118,4,151.64
+2026-01-13,yahoo / organic,Organic Search,not_set,Desktop,India,101,136,104,0.7612,103,7,416.7
+2026-01-13,yahoo / organic,Organic Search,not_set,Desktop,India,107,155,112,0.7241,84,8,339.36
+2026-01-13,google / organic,Organic Search,not_set,Mobile,India,101,112,68,0.6114,76,3,67.97
+2026-01-13,linkedin / social,Organic Social,not_set,Tablet,India,104,146,98,0.6709,86,6,313.55
+2026-01-13,instagram / social,Organic Social,not_set,Desktop,India,92,149,87,0.5808,57,4,150.29
+2026-01-13,instagram / social,Organic Social,not_set,Mobile,India,124,193,117,0.6061,75,3,287.94
+2026-01-13,google / cpc,Paid Search,brand_campaign,Desktop,India,91,106,62,0.584,35,3,93.6
+2026-01-13,google / cpc,Paid Search,brand_campaign,Mobile,United Kingdom,89,118,56,0.4721,36,1,63.46
+2026-01-13,google / cpc,Paid Search,brand_campaign,Mobile,United Kingdom,106,163,76,0.4672,49,6,626.82
+2026-01-13,google / cpc,Paid Search,summer_sale,Mobile,India,89,123,58,0.4725,47,5,557.71
+2026-01-13,google / cpc,Paid Search,summer_sale,Mobile,Canada,110,121,49,0.407,34,3,176.55
+2026-01-13,youtube.com / referral,Referral,not_set,Mobile,Canada,100,156,110,0.7036,97,5,225.28
+2026-01-13,youtube.com / referral,Referral,not_set,Tablet,United States,95,107,71,0.6678,80,5,177.71
+2026-01-14,(direct) / (none),Direct,not_set,Mobile,United States,102,166,106,0.6378,66,2,151.9
+2026-01-14,promo_email / email,Email,product_launch,Desktop,India,110,125,92,0.7376,84,3,120.14
+2026-01-14,newsletter / email,Email,brand_campaign,Desktop,Canada,88,145,114,0.7872,94,5,138.75
+2026-01-14,bing / organic,Organic Search,not_set,Mobile,India,108,158,98,0.6211,69,11,480.86
+2026-01-14,bing / organic,Organic Search,not_set,Desktop,India,110,144,96,0.6637,88,3,115.79
+2026-01-14,google / organic,Organic Search,not_set,Desktop,United Kingdom,97,127,88,0.6916,84,5,142.33
+2026-01-14,yahoo / organic,Organic Search,not_set,Mobile,India,91,108,74,0.6886,72,7,290.71
+2026-01-14,google / organic,Organic Search,not_set,Mobile,United Kingdom,79,124,79,0.6384,75,4,61.5
+2026-01-14,bing / organic,Organic Search,not_set,Mobile,United States,85,126,92,0.7328,94,1,27.64
+2026-01-14,bing / organic,Organic Search,not_set,Mobile,United States,114,160,110,0.6878,61,7,247.78
+2026-01-14,bing / organic,Organic Search,not_set,Mobile,India,85,109,68,0.6201,78,3,95.53
+2026-01-14,facebook / social,Organic Social,not_set,Mobile,United States,110,122,74,0.6026,49,1,36.36
+2026-01-14,facebook / social,Organic Social,not_set,Mobile,United States,115,180,117,0.65,75,2,113.4
+2026-01-14,linkedin / social,Organic Social,not_set,Tablet,United States,98,134,78,0.584,60,0,0.0
+2026-01-14,instagram / social,Organic Social,not_set,Mobile,India,89,146,99,0.6759,65,0,0.0
+2026-01-14,bing / cpc,Paid Search,product_launch,Mobile,United Kingdom,94,144,66,0.457,56,2,78.16
+2026-01-14,google / cpc,Paid Search,retargeting,Mobile,India,94,153,71,0.4649,42,2,139.7
+2026-01-14,google / cpc,Paid Search,summer_sale,Desktop,United Kingdom,96,147,80,0.5433,47,4,131.6
+2026-01-15,(direct) / (none),Direct,not_set,Mobile,India,106,133,72,0.539,54,9,304.15
+2026-01-15,(direct) / (none),Direct,not_set,Desktop,Australia,96,124,66,0.5317,66,4,159.6
+2026-01-15,(direct) / (none),Direct,not_set,Mobile,United States,111,150,68,0.4552,71,5,137.46
+2026-01-15,(direct) / (none),Direct,not_set,Desktop,India,111,125,53,0.4201,58,3,57.78
+2026-01-15,(direct) / (none),Direct,not_set,Desktop,India,91,137,76,0.5533,51,1,37.98
+2026-01-15,(direct) / (none),Direct,not_set,Mobile,United Kingdom,88,93,48,0.5199,68,1,38.05
+2026-01-15,(direct) / (none),Direct,not_set,Mobile,India,100,163,89,0.5489,61,7,342.87
+2026-01-15,promo_email / email,Email,retargeting,Mobile,India,111,172,112,0.6503,93,8,234.39
+2026-01-15,bing / organic,Organic Search,not_set,Tablet,Canada,101,146,103,0.706,92,8,332.81
+2026-01-15,yahoo / organic,Organic Search,not_set,Mobile,United Kingdom,95,138,101,0.7291,84,3,84.27
+2026-01-15,yahoo / organic,Organic Search,not_set,Tablet,Australia,89,141,105,0.7461,100,7,270.97
+2026-01-15,google / organic,Organic Search,not_set,Desktop,India,103,123,79,0.6385,80,8,388.46
+2026-01-15,google / cpc,Paid Search,product_launch,Tablet,United States,91,100,39,0.3859,49,3,181.19
+2026-01-15,partner.com / referral,Referral,not_set,Mobile,United States,96,155,122,0.786,87,10,284.51
+2026-01-16,(direct) / (none),Direct,not_set,Desktop,India,91,106,64,0.6026,31,1,64.04
+2026-01-16,(direct) / (none),Direct,not_set,Mobile,India,90,104,59,0.5653,75,1,27.61
+2026-01-16,newsletter / email,Email,summer_sale,Desktop,India,98,157,119,0.7598,89,7,244.11
+2026-01-16,newsletter / email,Email,brand_campaign,Mobile,United States,103,163,132,0.8125,117,12,395.58
+2026-01-16,yahoo / organic,Organic Search,not_set,Tablet,United States,97,133,95,0.7155,80,4,112.68
+2026-01-16,google / organic,Organic Search,not_set,Mobile,United States,131,178,114,0.6397,84,7,261.13
+2026-01-16,yahoo / organic,Organic Search,not_set,Desktop,Canada,86,118,80,0.6789,82,9,238.74
+2026-01-16,google / organic,Organic Search,not_set,Desktop,United States,105,138,92,0.67,82,2,67.2
+2026-01-16,google / organic,Organic Search,not_set,Mobile,United Kingdom,101,153,102,0.6636,70,6,510.76
+2026-01-16,yahoo / organic,Organic Search,not_set,Tablet,India,118,163,109,0.6662,84,5,253.49
+2026-01-16,google / organic,Organic Search,not_set,Desktop,India,91,137,82,0.599,66,5,204.76
+2026-01-16,bing / organic,Organic Search,not_set,Mobile,India,103,139,98,0.7047,88,4,138.91
+2026-01-16,yahoo / organic,Organic Search,not_set,Tablet,United Kingdom,113,148,111,0.7499,59,2,74.36
+2026-01-16,yahoo / organic,Organic Search,not_set,Desktop,India,107,142,98,0.6924,48,5,383.82
+2026-01-16,facebook / social,Organic Social,not_set,Desktop,United Kingdom,83,118,75,0.6367,74,6,223.84
+2026-01-16,linkedin / social,Organic Social,not_set,Mobile,United States,103,144,101,0.6989,70,1,26.32
+2026-01-16,google / cpc,Paid Search,product_launch,Mobile,India,118,139,61,0.4395,37,4,60.22
+2026-01-16,google / cpc,Paid Search,summer_sale,Mobile,India,102,163,65,0.3965,58,5,130.56
+2026-01-16,google / cpc,Paid Search,summer_sale,Mobile,India,105,132,64,0.4863,64,3,71.89
+2026-01-16,partner.com / referral,Referral,not_set,Mobile,Australia,110,137,106,0.7767,106,5,167.92
+2026-01-16,blog.example.com / referral,Referral,not_set,Mobile,India,109,136,81,0.5933,84,4,135.75
+2026-01-17,(direct) / (none),Direct,not_set,Desktop,United States,102,134,85,0.631,65,4,130.09
+2026-01-17,(direct) / (none),Direct,not_set,Tablet,India,107,160,75,0.4666,63,9,571.76
+2026-01-17,(direct) / (none),Direct,not_set,Desktop,United States,101,113,60,0.5319,73,2,130.18
+2026-01-17,(direct) / (none),Direct,not_set,Mobile,Canada,92,151,87,0.5779,58,7,385.88
+2026-01-17,(direct) / (none),Direct,not_set,Desktop,United States,109,156,69,0.4417,54,7,103.2
+2026-01-17,promo_email / email,Email,summer_sale,Mobile,India,97,143,103,0.72,84,2,94.26
+2026-01-17,yahoo / organic,Organic Search,not_set,Desktop,India,131,203,154,0.7596,81,8,589.02
+2026-01-17,google / organic,Organic Search,not_set,Mobile,United Kingdom,92,125,81,0.6493,109,1,19.22
+2026-01-17,bing / organic,Organic Search,not_set,Mobile,India,82,110,73,0.6642,80,1,24.66
+2026-01-17,bing / organic,Organic Search,not_set,Mobile,India,91,97,69,0.709,75,6,462.54
+2026-01-17,yahoo / organic,Organic Search,not_set,Mobile,India,101,116,82,0.7076,104,5,194.62
+2026-01-17,google / organic,Organic Search,not_set,Mobile,Canada,96,130,88,0.6739,50,9,187.74
+2026-01-17,yahoo / organic,Organic Search,not_set,Desktop,India,105,116,79,0.6793,94,4,211.14
+2026-01-17,yahoo / organic,Organic Search,not_set,Mobile,India,111,163,90,0.5532,84,9,415.79
+2026-01-17,google / organic,Organic Search,not_set,Mobile,India,112,163,123,0.7516,86,3,59.54
+2026-01-17,google / organic,Organic Search,not_set,Mobile,India,97,119,87,0.734,85,7,252.95
+2026-01-17,yahoo / organic,Organic Search,not_set,Desktop,Canada,104,160,95,0.5942,76,6,113.41
+2026-01-17,bing / organic,Organic Search,not_set,Desktop,India,102,161,98,0.6083,73,6,262.91
+2026-01-17,facebook / social,Organic Social,not_set,Mobile,United Kingdom,101,139,79,0.5687,74,0,0.0
+2026-01-17,facebook / social,Organic Social,not_set,Mobile,United States,91,116,68,0.5874,69,3,200.69
+2026-01-17,facebook / social,Organic Social,not_set,Mobile,United Kingdom,113,166,107,0.6448,73,4,98.66
+2026-01-17,google / cpc,Paid Search,summer_sale,Tablet,United States,99,135,66,0.4923,53,4,106.66
+2026-01-17,google / cpc,Paid Search,summer_sale,Mobile,India,86,123,51,0.4117,35,4,179.67
+2026-01-17,youtube.com / referral,Referral,not_set,Mobile,Canada,105,142,94,0.6646,97,2,100.67
+2026-01-17,youtube.com / referral,Referral,not_set,Mobile,United States,99,131,72,0.5466,89,4,175.23
+2026-01-17,youtube.com / referral,Referral,not_set,Mobile,United States,105,130,103,0.7926,98,3,118.97
+2026-01-17,partner.com / referral,Referral,not_set,Desktop,United States,115,137,84,0.613,105,7,292.97
+2026-01-17,blog.example.com / referral,Referral,not_set,Desktop,United States,102,165,108,0.6541,78,3,47.4
+2026-01-18,(direct) / (none),Direct,not_set,Desktop,India,96,149,84,0.5608,59,11,162.4
+2026-01-18,(direct) / (none),Direct,not_set,Mobile,Canada,97,153,85,0.5534,60,5,225.83
+2026-01-18,(direct) / (none),Direct,not_set,Mobile,India,100,108,58,0.5403,60,5,409.04
+2026-01-18,(direct) / (none),Direct,not_set,Tablet,United States,101,145,71,0.4923,67,4,147.74
+2026-01-18,(direct) / (none),Direct,not_set,Mobile,India,92,121,75,0.6228,66,3,239.9
+2026-01-18,(direct) / (none),Direct,not_set,Mobile,United States,103,161,82,0.508,41,9,234.09
+2026-01-18,(direct) / (none),Direct,not_set,Mobile,United States,98,105,61,0.579,54,2,62.01
+2026-01-18,promo_email / email,Email,brand_campaign,Mobile,United Kingdom,109,150,112,0.7447,69,6,344.19
+2026-01-18,promo_email / email,Email,summer_sale,Desktop,Canada,109,155,134,0.8646,83,9,268.84
+2026-01-18,bing / organic,Organic Search,not_set,Desktop,India,109,163,105,0.6419,88,3,122.52
+2026-01-18,google / organic,Organic Search,not_set,Mobile,Canada,92,133,90,0.675,70,6,408.27
+2026-01-18,google / organic,Organic Search,not_set,Mobile,United States,100,143,95,0.6641,80,3,50.95
+2026-01-18,yahoo / organic,Organic Search,not_set,Mobile,Australia,111,134,92,0.6863,66,6,119.1
+2026-01-18,bing / organic,Organic Search,not_set,Mobile,Canada,85,126,91,0.7232,86,6,116.25
+2026-01-18,linkedin / social,Organic Social,not_set,Mobile,India,91,113,77,0.6818,89,2,148.94
+2026-01-18,instagram / social,Organic Social,not_set,Mobile,India,96,140,82,0.5833,51,1,80.08
+2026-01-18,instagram / social,Organic Social,not_set,Desktop,India,88,141,106,0.7483,60,7,294.92
+2026-01-18,facebook / social,Organic Social,not_set,Mobile,United States,103,158,110,0.6939,59,2,48.21
+2026-01-18,google / cpc,Paid Search,summer_sale,Desktop,India,103,167,92,0.5486,53,10,327.85
+2026-01-18,bing / cpc,Paid Search,retargeting,Desktop,India,89,143,65,0.4577,45,7,254.97
+2026-01-18,youtube.com / referral,Referral,not_set,Mobile,United Kingdom,96,128,100,0.7825,70,6,491.97
+2026-01-18,partner.com / referral,Referral,not_set,Tablet,United States,105,154,102,0.6631,83,5,219.6
+2026-01-19,(direct) / (none),Direct,not_set,Mobile,India,100,153,76,0.4982,64,0,0.0
+2026-01-19,(direct) / (none),Direct,not_set,Mobile,United States,109,148,89,0.6001,63,2,62.31
+2026-01-19,(direct) / (none),Direct,not_set,Mobile,India,95,143,87,0.6083,61,4,200.06
+2026-01-19,(direct) / (none),Direct,not_set,Desktop,India,85,130,69,0.5283,80,5,187.32
+2026-01-19,(direct) / (none),Direct,not_set,Mobile,India,92,108,56,0.5209,61,2,140.53
+2026-01-19,promo_email / email,Email,retargeting,Mobile,United States,93,101,71,0.7027,99,6,215.25
+2026-01-19,yahoo / organic,Organic Search,not_set,Tablet,United States,107,169,117,0.6897,87,4,152.22
+2026-01-19,google / organic,Organic Search,not_set,Mobile,United Kingdom,91,150,103,0.6837,70,5,280.43
+2026-01-19,yahoo / organic,Organic Search,not_set,Mobile,India,95,101,81,0.8041,65,5,249.48
+2026-01-19,bing / organic,Organic Search,not_set,Mobile,United States,92,110,71,0.6475,69,6,189.88
+2026-01-19,yahoo / organic,Organic Search,not_set,Mobile,Australia,97,130,88,0.6781,96,8,416.49
+2026-01-19,google / organic,Organic Search,not_set,Tablet,India,109,156,123,0.7854,95,9,306.37
+2026-01-19,google / organic,Organic Search,not_set,Desktop,United Kingdom,101,152,99,0.653,64,7,174.93
+2026-01-19,google / organic,Organic Search,not_set,Mobile,United States,90,146,81,0.5518,58,6,314.54
+2026-01-19,linkedin / social,Organic Social,not_set,Desktop,India,110,151,86,0.5667,76,4,191.54
+2026-01-19,linkedin / social,Organic Social,not_set,Desktop,India,101,155,97,0.6256,42,3,110.33
+2026-01-19,bing / cpc,Paid Search,retargeting,Tablet,India,105,139,68,0.4875,55,4,93.33
+2026-01-19,bing / cpc,Paid Search,brand_campaign,Mobile,Australia,106,142,53,0.3756,54,4,201.15
+2026-01-19,bing / cpc,Paid Search,retargeting,Mobile,United States,102,167,62,0.3695,32,2,91.84
+2026-01-19,bing / cpc,Paid Search,summer_sale,Mobile,United States,95,134,72,0.5367,57,5,288.83
+2026-01-19,bing / cpc,Paid Search,brand_campaign,Mobile,India,94,126,52,0.4112,57,2,71.36
+2026-01-19,bing / cpc,Paid Search,product_launch,Desktop,India,92,98,46,0.4712,42,1,35.97
+2026-01-19,partner.com / referral,Referral,not_set,Mobile,India,106,113,76,0.6706,104,4,99.48
+2026-01-19,partner.com / referral,Referral,not_set,Desktop,India,104,141,95,0.6726,78,4,160.72
+2026-01-19,blog.example.com / referral,Referral,not_set,Mobile,India,101,124,95,0.7695,91,6,270.6
+2026-01-19,blog.example.com / referral,Referral,not_set,Mobile,India,91,127,74,0.5807,95,1,62.56
+2026-01-20,(direct) / (none),Direct,not_set,Mobile,India,93,102,45,0.4459,65,2,70.14
+2026-01-20,(direct) / (none),Direct,not_set,Mobile,India,101,156,82,0.524,36,2,104.24
+2026-01-20,(direct) / (none),Direct,not_set,Mobile,India,113,174,96,0.5504,74,4,318.55
+2026-01-20,newsletter / email,Email,brand_campaign,Desktop,Canada,106,151,122,0.8058,99,11,514.59
+2026-01-20,bing / organic,Organic Search,not_set,Desktop,India,99,111,69,0.6197,86,7,256.62
+2026-01-20,google / organic,Organic Search,not_set,Desktop,Australia,108,177,122,0.6866,86,12,527.98
+2026-01-20,google / organic,Organic Search,not_set,Desktop,United States,103,130,93,0.7166,85,4,100.91
+2026-01-20,facebook / social,Organic Social,not_set,Desktop,India,103,148,99,0.6718,67,5,135.13
+2026-01-20,bing / cpc,Paid Search,summer_sale,Tablet,Canada,94,124,56,0.4512,66,4,217.91
+2026-01-20,blog.example.com / referral,Referral,not_set,Mobile,India,87,120,74,0.6191,98,6,157.36
+2026-01-21,(direct) / (none),Direct,not_set,Mobile,United Kingdom,92,134,79,0.5859,44,5,213.63
+2026-01-21,(direct) / (none),Direct,not_set,Mobile,India,115,138,82,0.591,59,5,103.03
+2026-01-21,(direct) / (none),Direct,not_set,Tablet,United States,98,104,66,0.6302,69,2,83.79
+2026-01-21,(direct) / (none),Direct,not_set,Desktop,India,100,151,83,0.5528,86,2,46.13
+2026-01-21,yahoo / organic,Organic Search,not_set,Mobile,United States,105,167,110,0.6588,73,6,267.55
+2026-01-21,google / organic,Organic Search,not_set,Mobile,India,94,146,104,0.7121,94,9,348.38
+2026-01-21,bing / organic,Organic Search,not_set,Desktop,United States,120,139,94,0.678,87,7,151.51
+2026-01-21,bing / organic,Organic Search,not_set,Mobile,India,112,132,86,0.6535,65,7,326.86
+2026-01-21,bing / organic,Organic Search,not_set,Mobile,India,111,173,129,0.7478,77,6,136.3
+2026-01-21,yahoo / organic,Organic Search,not_set,Mobile,India,109,145,98,0.6742,87,7,384.44
+2026-01-21,bing / organic,Organic Search,not_set,Desktop,India,95,133,86,0.6468,90,3,164.77
+2026-01-21,google / organic,Organic Search,not_set,Mobile,United States,108,170,115,0.6752,67,4,157.01
+2026-01-21,linkedin / social,Organic Social,not_set,Desktop,United Kingdom,84,118,69,0.582,72,4,166.86
+2026-01-21,bing / cpc,Paid Search,retargeting,Mobile,United States,83,108,51,0.4758,46,6,140.77
+2026-01-21,bing / cpc,Paid Search,product_launch,Desktop,India,91,103,53,0.5133,59,5,134.62
+2026-01-21,google / cpc,Paid Search,product_launch,Mobile,India,84,112,51,0.4559,41,4,116.41
+2026-01-21,google / cpc,Paid Search,product_launch,Mobile,United States,83,120,50,0.4159,48,1,66.72
+2026-01-22,(direct) / (none),Direct,not_set,Mobile,United States,97,113,48,0.4222,56,1,37.47
+2026-01-22,yahoo / organic,Organic Search,not_set,Mobile,India,95,103,77,0.7458,73,5,161.42
+2026-01-22,bing / organic,Organic Search,not_set,Mobile,United States,103,129,98,0.7616,87,4,225.38
+2026-01-22,bing / organic,Organic Search,not_set,Desktop,United Kingdom,120,126,98,0.7803,79,5,63.8
+2026-01-22,yahoo / organic,Organic Search,not_set,Desktop,India,102,164,129,0.7839,78,5,129.04
+2026-01-22,bing / organic,Organic Search,not_set,Mobile,India,106,152,91,0.599,82,6,110.91
+2026-01-22,yahoo / organic,Organic Search,not_set,Desktop,United Kingdom,109,120,81,0.6746,65,5,151.85
+2026-01-22,google / organic,Organic Search,not_set,Mobile,India,94,115,78,0.6761,68,6,358.4
+2026-01-22,yahoo / organic,Organic Search,not_set,Mobile,United States,109,121,77,0.6365,86,7,788.57
+2026-01-22,instagram / social,Organic Social,not_set,Mobile,Australia,100,117,80,0.685,60,4,329.33
+2026-01-22,google / cpc,Paid Search,product_launch,Mobile,India,92,111,67,0.6079,52,2,163.28
+2026-01-22,google / cpc,Paid Search,product_launch,Mobile,India,84,112,70,0.6242,28,4,129.93
+2026-01-22,bing / cpc,Paid Search,brand_campaign,Desktop,Australia,112,181,85,0.4669,57,10,348.02
+2026-01-22,bing / cpc,Paid Search,summer_sale,Desktop,India,94,142,69,0.4843,65,4,187.95
+2026-01-22,partner.com / referral,Referral,not_set,Desktop,India,108,137,85,0.6229,68,5,219.58
+2026-01-22,partner.com / referral,Referral,not_set,Mobile,United Kingdom,104,134,87,0.6466,73,7,248.42
+2026-01-22,partner.com / referral,Referral,not_set,Mobile,United States,98,124,79,0.637,86,4,92.65
+2026-01-23,(direct) / (none),Direct,not_set,Mobile,India,90,104,54,0.5225,65,7,229.44
+2026-01-23,(direct) / (none),Direct,not_set,Mobile,Canada,113,131,83,0.632,64,2,137.65
+2026-01-23,(direct) / (none),Direct,not_set,Desktop,United States,105,139,77,0.5512,53,5,332.76
+2026-01-23,promo_email / email,Email,retargeting,Desktop,India,98,127,97,0.7661,101,8,132.28
+2026-01-23,yahoo / organic,Organic Search,not_set,Desktop,India,103,131,87,0.6665,99,2,121.47
+2026-01-23,google / organic,Organic Search,not_set,Mobile,United Kingdom,119,153,97,0.6327,86,7,403.8
+2026-01-23,google / organic,Organic Search,not_set,Mobile,India,112,135,78,0.5809,95,3,223.28
+2026-01-23,linkedin / social,Organic Social,not_set,Tablet,United Kingdom,99,161,129,0.8041,77,7,170.75
+2026-01-23,google / cpc,Paid Search,brand_campaign,Desktop,United States,93,139,72,0.5158,48,9,230.58
+2026-01-23,google / cpc,Paid Search,retargeting,Mobile,United States,107,148,79,0.5364,55,2,63.53
+2026-01-23,bing / cpc,Paid Search,summer_sale,Mobile,United Kingdom,98,152,77,0.5054,42,8,313.08
+2026-01-23,bing / cpc,Paid Search,summer_sale,Tablet,Australia,105,144,67,0.4651,51,3,51.39
+2026-01-23,bing / cpc,Paid Search,product_launch,Desktop,United Kingdom,100,138,68,0.4929,31,8,246.89
+2026-01-23,blog.example.com / referral,Referral,not_set,Mobile,India,96,129,96,0.7465,91,7,276.38
+2026-01-24,(direct) / (none),Direct,not_set,Desktop,Australia,103,127,57,0.4498,62,3,91.32
+2026-01-24,(direct) / (none),Direct,not_set,Mobile,Australia,98,104,59,0.567,52,8,418.24
+2026-01-24,(direct) / (none),Direct,not_set,Mobile,India,119,173,85,0.4907,58,3,81.13
+2026-01-24,(direct) / (none),Direct,not_set,Desktop,India,103,165,79,0.4764,52,5,116.59
+2026-01-24,yahoo / organic,Organic Search,not_set,Mobile,United States,97,135,103,0.7651,58,5,214.3
+2026-01-24,google / organic,Organic Search,not_set,Mobile,India,106,130,102,0.7833,82,4,286.13
+2026-01-24,google / organic,Organic Search,not_set,Mobile,India,96,141,110,0.7779,91,6,169.58
+2026-01-24,yahoo / organic,Organic Search,not_set,Desktop,India,92,145,111,0.7624,88,6,184.37
+2026-01-24,bing / organic,Organic Search,not_set,Mobile,United States,105,111,86,0.7744,67,6,225.37
+2026-01-24,facebook / social,Organic Social,not_set,Desktop,India,97,158,96,0.6072,59,2,43.34
+2026-01-24,google / cpc,Paid Search,summer_sale,Desktop,India,98,130,53,0.4084,60,6,167.18
+2026-01-24,bing / cpc,Paid Search,brand_campaign,Desktop,India,93,118,52,0.4369,62,5,186.88
+2026-01-24,bing / cpc,Paid Search,retargeting,Mobile,India,86,134,78,0.5853,54,6,191.95
+2026-01-24,google / cpc,Paid Search,retargeting,Desktop,United Kingdom,95,127,56,0.4392,57,0,0.0
+2026-01-24,partner.com / referral,Referral,not_set,Tablet,United States,90,103,74,0.7225,84,6,288.58
+2026-01-24,partner.com / referral,Referral,not_set,Mobile,United Kingdom,89,118,80,0.6798,83,5,258.01
+2026-01-24,youtube.com / referral,Referral,not_set,Mobile,India,99,108,77,0.713,98,7,190.99
+2026-01-25,(direct) / (none),Direct,not_set,Desktop,India,101,127,66,0.5175,60,5,293.08
+2026-01-25,(direct) / (none),Direct,not_set,Mobile,Australia,91,111,70,0.633,43,2,29.88
+2026-01-25,(direct) / (none),Direct,not_set,Desktop,India,93,145,82,0.5629,52,6,172.27
+2026-01-25,(direct) / (none),Direct,not_set,Mobile,India,103,160,72,0.4502,88,3,189.31
+2026-01-25,bing / organic,Organic Search,not_set,Mobile,India,100,153,97,0.6347,77,7,235.08
+2026-01-25,bing / organic,Organic Search,not_set,Mobile,India,92,136,85,0.6275,84,6,86.42
+2026-01-25,yahoo / organic,Organic Search,not_set,Mobile,India,101,152,97,0.638,80,3,108.63
+2026-01-25,google / organic,Organic Search,not_set,Desktop,India,99,105,69,0.6582,92,6,564.38
+2026-01-25,google / organic,Organic Search,not_set,Desktop,Canada,87,92,59,0.6375,62,4,228.06
+2026-01-25,google / organic,Organic Search,not_set,Mobile,United States,119,176,118,0.6704,72,8,177.38
+2026-01-25,bing / organic,Organic Search,not_set,Mobile,India,102,112,64,0.5735,80,5,182.36
+2026-01-25,bing / organic,Organic Search,not_set,Desktop,United States,99,162,119,0.7367,71,9,163.59
+2026-01-25,instagram / social,Organic Social,not_set,Desktop,India,86,111,65,0.5816,72,0,0.0
+2026-01-25,bing / cpc,Paid Search,summer_sale,Mobile,India,91,126,76,0.5999,53,9,462.31
+2026-01-25,google / cpc,Paid Search,brand_campaign,Mobile,United States,87,120,46,0.38,54,3,119.77
+2026-01-25,youtube.com / referral,Referral,not_set,Desktop,India,100,130,90,0.691,70,2,41.68
+2026-01-25,youtube.com / referral,Referral,not_set,Desktop,India,87,116,82,0.7052,89,3,61.91
+2026-01-26,(direct) / (none),Direct,not_set,Mobile,United States,111,159,96,0.6008,70,4,135.69
+2026-01-26,(direct) / (none),Direct,not_set,Desktop,Australia,85,98,61,0.6174,39,5,267.01
+2026-01-26,(direct) / (none),Direct,not_set,Mobile,India,129,160,79,0.4936,55,5,325.8
+2026-01-26,(direct) / (none),Direct,not_set,Desktop,India,102,113,68,0.5997,47,6,202.18
+2026-01-26,newsletter / email,Email,summer_sale,Desktop,India,95,110,88,0.8,101,5,109.42
+2026-01-26,yahoo / organic,Organic Search,not_set,Desktop,United Kingdom,115,164,121,0.7357,106,8,246.72
+2026-01-26,google / organic,Organic Search,not_set,Mobile,United Kingdom,100,163,116,0.7104,82,5,134.79
+2026-01-26,bing / organic,Organic Search,not_set,Tablet,United States,82,112,81,0.7269,79,3,54.85
+2026-01-26,yahoo / organic,Organic Search,not_set,Desktop,United States,97,134,104,0.7771,58,7,272.75
+2026-01-26,yahoo / organic,Organic Search,not_set,Desktop,Canada,107,163,107,0.6594,86,8,383.85
+2026-01-26,yahoo / organic,Organic Search,not_set,Mobile,United Kingdom,91,149,106,0.7129,54,5,213.64
+2026-01-26,yahoo / organic,Organic Search,not_set,Mobile,India,96,127,100,0.7872,91,2,64.44
+2026-01-26,google / organic,Organic Search,not_set,Desktop,United States,98,129,107,0.8272,82,5,308.89
+2026-01-26,facebook / social,Organic Social,not_set,Mobile,United Kingdom,105,155,105,0.6792,82,5,116.88
+2026-01-26,instagram / social,Organic Social,not_set,Mobile,United States,105,154,101,0.6538,62,6,142.71
+2026-01-26,instagram / social,Organic Social,not_set,Mobile,India,93,130,78,0.5986,85,2,102.48
+2026-01-26,linkedin / social,Organic Social,not_set,Desktop,India,94,124,59,0.4772,62,3,127.63
+2026-01-26,bing / cpc,Paid Search,brand_campaign,Mobile,India,119,138,60,0.4381,46,2,45.44
+2026-01-26,google / cpc,Paid Search,product_launch,Desktop,India,118,181,95,0.5257,56,8,297.13
+2026-01-26,bing / cpc,Paid Search,product_launch,Mobile,United States,96,156,70,0.45,53,5,52.67
+2026-01-26,google / cpc,Paid Search,summer_sale,Mobile,United States,96,145,66,0.4571,50,10,264.29
+2026-01-26,bing / cpc,Paid Search,product_launch,Desktop,Australia,109,124,67,0.5409,58,1,54.06
+2026-01-26,bing / cpc,Paid Search,product_launch,Desktop,India,112,169,73,0.431,65,7,207.98
+2026-01-27,(direct) / (none),Direct,not_set,Mobile,United States,112,121,65,0.5355,51,6,404.92
+2026-01-27,(direct) / (none),Direct,not_set,Desktop,India,84,136,77,0.564,74,1,39.66
+2026-01-27,(direct) / (none),Direct,not_set,Mobile,United States,103,113,65,0.5733,69,5,180.64
+2026-01-27,bing / organic,Organic Search,not_set,Mobile,India,119,190,117,0.6138,79,6,291.57
+2026-01-27,bing / organic,Organic Search,not_set,Mobile,United States,81,115,70,0.605,78,4,145.51
+2026-01-27,bing / organic,Organic Search,not_set,Mobile,United States,96,156,116,0.7467,92,6,331.51
+2026-01-27,bing / organic,Organic Search,not_set,Mobile,United Kingdom,99,115,78,0.6768,92,4,230.76
+2026-01-27,yahoo / organic,Organic Search,not_set,Desktop,United States,89,115,76,0.6648,100,6,95.24
+2026-01-27,google / organic,Organic Search,not_set,Mobile,United States,96,111,80,0.7241,96,3,288.52
+2026-01-27,yahoo / organic,Organic Search,not_set,Mobile,India,89,115,78,0.6797,79,7,317.35
+2026-01-27,bing / cpc,Paid Search,summer_sale,Mobile,United Kingdom,97,151,80,0.5282,57,5,249.78
+2026-01-27,bing / cpc,Paid Search,retargeting,Mobile,India,88,134,70,0.5242,34,5,263.09
+2026-01-27,bing / cpc,Paid Search,retargeting,Mobile,Australia,100,123,65,0.531,53,4,201.55
+2026-01-27,google / cpc,Paid Search,product_launch,Desktop,India,93,145,65,0.4512,48,2,48.77
+2026-01-27,google / cpc,Paid Search,brand_campaign,Tablet,India,98,117,70,0.5949,53,6,359.53
+2026-01-27,blog.example.com / referral,Referral,not_set,Mobile,Australia,117,184,129,0.7032,79,5,118.25
+2026-01-27,partner.com / referral,Referral,not_set,Desktop,United States,84,121,90,0.7423,96,4,326.22
+2026-01-27,partner.com / referral,Referral,not_set,Desktop,Australia,108,136,103,0.7551,96,7,372.95
+2026-01-28,(direct) / (none),Direct,not_set,Mobile,United Kingdom,85,128,73,0.5709,38,3,90.76
+2026-01-28,(direct) / (none),Direct,not_set,Desktop,United States,92,107,60,0.559,60,2,90.88
+2026-01-28,google / organic,Organic Search,not_set,Desktop,India,98,143,100,0.6986,72,8,444.02
+2026-01-28,yahoo / organic,Organic Search,not_set,Mobile,India,95,154,112,0.7298,100,11,606.04
+2026-01-28,instagram / social,Organic Social,not_set,Mobile,India,102,129,93,0.7201,85,1,23.83
+2026-01-28,linkedin / social,Organic Social,not_set,Mobile,Canada,98,131,85,0.6473,57,1,33.68
+2026-01-28,linkedin / social,Organic Social,not_set,Desktop,Australia,99,149,106,0.7087,73,5,135.38
+2026-01-28,google / cpc,Paid Search,brand_campaign,Mobile,United States,116,135,61,0.4498,63,7,491.08
+2026-01-28,blog.example.com / referral,Referral,not_set,Mobile,United Kingdom,106,147,109,0.7387,89,7,324.98
+2026-01-28,partner.com / referral,Referral,not_set,Desktop,India,97,158,116,0.7367,68,0,0.0
+2026-01-28,youtube.com / referral,Referral,not_set,Mobile,Canada,72,81,65,0.8047,89,1,57.28
+2026-01-29,(direct) / (none),Direct,not_set,Mobile,United States,89,96,59,0.6129,52,3,143.9
+2026-01-29,(direct) / (none),Direct,not_set,Mobile,United States,89,111,64,0.5771,75,4,117.24
+2026-01-29,(direct) / (none),Direct,not_set,Tablet,India,100,161,101,0.6259,47,4,113.35
+2026-01-29,(direct) / (none),Direct,not_set,Mobile,United States,95,114,60,0.5243,67,2,78.53
+2026-01-29,promo_email / email,Email,summer_sale,Desktop,India,96,156,110,0.7045,85,10,414.39
+2026-01-29,newsletter / email,Email,retargeting,Tablet,Australia,99,110,80,0.7231,108,10,544.41
+2026-01-29,bing / organic,Organic Search,not_set,Mobile,United States,107,115,77,0.6674,65,3,147.05
+2026-01-29,yahoo / organic,Organic Search,not_set,Desktop,Canada,110,136,83,0.61,76,6,135.5
+2026-01-29,bing / organic,Organic Search,not_set,Tablet,United Kingdom,100,125,86,0.6887,91,5,165.41
+2026-01-29,yahoo / organic,Organic Search,not_set,Desktop,India,83,116,70,0.6032,78,7,275.83
+2026-01-29,google / organic,Organic Search,not_set,Mobile,Australia,86,141,97,0.6855,74,5,109.07
+2026-01-29,yahoo / organic,Organic Search,not_set,Desktop,United Kingdom,94,125,85,0.6812,73,5,292.59
+2026-01-29,google / organic,Organic Search,not_set,Desktop,Australia,84,119,76,0.6388,86,5,97.87
+2026-01-29,google / organic,Organic Search,not_set,Mobile,India,89,114,81,0.7136,81,8,155.33
+2026-01-29,linkedin / social,Organic Social,not_set,Desktop,India,84,105,57,0.5438,62,4,133.91
+2026-01-29,bing / cpc,Paid Search,brand_campaign,Desktop,India,96,138,64,0.4653,58,9,316.71
+2026-01-29,bing / cpc,Paid Search,summer_sale,Mobile,United Kingdom,90,99,52,0.5209,36,1,35.25
+2026-01-29,google / cpc,Paid Search,retargeting,Desktop,India,96,151,70,0.4629,30,6,110.64
+2026-01-29,bing / cpc,Paid Search,summer_sale,Desktop,United States,109,124,61,0.4891,49,2,82.6
+2026-01-29,partner.com / referral,Referral,not_set,Mobile,United States,104,132,92,0.6941,69,5,192.77
+2026-01-29,blog.example.com / referral,Referral,not_set,Mobile,India,109,144,107,0.7433,86,2,124.22
+2026-01-29,blog.example.com / referral,Referral,not_set,Desktop,India,99,107,79,0.7362,72,2,43.53
+2026-01-29,youtube.com / referral,Referral,not_set,Mobile,United Kingdom,95,123,75,0.6089,82,5,322.6
+2026-01-30,(direct) / (none),Direct,not_set,Mobile,United Kingdom,102,137,65,0.4733,58,2,71.27
+2026-01-30,(direct) / (none),Direct,not_set,Desktop,India,114,162,88,0.545,55,5,330.37
+2026-01-30,(direct) / (none),Direct,not_set,Mobile,India,95,132,84,0.6398,54,5,292.91
+2026-01-30,(direct) / (none),Direct,not_set,Desktop,India,100,136,79,0.5793,36,3,98.02
+2026-01-30,bing / organic,Organic Search,not_set,Desktop,United States,105,119,85,0.7115,77,2,146.22
+2026-01-30,google / organic,Organic Search,not_set,Desktop,United States,103,165,129,0.7817,73,7,224.67
+2026-01-30,bing / organic,Organic Search,not_set,Mobile,Australia,113,176,113,0.6412,72,3,143.13
+2026-01-30,yahoo / organic,Organic Search,not_set,Mobile,India,104,119,87,0.7317,67,4,521.51
+2026-01-30,google / organic,Organic Search,not_set,Desktop,India,106,121,74,0.6112,64,3,130.4
+2026-01-30,bing / organic,Organic Search,not_set,Mobile,United States,107,162,123,0.7581,92,6,153.62
+2026-01-30,linkedin / social,Organic Social,not_set,Desktop,India,97,106,56,0.5263,83,4,131.87
+2026-01-30,bing / cpc,Paid Search,product_launch,Desktop,United States,94,133,74,0.5527,64,0,0.0
+2026-01-30,google / cpc,Paid Search,product_launch,Desktop,India,97,151,67,0.4425,51,7,374.22
+2026-01-30,google / cpc,Paid Search,brand_campaign,Desktop,United States,102,166,74,0.4444,55,6,201.8
+2026-01-30,blog.example.com / referral,Referral,not_set,Mobile,United States,111,171,121,0.7051,105,1,85.84
+2026-01-30,partner.com / referral,Referral,not_set,Mobile,United Kingdom,84,98,71,0.7252,88,5,83.76
+2026-01-31,(direct) / (none),Direct,not_set,Mobile,Australia,98,160,96,0.5983,57,5,76.5
+2026-01-31,(direct) / (none),Direct,not_set,Mobile,Australia,103,165,89,0.5413,54,5,114.35
+2026-01-31,(direct) / (none),Direct,not_set,Mobile,United Kingdom,92,136,78,0.5712,64,4,70.79
+2026-01-31,(direct) / (none),Direct,not_set,Mobile,India,108,176,106,0.6028,62,6,662.0
+2026-01-31,(direct) / (none),Direct,not_set,Mobile,India,98,120,68,0.5651,65,5,161.73
+2026-01-31,newsletter / email,Email,retargeting,Desktop,United States,91,112,74,0.659,91,5,707.15
+2026-01-31,google / organic,Organic Search,not_set,Desktop,United States,96,106,79,0.7431,67,3,47.49
+2026-01-31,bing / organic,Organic Search,not_set,Mobile,India,106,143,101,0.7035,100,4,109.2
+2026-01-31,google / organic,Organic Search,not_set,Mobile,Canada,100,109,82,0.7532,91,2,55.86
+2026-01-31,bing / organic,Organic Search,not_set,Desktop,India,109,165,114,0.688,53,4,111.31
+2026-01-31,google / organic,Organic Search,not_set,Mobile,India,99,129,81,0.627,78,5,346.55
+2026-01-31,facebook / social,Organic Social,not_set,Desktop,India,98,149,101,0.6746,57,2,68.6
+2026-01-31,facebook / social,Organic Social,not_set,Desktop,India,91,112,62,0.5566,74,1,22.91
+2026-01-31,linkedin / social,Organic Social,not_set,Mobile,India,104,139,88,0.6325,65,4,42.54
+2026-01-31,linkedin / social,Organic Social,not_set,Desktop,United States,124,145,86,0.5911,58,1,57.28
+2026-01-31,facebook / social,Organic Social,not_set,Mobile,Australia,96,147,99,0.6765,65,2,115.66
+2026-01-31,facebook / social,Organic Social,not_set,Mobile,India,89,124,78,0.6317,72,2,106.34
+2026-01-31,bing / cpc,Paid Search,brand_campaign,Mobile,United States,101,109,63,0.577,40,3,69.88
+2026-01-31,bing / cpc,Paid Search,brand_campaign,Desktop,Canada,111,174,80,0.4576,66,10,279.94
+2026-01-31,google / cpc,Paid Search,product_launch,Mobile,United States,102,147,74,0.5035,21,7,200.59
+2026-01-31,blog.example.com / referral,Referral,not_set,Desktop,Canada,110,174,137,0.7899,108,13,399.86
+2026-01-31,youtube.com / referral,Referral,not_set,Tablet,India,84,122,89,0.7255,88,4,134.21
+2026-01-31,youtube.com / referral,Referral,not_set,Desktop,India,103,113,86,0.7629,88,3,163.76
+2026-02-01,(direct) / (none),Direct,not_set,Tablet,India,115,154,80,0.5163,62,8,273.99
+2026-02-01,(direct) / (none),Direct,not_set,Mobile,United Kingdom,89,110,67,0.6084,50,4,121.28
+2026-02-01,(direct) / (none),Direct,not_set,Mobile,India,86,134,64,0.4809,60,6,97.16
+2026-02-01,promo_email / email,Email,product_launch,Desktop,India,101,127,95,0.7502,82,3,149.87
+2026-02-01,google / organic,Organic Search,not_set,Desktop,India,88,95,58,0.6059,76,2,73.21
+2026-02-01,google / organic,Organic Search,not_set,Desktop,India,112,136,83,0.6129,63,7,219.71
+2026-02-01,google / organic,Organic Search,not_set,Desktop,United States,100,158,106,0.6692,88,9,442.28
+2026-02-01,bing / organic,Organic Search,not_set,Tablet,India,114,177,111,0.626,75,8,411.72
+2026-02-01,bing / organic,Organic Search,not_set,Mobile,Australia,102,118,76,0.6473,73,4,150.4
+2026-02-01,yahoo / organic,Organic Search,not_set,Desktop,Australia,102,118,84,0.7105,69,4,91.42
+2026-02-01,bing / organic,Organic Search,not_set,Mobile,India,94,150,99,0.6618,74,2,100.11
+2026-02-01,yahoo / organic,Organic Search,not_set,Mobile,Australia,93,144,98,0.6805,78,5,132.62
+2026-02-01,yahoo / organic,Organic Search,not_set,Mobile,Australia,93,99,62,0.6253,82,3,110.3
+2026-02-01,google / organic,Organic Search,not_set,Mobile,India,101,129,86,0.665,61,6,373.77
+2026-02-01,linkedin / social,Organic Social,not_set,Mobile,Australia,85,89,54,0.6075,58,0,0.0
+2026-02-01,linkedin / social,Organic Social,not_set,Mobile,India,110,140,89,0.6372,58,3,307.46
+2026-02-01,facebook / social,Organic Social,not_set,Mobile,Australia,106,127,78,0.6158,75,6,199.74
+2026-02-01,google / cpc,Paid Search,retargeting,Desktop,India,85,134,57,0.4222,49,1,49.77
+2026-02-01,google / cpc,Paid Search,product_launch,Mobile,United States,107,114,56,0.4942,40,8,241.22
+2026-02-01,partner.com / referral,Referral,not_set,Mobile,India,95,147,98,0.6662,93,9,532.42
+2026-02-01,blog.example.com / referral,Referral,not_set,Mobile,United States,107,171,103,0.6051,75,7,241.27
+2026-02-01,blog.example.com / referral,Referral,not_set,Mobile,Canada,75,100,65,0.655,97,7,288.47
+2026-02-01,partner.com / referral,Referral,not_set,Mobile,United States,114,166,129,0.7783,88,6,184.0
+2026-02-02,(direct) / (none),Direct,not_set,Mobile,India,107,115,63,0.5515,63,5,83.93
+2026-02-02,(direct) / (none),Direct,not_set,Desktop,India,77,84,44,0.5283,44,1,31.34
+2026-02-02,(direct) / (none),Direct,not_set,Desktop,United States,101,150,76,0.508,52,5,196.27
+2026-02-02,google / organic,Organic Search,not_set,Desktop,United States,100,121,94,0.7765,87,4,404.54
+2026-02-02,bing / organic,Organic Search,not_set,Mobile,United States,96,110,82,0.7487,59,6,262.23
+2026-02-02,google / organic,Organic Search,not_set,Tablet,Canada,91,99,59,0.5911,70,5,88.83
+2026-02-02,google / organic,Organic Search,not_set,Desktop,India,101,164,116,0.7054,66,7,209.43
+2026-02-02,google / organic,Organic Search,not_set,Desktop,Canada,96,120,85,0.711,78,5,241.15
+2026-02-02,google / organic,Organic Search,not_set,Mobile,India,89,122,76,0.6258,54,6,225.11
+2026-02-02,yahoo / organic,Organic Search,not_set,Mobile,United States,97,118,92,0.7756,68,8,466.86
+2026-02-02,google / organic,Organic Search,not_set,Mobile,India,112,165,105,0.6352,87,8,300.37
+2026-02-02,google / organic,Organic Search,not_set,Mobile,United Kingdom,95,126,77,0.6087,83,7,278.0
+2026-02-02,facebook / social,Organic Social,not_set,Mobile,United States,113,152,74,0.4896,66,3,61.62
+2026-02-02,facebook / social,Organic Social,not_set,Mobile,United States,96,115,71,0.6175,56,1,38.19
+2026-02-02,linkedin / social,Organic Social,not_set,Desktop,Australia,89,115,71,0.6161,64,3,108.31
+2026-02-02,linkedin / social,Organic Social,not_set,Desktop,India,104,111,70,0.6268,63,2,108.86
+2026-02-02,google / cpc,Paid Search,product_launch,Desktop,United States,110,116,50,0.4311,44,5,97.59
+2026-02-02,bing / cpc,Paid Search,brand_campaign,Tablet,United Kingdom,98,112,59,0.527,40,4,122.28
+2026-02-02,bing / cpc,Paid Search,brand_campaign,Desktop,Australia,83,123,60,0.4887,63,7,132.88
+2026-02-02,google / cpc,Paid Search,retargeting,Desktop,United States,101,124,47,0.376,65,4,159.88
+2026-02-02,bing / cpc,Paid Search,brand_campaign,Mobile,India,100,149,71,0.4759,39,17,656.5
+2026-02-02,bing / cpc,Paid Search,retargeting,Mobile,United States,99,113,54,0.4805,70,5,114.25
+2026-02-02,google / cpc,Paid Search,retargeting,Mobile,United States,108,135,57,0.4202,52,4,105.19
+2026-02-02,google / cpc,Paid Search,retargeting,Mobile,United States,102,143,55,0.3878,31,5,146.01
+2026-02-02,google / cpc,Paid Search,retargeting,Mobile,India,117,142,82,0.5792,42,1,37.72
+2026-02-02,blog.example.com / referral,Referral,not_set,Mobile,Canada,107,145,109,0.755,102,4,228.67
+2026-02-02,blog.example.com / referral,Referral,not_set,Mobile,India,105,117,72,0.6154,92,1,59.76
+2026-02-02,partner.com / referral,Referral,not_set,Mobile,Canada,106,128,96,0.7528,87,2,105.17
+2026-02-02,partner.com / referral,Referral,not_set,Tablet,India,97,123,84,0.6854,67,3,88.37
+2026-02-03,(direct) / (none),Direct,not_set,Mobile,India,87,137,62,0.4551,67,6,305.41
+2026-02-03,newsletter / email,Email,brand_campaign,Mobile,India,88,100,75,0.7485,82,7,490.91
+2026-02-03,promo_email / email,Email,brand_campaign,Mobile,United States,103,123,105,0.8567,119,3,74.18
+2026-02-03,linkedin / social,Organic Social,not_set,Mobile,India,94,117,81,0.6919,66,1,35.53
+2026-02-03,instagram / social,Organic Social,not_set,Mobile,Australia,107,135,80,0.5916,80,4,170.18
+2026-02-03,linkedin / social,Organic Social,not_set,Desktop,India,98,160,101,0.632,70,2,51.88
+2026-02-03,bing / cpc,Paid Search,product_launch,Mobile,United States,112,124,68,0.5457,44,3,94.66
+2026-02-03,blog.example.com / referral,Referral,not_set,Desktop,India,96,119,89,0.7501,92,3,60.9
+2026-02-03,youtube.com / referral,Referral,not_set,Mobile,Canada,104,141,92,0.6541,104,2,49.5
+2026-02-04,(direct) / (none),Direct,not_set,Desktop,Australia,96,149,74,0.4971,76,10,612.1
+2026-02-04,(direct) / (none),Direct,not_set,Mobile,India,100,151,82,0.5451,67,5,269.1
+2026-02-04,promo_email / email,Email,summer_sale,Desktop,India,96,139,119,0.8581,97,3,158.92
+2026-02-04,promo_email / email,Email,product_launch,Mobile,India,115,138,101,0.7297,93,5,169.44
+2026-02-04,google / organic,Organic Search,not_set,Mobile,India,102,165,112,0.6791,69,10,515.07
+2026-02-04,bing / organic,Organic Search,not_set,Desktop,India,92,132,91,0.6889,66,8,254.63
+2026-02-04,bing / organic,Organic Search,not_set,Mobile,United States,100,126,84,0.6656,98,8,164.97
+2026-02-04,google / organic,Organic Search,not_set,Desktop,India,88,99,76,0.7699,83,6,156.51
+2026-02-04,google / organic,Organic Search,not_set,Mobile,Canada,107,161,105,0.653,74,5,129.3
+2026-02-04,google / organic,Organic Search,not_set,Desktop,Canada,106,114,73,0.6382,89,9,653.54
+2026-02-04,google / organic,Organic Search,not_set,Mobile,India,96,118,78,0.6622,85,2,82.2
+2026-02-04,yahoo / organic,Organic Search,not_set,Mobile,United States,88,99,61,0.6127,79,2,100.69
+2026-02-04,yahoo / organic,Organic Search,not_set,Desktop,United States,95,117,88,0.7482,75,3,112.71
+2026-02-04,google / organic,Organic Search,not_set,Mobile,United States,119,186,120,0.6426,79,14,402.11
+2026-02-04,linkedin / social,Organic Social,not_set,Mobile,United Kingdom,111,162,91,0.5615,54,6,171.11
+2026-02-04,linkedin / social,Organic Social,not_set,Desktop,United States,103,143,78,0.5434,73,3,153.55
+2026-02-04,instagram / social,Organic Social,not_set,Mobile,India,94,137,86,0.6298,65,0,0.0
+2026-02-04,instagram / social,Organic Social,not_set,Mobile,India,122,135,96,0.7074,65,1,30.84
+2026-02-04,google / cpc,Paid Search,product_launch,Mobile,Australia,105,151,63,0.416,58,11,516.94
+2026-02-04,bing / cpc,Paid Search,retargeting,Desktop,United Kingdom,99,154,36,0.2361,68,5,178.1
+2026-02-05,(direct) / (none),Direct,not_set,Mobile,India,101,127,83,0.6524,65,6,202.77
+2026-02-05,(direct) / (none),Direct,not_set,Mobile,India,102,132,88,0.6668,63,8,154.77
+2026-02-05,(direct) / (none),Direct,not_set,Tablet,United States,107,149,94,0.6281,75,2,36.94
+2026-02-05,newsletter / email,Email,brand_campaign,Mobile,United States,112,145,108,0.7443,93,11,371.7
+2026-02-05,newsletter / email,Email,product_launch,Mobile,India,103,125,90,0.7211,80,7,197.26
+2026-02-05,bing / organic,Organic Search,not_set,Desktop,India,111,167,109,0.6551,80,2,85.57
+2026-02-05,bing / organic,Organic Search,not_set,Mobile,India,90,125,85,0.6789,98,7,261.97
+2026-02-05,google / organic,Organic Search,not_set,Desktop,United States,101,163,98,0.6009,58,10,390.6
+2026-02-05,google / organic,Organic Search,not_set,Desktop,United States,106,171,128,0.7505,89,8,204.56
+2026-02-05,google / organic,Organic Search,not_set,Desktop,United States,98,150,106,0.7084,59,7,398.09
+2026-02-05,google / organic,Organic Search,not_set,Desktop,India,88,126,86,0.6863,71,9,196.86
+2026-02-05,instagram / social,Organic Social,not_set,Tablet,India,93,134,74,0.5501,65,3,174.52
+2026-02-05,facebook / social,Organic Social,not_set,Mobile,United Kingdom,99,138,91,0.658,61,2,108.85
+2026-02-05,facebook / social,Organic Social,not_set,Mobile,India,110,118,72,0.6101,86,4,196.31
+2026-02-05,bing / cpc,Paid Search,brand_campaign,Desktop,India,103,170,78,0.4561,60,11,430.15
+2026-02-05,bing / cpc,Paid Search,summer_sale,Desktop,India,108,117,66,0.5643,58,3,147.88
+2026-02-05,google / cpc,Paid Search,summer_sale,Desktop,Australia,102,115,52,0.4544,51,4,110.41
+2026-02-05,bing / cpc,Paid Search,summer_sale,Mobile,India,115,156,62,0.3958,38,5,269.38
+2026-02-05,google / cpc,Paid Search,product_launch,Mobile,India,109,134,55,0.4117,57,4,114.58
+2026-02-06,(direct) / (none),Direct,not_set,Desktop,United Kingdom,92,120,63,0.529,42,5,121.69
+2026-02-06,(direct) / (none),Direct,not_set,Desktop,United States,112,132,66,0.4967,61,3,88.36
+2026-02-06,(direct) / (none),Direct,not_set,Mobile,United Kingdom,112,162,78,0.4826,63,6,286.78
+2026-02-06,(direct) / (none),Direct,not_set,Mobile,United States,90,99,43,0.4366,67,2,131.18
+2026-02-06,promo_email / email,Email,brand_campaign,Mobile,Australia,92,126,91,0.7214,106,9,295.89
+2026-02-06,newsletter / email,Email,retargeting,Mobile,United Kingdom,91,130,106,0.8154,102,4,143.06
+2026-02-06,bing / organic,Organic Search,not_set,Desktop,India,99,129,102,0.7927,77,3,101.15
+2026-02-06,yahoo / organic,Organic Search,not_set,Mobile,United States,96,120,78,0.6504,76,5,124.63
+2026-02-06,bing / organic,Organic Search,not_set,Desktop,India,94,155,103,0.6674,95,2,121.28
+2026-02-06,bing / organic,Organic Search,not_set,Desktop,India,114,141,86,0.6083,67,1,29.14
+2026-02-06,google / organic,Organic Search,not_set,Desktop,Canada,94,154,104,0.6782,76,8,428.5
+2026-02-06,bing / organic,Organic Search,not_set,Desktop,India,102,114,87,0.7594,69,5,154.83
+2026-02-06,bing / organic,Organic Search,not_set,Mobile,India,88,96,73,0.7589,58,10,403.25
+2026-02-06,linkedin / social,Organic Social,not_set,Desktop,Canada,101,133,94,0.7078,67,4,108.65
+2026-02-06,facebook / social,Organic Social,not_set,Desktop,United States,100,155,99,0.6363,73,1,49.95
+2026-02-06,bing / cpc,Paid Search,product_launch,Desktop,India,106,129,52,0.4051,60,5,132.3
+2026-02-06,google / cpc,Paid Search,brand_campaign,Mobile,India,98,152,80,0.5232,62,7,397.89
+2026-02-06,bing / cpc,Paid Search,brand_campaign,Desktop,United States,93,121,63,0.5199,43,5,568.56
+2026-02-06,bing / cpc,Paid Search,retargeting,Mobile,Australia,102,117,61,0.5175,31,4,102.73
+2026-02-06,google / cpc,Paid Search,summer_sale,Mobile,United States,112,140,67,0.4777,59,4,156.8
+2026-02-06,blog.example.com / referral,Referral,not_set,Desktop,Canada,122,194,144,0.7403,101,9,146.96
+2026-02-07,(direct) / (none),Direct,not_set,Mobile,United Kingdom,100,162,65,0.4031,71,4,95.39
+2026-02-07,(direct) / (none),Direct,not_set,Mobile,India,112,140,95,0.6757,74,1,89.77
+2026-02-07,(direct) / (none),Direct,not_set,Desktop,India,104,141,73,0.5162,52,7,331.95
+2026-02-07,(direct) / (none),Direct,not_set,Desktop,United States,108,175,125,0.7146,78,5,172.67
+2026-02-07,newsletter / email,Email,summer_sale,Desktop,India,108,174,119,0.6818,84,6,141.58
+2026-02-07,bing / organic,Organic Search,not_set,Mobile,India,90,99,67,0.6788,104,4,103.29
+2026-02-07,yahoo / organic,Organic Search,not_set,Desktop,United States,92,102,79,0.7792,62,0,0.0
+2026-02-07,yahoo / organic,Organic Search,not_set,Mobile,United States,96,136,92,0.6757,90,11,271.69
+2026-02-07,yahoo / organic,Organic Search,not_set,Mobile,United Kingdom,99,162,105,0.6482,80,6,356.31
+2026-02-07,bing / organic,Organic Search,not_set,Mobile,India,92,131,85,0.6456,67,5,85.95
+2026-02-07,bing / organic,Organic Search,not_set,Mobile,India,88,103,80,0.7747,76,5,131.46
+2026-02-07,instagram / social,Organic Social,not_set,Desktop,United Kingdom,112,158,92,0.585,82,3,132.39
+2026-02-07,facebook / social,Organic Social,not_set,Desktop,United States,94,141,89,0.6282,43,2,67.27
+2026-02-07,google / cpc,Paid Search,summer_sale,Mobile,India,100,121,65,0.5382,59,6,269.63
+2026-02-07,bing / cpc,Paid Search,summer_sale,Desktop,United States,107,113,59,0.5184,44,5,186.41
+2026-02-07,youtube.com / referral,Referral,not_set,Tablet,United States,93,130,94,0.7209,81,3,115.58
+2026-02-07,blog.example.com / referral,Referral,not_set,Desktop,United Kingdom,105,122,85,0.6983,70,2,42.04
+2026-02-08,(direct) / (none),Direct,not_set,Mobile,India,106,172,79,0.4568,51,5,94.86
+2026-02-08,(direct) / (none),Direct,not_set,Mobile,India,82,93,48,0.5208,51,3,134.27
+2026-02-08,(direct) / (none),Direct,not_set,Mobile,United States,111,130,71,0.5436,57,9,155.65
+2026-02-08,yahoo / organic,Organic Search,not_set,Mobile,Canada,99,140,96,0.6831,85,7,343.3
+2026-02-08,bing / organic,Organic Search,not_set,Desktop,United Kingdom,94,101,62,0.6113,89,5,318.94
+2026-02-08,bing / organic,Organic Search,not_set,Desktop,Australia,86,120,85,0.7106,63,4,78.15
+2026-02-08,yahoo / organic,Organic Search,not_set,Tablet,India,98,104,66,0.6365,88,4,149.46
+2026-02-08,bing / organic,Organic Search,not_set,Mobile,United States,106,127,79,0.6244,60,4,270.81
+2026-02-08,google / organic,Organic Search,not_set,Mobile,India,95,152,99,0.6536,61,7,608.96
+2026-02-08,linkedin / social,Organic Social,not_set,Mobile,United Kingdom,100,116,74,0.6412,53,2,104.62
+2026-02-08,instagram / social,Organic Social,not_set,Tablet,India,112,185,123,0.6629,50,7,266.79
+2026-02-08,linkedin / social,Organic Social,not_set,Mobile,United States,110,143,76,0.5312,58,2,166.43
+2026-02-08,bing / cpc,Paid Search,retargeting,Mobile,India,81,119,46,0.386,54,7,137.45
+2026-02-08,google / cpc,Paid Search,brand_campaign,Desktop,India,112,138,33,0.2389,48,6,346.75
+2026-02-09,(direct) / (none),Direct,not_set,Mobile,United States,89,142,69,0.4832,74,2,91.68
+2026-02-09,(direct) / (none),Direct,not_set,Desktop,India,85,123,75,0.6078,74,8,727.53
+2026-02-09,(direct) / (none),Direct,not_set,Mobile,India,93,143,94,0.6595,69,4,85.6
+2026-02-09,(direct) / (none),Direct,not_set,Desktop,India,100,114,60,0.5282,67,3,67.25
+2026-02-09,(direct) / (none),Direct,not_set,Mobile,India,108,118,66,0.556,52,2,147.47
+2026-02-09,promo_email / email,Email,retargeting,Mobile,India,99,149,115,0.7705,106,11,384.49
+2026-02-09,promo_email / email,Email,brand_campaign,Mobile,United Kingdom,83,128,92,0.7177,97,9,350.61
+2026-02-09,google / organic,Organic Search,not_set,Mobile,Canada,101,128,83,0.6448,90,1,40.68
+2026-02-09,bing / organic,Organic Search,not_set,Desktop,India,122,169,109,0.6427,75,6,392.46
+2026-02-09,bing / organic,Organic Search,not_set,Desktop,United Kingdom,91,149,112,0.7534,49,10,656.81
+2026-02-09,yahoo / organic,Organic Search,not_set,Desktop,United States,89,116,74,0.6371,78,5,229.14
+2026-02-09,yahoo / organic,Organic Search,not_set,Desktop,India,105,131,92,0.7021,90,7,368.86
+2026-02-09,facebook / social,Organic Social,not_set,Desktop,India,108,117,83,0.7054,67,3,112.97
+2026-02-09,google / cpc,Paid Search,product_launch,Mobile,United Kingdom,102,132,67,0.5109,75,8,329.52
+2026-02-09,bing / cpc,Paid Search,product_launch,Mobile,Canada,95,155,63,0.4078,41,8,590.53
+2026-02-09,google / cpc,Paid Search,summer_sale,Desktop,United Kingdom,102,135,72,0.5343,49,5,199.7
+2026-02-09,google / cpc,Paid Search,retargeting,Mobile,India,96,157,77,0.4914,40,5,212.22
+2026-02-09,youtube.com / referral,Referral,not_set,Desktop,United States,85,94,66,0.6996,63,1,31.06
+2026-02-10,(direct) / (none),Direct,not_set,Desktop,United States,118,136,76,0.5574,86,4,123.8
+2026-02-10,(direct) / (none),Direct,not_set,Desktop,India,105,123,69,0.5579,57,4,74.68
+2026-02-10,(direct) / (none),Direct,not_set,Desktop,United States,94,104,59,0.5644,46,3,121.95
+2026-02-10,(direct) / (none),Direct,not_set,Mobile,India,106,130,71,0.5475,66,5,229.8
+2026-02-10,promo_email / email,Email,brand_campaign,Mobile,India,98,158,102,0.6441,109,12,341.46
+2026-02-10,newsletter / email,Email,retargeting,Mobile,India,104,111,78,0.7049,53,8,417.13
+2026-02-10,yahoo / organic,Organic Search,not_set,Desktop,India,88,140,83,0.5918,92,8,369.51
+2026-02-10,google / organic,Organic Search,not_set,Desktop,United States,100,138,94,0.6842,88,5,183.85
+2026-02-10,google / organic,Organic Search,not_set,Desktop,India,91,126,88,0.6995,80,8,919.01
+2026-02-10,bing / organic,Organic Search,not_set,Mobile,India,92,135,92,0.6836,71,9,505.81
+2026-02-10,yahoo / organic,Organic Search,not_set,Desktop,Australia,104,159,108,0.6778,80,8,415.75
+2026-02-10,bing / organic,Organic Search,not_set,Desktop,India,103,138,89,0.6417,60,5,146.12
+2026-02-10,yahoo / organic,Organic Search,not_set,Tablet,India,117,138,100,0.7275,65,5,213.89
+2026-02-10,yahoo / organic,Organic Search,not_set,Mobile,United States,99,151,107,0.708,79,11,213.31
+2026-02-10,facebook / social,Organic Social,not_set,Desktop,Australia,92,125,73,0.588,67,2,86.48
+2026-02-10,linkedin / social,Organic Social,not_set,Desktop,United Kingdom,110,152,93,0.6088,66,0,0.0
+2026-02-10,bing / cpc,Paid Search,brand_campaign,Desktop,India,96,131,64,0.4904,53,5,238.58
+2026-02-10,google / cpc,Paid Search,brand_campaign,Mobile,India,96,143,81,0.5632,59,9,194.27
+2026-02-10,google / cpc,Paid Search,retargeting,Mobile,Australia,102,157,82,0.5221,42,5,208.89
+2026-02-10,google / cpc,Paid Search,brand_campaign,Tablet,India,103,126,65,0.517,40,5,251.23
+2026-02-10,bing / cpc,Paid Search,brand_campaign,Mobile,India,116,127,64,0.5043,46,4,142.03
+2026-02-10,google / cpc,Paid Search,summer_sale,Mobile,India,129,212,106,0.4994,42,5,138.59
+2026-02-10,partner.com / referral,Referral,not_set,Desktop,India,111,153,119,0.7767,73,3,194.72
+2026-02-10,blog.example.com / referral,Referral,not_set,Desktop,United States,96,124,83,0.6729,66,4,333.43
+2026-02-11,(direct) / (none),Direct,not_set,Mobile,India,106,163,99,0.6095,77,3,122.58
+2026-02-11,(direct) / (none),Direct,not_set,Mobile,United States,98,132,87,0.6555,60,3,247.09
+2026-02-11,(direct) / (none),Direct,not_set,Desktop,India,99,149,70,0.4713,64,3,86.55
+2026-02-11,(direct) / (none),Direct,not_set,Desktop,India,102,168,73,0.4316,60,9,324.82
+2026-02-11,newsletter / email,Email,brand_campaign,Mobile,United States,91,133,92,0.6919,99,5,161.06
+2026-02-11,google / organic,Organic Search,not_set,Mobile,India,96,134,89,0.6628,80,2,96.97
+2026-02-11,yahoo / organic,Organic Search,not_set,Mobile,India,94,154,95,0.6136,56,3,121.59
+2026-02-11,google / organic,Organic Search,not_set,Desktop,India,106,136,84,0.6189,71,8,234.81
+2026-02-11,yahoo / organic,Organic Search,not_set,Mobile,India,90,117,79,0.6788,79,10,549.9
+2026-02-11,google / organic,Organic Search,not_set,Mobile,United States,91,146,109,0.7438,74,7,106.61
+2026-02-11,facebook / social,Organic Social,not_set,Mobile,India,114,147,98,0.6669,70,2,86.79
+2026-02-11,google / cpc,Paid Search,brand_campaign,Desktop,Canada,107,176,105,0.5971,48,4,101.23
+2026-02-11,google / cpc,Paid Search,brand_campaign,Mobile,India,107,175,78,0.4442,37,6,173.73
+2026-02-11,bing / cpc,Paid Search,brand_campaign,Mobile,United States,103,151,77,0.5074,36,5,175.22
+2026-02-11,bing / cpc,Paid Search,product_launch,Desktop,Canada,105,161,99,0.6164,41,5,167.13
+2026-02-11,blog.example.com / referral,Referral,not_set,Mobile,India,92,106,76,0.7152,79,2,190.99
+2026-02-12,(direct) / (none),Direct,not_set,Tablet,India,112,165,91,0.5514,67,5,346.37
+2026-02-12,(direct) / (none),Direct,not_set,Desktop,India,92,99,40,0.4004,40,0,0.0
+2026-02-12,(direct) / (none),Direct,not_set,Mobile,United States,97,125,80,0.6403,68,3,46.13
+2026-02-12,promo_email / email,Email,retargeting,Desktop,India,91,122,89,0.7285,96,3,78.08
+2026-02-12,promo_email / email,Email,product_launch,Desktop,United States,97,115,78,0.6782,98,9,436.65
+2026-02-12,yahoo / organic,Organic Search,not_set,Tablet,India,99,124,80,0.6485,82,6,237.41
+2026-02-12,yahoo / organic,Organic Search,not_set,Mobile,India,97,131,99,0.7556,95,8,525.32
+2026-02-12,google / organic,Organic Search,not_set,Mobile,United States,101,123,81,0.6576,83,9,326.2
+2026-02-12,google / organic,Organic Search,not_set,Mobile,United States,101,131,92,0.6999,101,2,75.0
+2026-02-12,bing / organic,Organic Search,not_set,Desktop,United States,101,124,73,0.591,65,4,112.04
+2026-02-12,google / organic,Organic Search,not_set,Mobile,United States,110,130,95,0.7281,84,4,164.23
+2026-02-12,yahoo / organic,Organic Search,not_set,Mobile,United States,105,155,105,0.6801,76,9,168.29
+2026-02-12,yahoo / organic,Organic Search,not_set,Desktop,United Kingdom,107,164,114,0.6976,91,11,318.71
+2026-02-12,linkedin / social,Organic Social,not_set,Tablet,Canada,97,152,84,0.5558,54,3,136.37
+2026-02-12,bing / cpc,Paid Search,brand_campaign,Tablet,India,95,138,53,0.3816,45,5,135.06
+2026-02-12,bing / cpc,Paid Search,summer_sale,Mobile,Australia,97,146,60,0.4125,39,8,139.76
+2026-02-12,google / cpc,Paid Search,brand_campaign,Mobile,India,93,153,69,0.4505,49,7,181.89
+2026-02-12,blog.example.com / referral,Referral,not_set,Desktop,India,100,138,104,0.7538,75,2,100.9
+2026-02-12,blog.example.com / referral,Referral,not_set,Mobile,India,93,123,95,0.7707,79,5,326.14
+2026-02-13,(direct) / (none),Direct,not_set,Mobile,Canada,104,120,72,0.5989,48,5,269.4
+2026-02-13,(direct) / (none),Direct,not_set,Mobile,United States,91,113,71,0.6283,29,4,294.71
+2026-02-13,(direct) / (none),Direct,not_set,Mobile,Canada,115,127,67,0.5263,39,4,184.58
+2026-02-13,(direct) / (none),Direct,not_set,Mobile,India,112,148,78,0.525,70,6,139.67
+2026-02-13,(direct) / (none),Direct,not_set,Desktop,United States,123,136,89,0.6519,67,3,220.89
+2026-02-13,(direct) / (none),Direct,not_set,Mobile,United States,90,123,67,0.5462,38,2,75.24
+2026-02-13,bing / organic,Organic Search,not_set,Desktop,United Kingdom,109,150,94,0.6257,95,8,540.39
+2026-02-13,yahoo / organic,Organic Search,not_set,Desktop,India,106,137,86,0.6275,83,7,272.65
+2026-02-13,yahoo / organic,Organic Search,not_set,Mobile,India,106,118,90,0.7592,86,4,83.3
+2026-02-13,google / organic,Organic Search,not_set,Desktop,India,101,121,83,0.6871,45,7,214.81
+2026-02-13,google / organic,Organic Search,not_set,Mobile,India,87,132,80,0.607,90,3,128.2
+2026-02-13,bing / organic,Organic Search,not_set,Desktop,India,87,122,98,0.8,96,5,262.49
+2026-02-13,google / organic,Organic Search,not_set,Desktop,Canada,99,122,83,0.6806,95,7,172.86
+2026-02-13,instagram / social,Organic Social,not_set,Desktop,India,85,98,57,0.5816,62,0,0.0
+2026-02-13,facebook / social,Organic Social,not_set,Desktop,United States,112,156,82,0.5238,67,4,253.63
+2026-02-13,bing / cpc,Paid Search,brand_campaign,Mobile,Canada,88,126,57,0.4491,58,5,300.43
+2026-02-13,bing / cpc,Paid Search,brand_campaign,Mobile,United States,93,108,46,0.4215,29,4,216.49
+2026-02-13,youtube.com / referral,Referral,not_set,Mobile,India,99,122,88,0.7173,88,3,157.16
+2026-02-14,(direct) / (none),Direct,not_set,Mobile,India,107,165,90,0.5451,64,5,165.5
+2026-02-14,(direct) / (none),Direct,not_set,Mobile,India,87,134,83,0.6173,60,2,122.98
+2026-02-14,(direct) / (none),Direct,not_set,Desktop,United States,99,160,103,0.6407,57,4,142.42
+2026-02-14,google / organic,Organic Search,not_set,Desktop,India,106,134,79,0.591,86,3,191.94
+2026-02-14,google / organic,Organic Search,not_set,Mobile,India,85,99,67,0.6727,92,7,258.03
+2026-02-14,bing / organic,Organic Search,not_set,Desktop,India,98,145,85,0.5845,55,11,268.52
+2026-02-14,google / organic,Organic Search,not_set,Mobile,India,96,146,85,0.583,64,10,196.27
+2026-02-14,google / organic,Organic Search,not_set,Desktop,Canada,102,110,75,0.6827,83,5,230.36
+2026-02-14,yahoo / organic,Organic Search,not_set,Desktop,India,96,113,79,0.6967,58,5,163.14
+2026-02-14,google / organic,Organic Search,not_set,Mobile,Canada,86,116,80,0.688,80,6,220.34
+2026-02-14,instagram / social,Organic Social,not_set,Desktop,India,104,120,73,0.6107,59,4,326.13
+2026-02-14,linkedin / social,Organic Social,not_set,Mobile,India,95,113,71,0.6254,70,3,109.32
+2026-02-14,facebook / social,Organic Social,not_set,Desktop,India,106,174,113,0.6509,75,0,0.0
+2026-02-14,instagram / social,Organic Social,not_set,Mobile,India,88,142,90,0.6368,67,2,55.21
+2026-02-14,google / cpc,Paid Search,retargeting,Mobile,India,107,147,59,0.4002,72,1,26.8
+2026-02-14,bing / cpc,Paid Search,retargeting,Tablet,Canada,87,126,57,0.4538,73,4,296.6
+2026-02-14,bing / cpc,Paid Search,brand_campaign,Tablet,Australia,96,132,64,0.4843,56,3,314.9
+2026-02-14,google / cpc,Paid Search,product_launch,Mobile,India,108,163,80,0.4937,37,5,216.1
+2026-02-14,bing / cpc,Paid Search,product_launch,Tablet,United States,98,113,49,0.4367,43,4,156.47
+2026-02-14,google / cpc,Paid Search,summer_sale,Mobile,United States,95,125,74,0.5893,46,4,107.33
+2026-02-14,youtube.com / referral,Referral,not_set,Desktop,India,101,124,85,0.6838,106,5,138.28
+2026-02-15,(direct) / (none),Direct,not_set,Tablet,Canada,96,114,68,0.599,41,1,41.81
+2026-02-15,promo_email / email,Email,brand_campaign,Mobile,United States,113,166,108,0.6519,93,16,1065.09
+2026-02-15,bing / organic,Organic Search,not_set,Desktop,United Kingdom,104,167,117,0.7028,92,4,208.57
+2026-02-15,bing / organic,Organic Search,not_set,Mobile,India,120,146,91,0.6231,78,5,193.22
+2026-02-15,yahoo / organic,Organic Search,not_set,Desktop,United Kingdom,118,154,113,0.7342,88,8,417.85
+2026-02-15,yahoo / organic,Organic Search,not_set,Desktop,India,96,151,104,0.6905,54,6,100.48
+2026-02-15,yahoo / organic,Organic Search,not_set,Mobile,United States,107,169,124,0.7313,67,6,111.19
+2026-02-15,google / organic,Organic Search,not_set,Desktop,United States,96,107,67,0.6259,69,6,175.88
+2026-02-15,bing / organic,Organic Search,not_set,Mobile,India,88,122,84,0.6853,60,2,53.9
+2026-02-15,bing / organic,Organic Search,not_set,Mobile,United States,97,132,84,0.6369,72,5,268.64
+2026-02-15,instagram / social,Organic Social,not_set,Desktop,India,90,129,80,0.6199,58,5,130.53
+2026-02-15,google / cpc,Paid Search,product_launch,Desktop,India,114,182,103,0.564,43,11,991.31
+2026-02-15,partner.com / referral,Referral,not_set,Desktop,India,106,123,86,0.7014,92,3,139.99
+2026-02-15,youtube.com / referral,Referral,not_set,Desktop,India,105,117,91,0.7767,109,4,143.2
+2026-02-15,youtube.com / referral,Referral,not_set,Desktop,Australia,100,150,104,0.6946,100,3,80.67
+2026-02-16,(direct) / (none),Direct,not_set,Mobile,India,114,141,64,0.4534,67,3,86.89
+2026-02-16,(direct) / (none),Direct,not_set,Mobile,India,95,113,59,0.5189,52,3,67.95
+2026-02-16,promo_email / email,Email,brand_campaign,Mobile,India,100,119,89,0.7507,112,6,117.11
+2026-02-16,promo_email / email,Email,brand_campaign,Mobile,India,96,104,81,0.7799,95,9,600.12
+2026-02-16,yahoo / organic,Organic Search,not_set,Desktop,India,94,120,83,0.6946,88,3,114.56
+2026-02-16,bing / organic,Organic Search,not_set,Tablet,India,114,149,102,0.6856,74,8,579.39
+2026-02-16,google / organic,Organic Search,not_set,Mobile,India,102,123,91,0.7404,95,6,282.85
+2026-02-16,google / organic,Organic Search,not_set,Desktop,India,80,84,52,0.6236,76,3,75.65
+2026-02-16,yahoo / organic,Organic Search,not_set,Mobile,Australia,96,124,90,0.7278,55,5,205.44
+2026-02-16,bing / organic,Organic Search,not_set,Mobile,United States,112,143,96,0.6721,90,8,267.86
+2026-02-16,linkedin / social,Organic Social,not_set,Mobile,India,103,127,91,0.7129,62,7,244.32
+2026-02-16,linkedin / social,Organic Social,not_set,Mobile,India,103,129,65,0.5027,70,2,67.14
+2026-02-16,bing / cpc,Paid Search,retargeting,Mobile,Australia,91,148,68,0.4608,54,5,123.97
+2026-02-16,bing / cpc,Paid Search,brand_campaign,Desktop,India,106,169,81,0.4808,48,5,445.36
+2026-02-16,bing / cpc,Paid Search,summer_sale,Mobile,India,103,112,59,0.5311,53,7,194.08
+2026-02-16,google / cpc,Paid Search,retargeting,Mobile,United States,102,158,77,0.4845,41,9,267.58
+2026-02-16,google / cpc,Paid Search,product_launch,Mobile,India,96,157,72,0.4566,63,4,166.73
+2026-02-16,bing / cpc,Paid Search,product_launch,Desktop,India,108,123,49,0.3998,49,3,152.1
+2026-02-16,bing / cpc,Paid Search,product_launch,Mobile,United States,92,122,65,0.5326,41,1,35.34
+2026-02-16,partner.com / referral,Referral,not_set,Tablet,United States,97,130,101,0.7783,94,9,348.38
+2026-02-16,blog.example.com / referral,Referral,not_set,Desktop,Canada,122,173,134,0.777,85,6,67.58
+2026-02-16,youtube.com / referral,Referral,not_set,Mobile,Canada,90,113,91,0.8026,61,4,134.87
+2026-02-16,blog.example.com / referral,Referral,not_set,Desktop,Canada,103,139,83,0.5953,82,1,80.0
+2026-02-17,(direct) / (none),Direct,not_set,Desktop,Australia,82,103,48,0.4662,46,4,287.49
+2026-02-17,(direct) / (none),Direct,not_set,Desktop,India,95,155,91,0.5875,39,5,92.84
+2026-02-17,(direct) / (none),Direct,not_set,Mobile,Canada,101,138,78,0.5686,57,8,257.35
+2026-02-17,(direct) / (none),Direct,not_set,Desktop,Australia,119,167,111,0.6643,70,1,21.84
+2026-02-17,(direct) / (none),Direct,not_set,Mobile,India,98,158,82,0.5194,54,1,61.6
+2026-02-17,(direct) / (none),Direct,not_set,Mobile,United States,95,129,66,0.5148,66,3,103.4
+2026-02-17,promo_email / email,Email,product_launch,Mobile,India,118,174,128,0.7378,83,13,684.92
+2026-02-17,bing / organic,Organic Search,not_set,Desktop,Australia,97,113,85,0.7496,80,4,249.05
+2026-02-17,yahoo / organic,Organic Search,not_set,Mobile,India,91,97,67,0.6888,84,1,22.65
+2026-02-17,yahoo / organic,Organic Search,not_set,Mobile,Canada,88,118,86,0.7246,77,6,146.94
+2026-02-17,yahoo / organic,Organic Search,not_set,Desktop,India,95,111,78,0.7004,93,8,259.67
+2026-02-17,bing / organic,Organic Search,not_set,Desktop,India,104,165,97,0.5907,89,6,272.87
+2026-02-17,google / cpc,Paid Search,summer_sale,Desktop,India,103,123,58,0.4691,56,4,398.47
+2026-02-17,bing / cpc,Paid Search,brand_campaign,Mobile,India,95,150,60,0.4018,54,5,218.46
+2026-02-17,bing / cpc,Paid Search,brand_campaign,Desktop,United Kingdom,116,178,87,0.4909,46,5,99.51
+2026-02-17,google / cpc,Paid Search,brand_campaign,Desktop,India,111,124,69,0.5563,54,8,265.86
+2026-02-17,google / cpc,Paid Search,product_launch,Mobile,United States,96,137,66,0.4829,56,10,463.83
+2026-02-17,blog.example.com / referral,Referral,not_set,Mobile,India,88,136,78,0.5753,77,10,298.19
+2026-02-17,youtube.com / referral,Referral,not_set,Mobile,India,94,136,103,0.7601,72,3,115.58
+2026-02-17,blog.example.com / referral,Referral,not_set,Mobile,Australia,94,143,97,0.6797,77,1,40.52
+2026-02-18,(direct) / (none),Direct,not_set,Mobile,United States,107,134,71,0.5334,39,6,283.08
+2026-02-18,(direct) / (none),Direct,not_set,Desktop,India,90,124,65,0.5217,68,5,93.86
+2026-02-18,(direct) / (none),Direct,not_set,Mobile,United States,97,138,69,0.5017,42,2,48.05
+2026-02-18,newsletter / email,Email,retargeting,Mobile,United Kingdom,103,120,92,0.7633,112,11,160.48
+2026-02-18,yahoo / organic,Organic Search,not_set,Mobile,United Kingdom,91,97,57,0.5913,87,5,238.23
+2026-02-18,yahoo / organic,Organic Search,not_set,Tablet,India,100,139,85,0.6105,92,9,244.28
+2026-02-18,bing / organic,Organic Search,not_set,Desktop,India,94,129,81,0.6254,86,3,134.18
+2026-02-18,yahoo / organic,Organic Search,not_set,Desktop,India,93,120,83,0.6943,78,5,265.61
+2026-02-18,instagram / social,Organic Social,not_set,Desktop,United States,107,172,103,0.5994,63,2,39.95
+2026-02-18,linkedin / social,Organic Social,not_set,Mobile,Australia,99,111,76,0.6863,83,3,121.82
+2026-02-18,instagram / social,Organic Social,not_set,Mobile,United States,86,132,87,0.6593,77,2,58.61
+2026-02-18,google / cpc,Paid Search,summer_sale,Mobile,India,105,151,74,0.4929,41,6,213.8
+2026-02-18,blog.example.com / referral,Referral,not_set,Mobile,United States,98,116,81,0.6979,55,4,120.13
+2026-02-18,partner.com / referral,Referral,not_set,Desktop,Canada,95,128,83,0.6484,69,6,262.38
+2026-02-18,youtube.com / referral,Referral,not_set,Mobile,United States,101,122,98,0.8031,89,5,181.32
+2026-02-19,(direct) / (none),Direct,not_set,Mobile,India,89,126,69,0.5471,69,5,198.37
+2026-02-19,(direct) / (none),Direct,not_set,Mobile,India,88,144,82,0.5715,70,2,115.81
+2026-02-19,(direct) / (none),Direct,not_set,Mobile,United Kingdom,99,160,89,0.5562,67,0,0.0
+2026-02-19,(direct) / (none),Direct,not_set,Mobile,India,91,125,64,0.5113,34,8,346.96
+2026-02-19,(direct) / (none),Direct,not_set,Mobile,Australia,106,170,90,0.5286,58,6,181.26
+2026-02-19,(direct) / (none),Direct,not_set,Mobile,India,129,153,85,0.5581,53,7,205.37
+2026-02-19,(direct) / (none),Direct,not_set,Mobile,India,99,147,87,0.5901,47,5,217.98
+2026-02-19,(direct) / (none),Direct,not_set,Mobile,United States,117,169,101,0.6,76,4,106.65
+2026-02-19,newsletter / email,Email,retargeting,Mobile,India,110,172,126,0.7343,97,11,651.38
+2026-02-19,yahoo / organic,Organic Search,not_set,Mobile,Australia,87,106,72,0.678,72,8,130.1
+2026-02-19,yahoo / organic,Organic Search,not_set,Desktop,Australia,97,129,84,0.6543,74,7,511.11
+2026-02-19,google / organic,Organic Search,not_set,Desktop,United Kingdom,111,151,108,0.7133,77,8,350.05
+2026-02-19,yahoo / organic,Organic Search,not_set,Tablet,India,97,147,89,0.6051,86,5,285.28
+2026-02-19,bing / organic,Organic Search,not_set,Mobile,India,102,134,82,0.6145,77,7,714.94
+2026-02-19,bing / organic,Organic Search,not_set,Mobile,India,94,115,82,0.714,68,6,268.65
+2026-02-19,google / organic,Organic Search,not_set,Desktop,Canada,92,152,100,0.6585,95,4,288.33
+2026-02-19,google / organic,Organic Search,not_set,Tablet,United States,101,111,76,0.6853,72,6,253.36
+2026-02-19,google / organic,Organic Search,not_set,Mobile,United States,113,186,117,0.6276,87,6,229.46
+2026-02-19,bing / organic,Organic Search,not_set,Desktop,India,94,105,61,0.5821,78,0,0.0
+2026-02-19,google / organic,Organic Search,not_set,Mobile,India,104,166,109,0.6586,78,8,235.47
+2026-02-19,google / cpc,Paid Search,brand_campaign,Desktop,India,95,106,55,0.5163,70,3,56.36
+2026-02-20,(direct) / (none),Direct,not_set,Desktop,United States,102,126,71,0.5651,61,3,122.09
+2026-02-20,(direct) / (none),Direct,not_set,Mobile,United States,120,142,85,0.5987,55,4,69.24
+2026-02-20,(direct) / (none),Direct,not_set,Desktop,United States,111,182,127,0.6984,23,3,299.1
+2026-02-20,(direct) / (none),Direct,not_set,Mobile,Australia,112,146,80,0.5501,60,6,246.06
+2026-02-20,promo_email / email,Email,brand_campaign,Mobile,United States,91,121,81,0.6676,107,7,166.82
+2026-02-20,newsletter / email,Email,summer_sale,Mobile,India,106,121,83,0.6863,106,3,98.94
+2026-02-20,google / organic,Organic Search,not_set,Mobile,India,112,179,119,0.6662,62,16,958.47
+2026-02-20,google / organic,Organic Search,not_set,Mobile,United States,121,188,115,0.6095,88,9,261.64
+2026-02-20,bing / organic,Organic Search,not_set,Desktop,India,107,156,114,0.7318,81,5,231.78
+2026-02-20,yahoo / organic,Organic Search,not_set,Mobile,India,102,144,100,0.6938,66,7,498.74
+2026-02-20,yahoo / organic,Organic Search,not_set,Mobile,India,118,135,77,0.5702,67,6,486.71
+2026-02-20,bing / organic,Organic Search,not_set,Desktop,United States,95,146,103,0.7087,73,6,310.47
+2026-02-20,google / organic,Organic Search,not_set,Mobile,United States,102,109,67,0.6135,64,4,123.25
+2026-02-20,bing / organic,Organic Search,not_set,Desktop,India,92,129,80,0.6223,90,2,104.48
+2026-02-20,google / organic,Organic Search,not_set,Mobile,India,123,176,127,0.7189,80,10,524.57
+2026-02-20,facebook / social,Organic Social,not_set,Desktop,United States,96,142,98,0.6914,86,2,90.97
+2026-02-20,instagram / social,Organic Social,not_set,Desktop,India,108,129,69,0.5359,78,2,95.89
+2026-02-20,bing / cpc,Paid Search,brand_campaign,Tablet,United States,97,108,42,0.3858,54,3,151.33
+2026-02-20,google / cpc,Paid Search,summer_sale,Tablet,India,90,96,44,0.4587,45,8,315.27
+2026-02-20,bing / cpc,Paid Search,retargeting,Mobile,Australia,110,147,54,0.3656,55,9,806.05
+2026-02-20,bing / cpc,Paid Search,retargeting,Mobile,India,79,102,60,0.5844,34,6,257.57
+2026-02-20,youtube.com / referral,Referral,not_set,Desktop,United States,95,131,96,0.7353,84,3,109.8
+2026-02-21,(direct) / (none),Direct,not_set,Mobile,India,91,149,83,0.5539,51,3,113.49
+2026-02-21,(direct) / (none),Direct,not_set,Mobile,India,100,141,79,0.5595,81,5,210.49
+2026-02-21,(direct) / (none),Direct,not_set,Mobile,United States,99,149,95,0.6382,68,2,124.63
+2026-02-21,newsletter / email,Email,summer_sale,Mobile,United States,105,170,123,0.7264,97,9,135.08
+2026-02-21,promo_email / email,Email,retargeting,Desktop,India,92,147,112,0.7643,98,7,292.13
+2026-02-21,newsletter / email,Email,retargeting,Mobile,India,99,124,86,0.6907,104,4,81.63
+2026-02-21,newsletter / email,Email,product_launch,Mobile,United States,99,106,77,0.7291,110,6,391.9
+2026-02-21,google / organic,Organic Search,not_set,Mobile,India,91,140,96,0.6857,86,11,288.39
+2026-02-21,bing / organic,Organic Search,not_set,Mobile,India,90,110,61,0.5584,90,3,155.89
+2026-02-21,yahoo / organic,Organic Search,not_set,Mobile,Canada,96,154,90,0.5834,69,5,280.24
+2026-02-21,google / organic,Organic Search,not_set,Mobile,India,96,143,84,0.5898,94,6,125.77
+2026-02-21,google / organic,Organic Search,not_set,Mobile,India,95,118,78,0.6591,80,7,159.58
+2026-02-21,google / organic,Organic Search,not_set,Desktop,United States,102,126,92,0.7264,80,2,45.58
+2026-02-21,google / organic,Organic Search,not_set,Desktop,United States,96,107,65,0.6067,77,2,91.26
+2026-02-21,yahoo / organic,Organic Search,not_set,Mobile,India,114,129,90,0.7009,77,9,621.63
+2026-02-21,google / organic,Organic Search,not_set,Desktop,United States,112,174,118,0.6785,58,6,208.07
+2026-02-21,bing / organic,Organic Search,not_set,Mobile,India,110,122,87,0.7151,66,6,152.57
+2026-02-21,yahoo / organic,Organic Search,not_set,Desktop,India,94,153,96,0.6306,83,10,438.16
+2026-02-21,instagram / social,Organic Social,not_set,Mobile,India,99,135,84,0.6224,57,4,176.39
+2026-02-21,linkedin / social,Organic Social,not_set,Mobile,Australia,93,121,80,0.6624,80,1,16.74
+2026-02-21,linkedin / social,Organic Social,not_set,Mobile,United States,111,121,78,0.6454,52,5,232.49
+2026-02-21,instagram / social,Organic Social,not_set,Mobile,United Kingdom,97,107,61,0.5743,67,2,61.64
+2026-02-21,google / cpc,Paid Search,summer_sale,Mobile,Canada,94,148,77,0.5186,54,9,548.65
+2026-02-21,partner.com / referral,Referral,not_set,Mobile,United States,119,130,91,0.7022,90,7,330.83
+2026-02-21,blog.example.com / referral,Referral,not_set,Mobile,United States,83,136,82,0.6047,91,3,371.49
+2026-02-22,(direct) / (none),Direct,not_set,Mobile,United States,119,155,88,0.5683,59,3,74.18
+2026-02-22,(direct) / (none),Direct,not_set,Mobile,India,88,132,63,0.4745,48,2,99.77
+2026-02-22,(direct) / (none),Direct,not_set,Mobile,United States,87,134,81,0.6062,56,2,40.01
+2026-02-22,(direct) / (none),Direct,not_set,Desktop,India,97,120,60,0.5014,72,2,87.88
+2026-02-22,(direct) / (none),Direct,not_set,Mobile,United States,81,121,75,0.6174,62,3,117.18
+2026-02-22,promo_email / email,Email,product_launch,Desktop,Australia,100,106,69,0.648,106,9,586.89
+2026-02-22,google / organic,Organic Search,not_set,Desktop,India,95,102,79,0.7717,86,3,113.68
+2026-02-22,bing / organic,Organic Search,not_set,Desktop,United States,109,148,111,0.7526,78,5,170.38
+2026-02-22,bing / organic,Organic Search,not_set,Desktop,United States,98,108,73,0.6805,88,2,38.56
+2026-02-22,bing / organic,Organic Search,not_set,Desktop,Canada,102,110,64,0.586,70,4,147.25
+2026-02-22,bing / organic,Organic Search,not_set,Mobile,United Kingdom,107,141,97,0.6856,81,6,240.29
+2026-02-22,instagram / social,Organic Social,not_set,Mobile,India,97,102,68,0.6692,66,3,193.67
+2026-02-22,linkedin / social,Organic Social,not_set,Desktop,United States,86,139,66,0.4754,54,2,57.13
+2026-02-22,instagram / social,Organic Social,not_set,Desktop,United States,88,95,53,0.5587,76,1,34.66
+2026-02-22,google / cpc,Paid Search,retargeting,Desktop,United States,81,128,62,0.488,38,4,218.05
+2026-02-22,partner.com / referral,Referral,not_set,Mobile,India,88,93,57,0.6117,91,5,122.44
+2026-02-22,blog.example.com / referral,Referral,not_set,Desktop,United States,107,133,92,0.6923,91,6,240.44
+2026-02-23,(direct) / (none),Direct,not_set,Desktop,United States,103,108,64,0.5945,77,2,86.72
+2026-02-23,(direct) / (none),Direct,not_set,Mobile,United States,95,150,82,0.5485,60,7,74.35
+2026-02-23,(direct) / (none),Direct,not_set,Mobile,India,97,131,85,0.6464,63,7,118.11
+2026-02-23,(direct) / (none),Direct,not_set,Desktop,United Kingdom,97,159,93,0.5845,50,8,307.38
+2026-02-23,(direct) / (none),Direct,not_set,Mobile,United Kingdom,101,139,86,0.6169,61,4,167.4
+2026-02-23,(direct) / (none),Direct,not_set,Desktop,India,115,158,88,0.5559,49,2,153.7
+2026-02-23,yahoo / organic,Organic Search,not_set,Desktop,United States,103,156,105,0.6748,67,8,254.71
+2026-02-23,google / organic,Organic Search,not_set,Mobile,United Kingdom,99,127,82,0.6478,71,6,422.32
+2026-02-23,google / organic,Organic Search,not_set,Mobile,India,94,146,95,0.654,83,8,474.8
+2026-02-23,yahoo / organic,Organic Search,not_set,Mobile,India,102,147,100,0.6777,52,8,224.9
+2026-02-23,yahoo / organic,Organic Search,not_set,Tablet,United States,91,149,98,0.6545,81,7,168.11
+2026-02-23,bing / organic,Organic Search,not_set,Mobile,India,89,94,62,0.6563,75,2,56.04
+2026-02-23,yahoo / organic,Organic Search,not_set,Mobile,Canada,108,167,109,0.6537,91,9,376.01
+2026-02-23,yahoo / organic,Organic Search,not_set,Desktop,India,103,146,111,0.7589,101,2,61.51
+2026-02-23,facebook / social,Organic Social,not_set,Mobile,United Kingdom,89,100,66,0.6631,90,3,121.14
+2026-02-23,instagram / social,Organic Social,not_set,Mobile,India,98,130,84,0.643,68,4,96.08
+2026-02-23,bing / cpc,Paid Search,brand_campaign,Mobile,United States,95,135,69,0.5121,56,5,152.41
+2026-02-23,google / cpc,Paid Search,summer_sale,Tablet,United States,121,130,52,0.4014,48,9,305.93
+2026-02-23,google / cpc,Paid Search,summer_sale,Mobile,Canada,103,127,64,0.5009,55,1,26.33
+2026-02-23,bing / cpc,Paid Search,summer_sale,Desktop,India,101,130,67,0.5174,35,3,71.5
+2026-02-23,google / cpc,Paid Search,retargeting,Mobile,India,109,145,64,0.4387,19,5,253.79
+2026-02-23,google / cpc,Paid Search,summer_sale,Mobile,United States,86,127,65,0.5127,43,3,55.35
+2026-02-23,partner.com / referral,Referral,not_set,Mobile,Canada,92,143,99,0.6904,100,7,282.19
+2026-02-23,blog.example.com / referral,Referral,not_set,Mobile,United Kingdom,97,147,91,0.6159,66,2,79.37
+2026-02-23,youtube.com / referral,Referral,not_set,Mobile,India,103,166,104,0.6258,99,11,704.48
+2026-02-24,(direct) / (none),Direct,not_set,Desktop,India,97,159,88,0.5539,53,3,75.74
+2026-02-24,(direct) / (none),Direct,not_set,Desktop,India,98,118,69,0.5884,65,5,161.08
+2026-02-24,(direct) / (none),Direct,not_set,Mobile,United Kingdom,121,191,95,0.4975,73,6,410.65
+2026-02-24,newsletter / email,Email,product_launch,Desktop,India,103,110,86,0.7793,102,4,250.37
+2026-02-24,yahoo / organic,Organic Search,not_set,Mobile,India,109,170,113,0.6666,94,7,207.29
+2026-02-24,yahoo / organic,Organic Search,not_set,Mobile,United Kingdom,99,113,90,0.799,58,4,72.4
+2026-02-24,google / organic,Organic Search,not_set,Mobile,United States,99,127,81,0.6365,84,2,98.78
+2026-02-24,yahoo / organic,Organic Search,not_set,Mobile,India,102,156,102,0.6553,85,1,22.12
+2026-02-24,bing / organic,Organic Search,not_set,Mobile,United States,106,112,74,0.6616,86,5,247.23
+2026-02-24,bing / organic,Organic Search,not_set,Mobile,India,91,107,83,0.7736,63,7,269.98
+2026-02-24,google / cpc,Paid Search,summer_sale,Tablet,India,97,145,61,0.419,32,2,88.13
+2026-02-24,bing / cpc,Paid Search,retargeting,Mobile,India,102,114,46,0.4012,34,5,269.28
+2026-02-24,google / cpc,Paid Search,retargeting,Mobile,United Kingdom,93,147,93,0.6351,53,7,184.98
+2026-02-24,bing / cpc,Paid Search,product_launch,Mobile,India,100,129,58,0.4525,56,4,177.03
+2026-02-24,google / cpc,Paid Search,retargeting,Desktop,India,101,115,43,0.3771,50,5,139.86
+2026-02-24,bing / cpc,Paid Search,brand_campaign,Mobile,Australia,111,168,69,0.41,70,7,424.19
+2026-02-24,bing / cpc,Paid Search,retargeting,Mobile,Australia,94,107,54,0.5035,47,6,166.58
+2026-02-24,google / cpc,Paid Search,product_launch,Mobile,Canada,103,151,73,0.4862,36,4,123.89
+2026-02-24,blog.example.com / referral,Referral,not_set,Desktop,India,108,120,94,0.7855,81,8,416.19
+2026-02-24,blog.example.com / referral,Referral,not_set,Desktop,Canada,86,107,73,0.6865,77,7,613.97
+2026-02-24,youtube.com / referral,Referral,not_set,Mobile,India,80,105,78,0.7399,88,5,319.05
+2026-02-24,partner.com / referral,Referral,not_set,Mobile,United States,99,115,77,0.6668,91,7,110.29
+2026-02-24,youtube.com / referral,Referral,not_set,Mobile,India,116,125,89,0.7143,73,5,404.89
+2026-02-25,(direct) / (none),Direct,not_set,Mobile,India,91,105,61,0.5783,27,2,208.48
+2026-02-25,(direct) / (none),Direct,not_set,Mobile,India,106,175,107,0.6089,73,0,0.0
+2026-02-25,(direct) / (none),Direct,not_set,Mobile,India,90,145,83,0.5706,32,1,30.64
+2026-02-25,(direct) / (none),Direct,not_set,Tablet,United States,104,166,92,0.5514,79,4,136.48
+2026-02-25,promo_email / email,Email,summer_sale,Mobile,India,107,154,123,0.8003,100,3,109.2
+2026-02-25,promo_email / email,Email,brand_campaign,Mobile,Australia,112,139,100,0.7206,121,4,350.71
+2026-02-25,yahoo / organic,Organic Search,not_set,Mobile,United Kingdom,97,107,76,0.7085,74,6,201.16
+2026-02-25,google / organic,Organic Search,not_set,Mobile,Canada,91,106,57,0.5394,73,5,368.74
+2026-02-25,yahoo / organic,Organic Search,not_set,Mobile,India,88,106,58,0.5465,80,8,897.82
+2026-02-25,yahoo / organic,Organic Search,not_set,Mobile,Australia,130,151,95,0.6298,75,10,335.23
+2026-02-25,bing / organic,Organic Search,not_set,Mobile,United States,89,101,72,0.7166,99,5,366.32
+2026-02-25,bing / organic,Organic Search,not_set,Mobile,India,89,112,79,0.7012,68,3,415.84
+2026-02-25,bing / organic,Organic Search,not_set,Mobile,United States,84,91,66,0.7244,81,0,0.0
+2026-02-25,bing / organic,Organic Search,not_set,Tablet,India,98,160,108,0.678,64,6,232.14
+2026-02-25,google / organic,Organic Search,not_set,Desktop,United Kingdom,105,111,81,0.7302,69,5,204.88
+2026-02-25,linkedin / social,Organic Social,not_set,Desktop,Canada,103,138,79,0.5734,72,2,82.61
+2026-02-25,facebook / social,Organic Social,not_set,Desktop,United States,102,154,88,0.5744,56,1,42.97
+2026-02-25,facebook / social,Organic Social,not_set,Mobile,India,99,132,80,0.6028,69,1,33.2
+2026-02-25,instagram / social,Organic Social,not_set,Mobile,India,87,110,63,0.5742,73,2,142.41
+2026-02-25,linkedin / social,Organic Social,not_set,Desktop,United States,97,126,71,0.5634,74,1,62.06
+2026-02-25,bing / cpc,Paid Search,summer_sale,Desktop,India,118,171,94,0.552,36,6,159.55
+2026-02-25,google / cpc,Paid Search,product_launch,Mobile,United States,106,155,81,0.5208,55,6,292.55
+2026-02-25,blog.example.com / referral,Referral,not_set,Mobile,Canada,107,119,68,0.5698,100,4,145.11
+2026-02-25,youtube.com / referral,Referral,not_set,Mobile,India,95,113,75,0.6631,79,3,52.8
+2026-02-25,blog.example.com / referral,Referral,not_set,Mobile,India,76,103,65,0.6289,73,5,169.98
+2026-02-25,partner.com / referral,Referral,not_set,Mobile,India,120,176,132,0.752,88,5,292.73
+2026-02-25,blog.example.com / referral,Referral,not_set,Mobile,India,117,164,115,0.7025,95,6,266.31
+2026-02-26,(direct) / (none),Direct,not_set,Mobile,United States,94,144,75,0.5224,71,1,15.34
+2026-02-26,(direct) / (none),Direct,not_set,Tablet,India,94,116,71,0.6133,31,4,149.62
+2026-02-26,newsletter / email,Email,product_launch,Mobile,United States,98,123,102,0.827,87,7,251.76
+2026-02-26,yahoo / organic,Organic Search,not_set,Mobile,India,93,151,93,0.615,89,8,302.91
+2026-02-26,google / organic,Organic Search,not_set,Mobile,India,97,158,109,0.6919,71,13,577.05
+2026-02-26,yahoo / organic,Organic Search,not_set,Tablet,India,109,178,128,0.719,62,8,315.05
+2026-02-26,google / organic,Organic Search,not_set,Desktop,India,101,106,77,0.722,82,4,147.97
+2026-02-26,bing / organic,Organic Search,not_set,Mobile,India,106,164,105,0.6432,76,11,364.56
+2026-02-26,bing / organic,Organic Search,not_set,Mobile,United States,87,123,66,0.5385,63,2,71.83
+2026-02-26,bing / organic,Organic Search,not_set,Mobile,India,107,142,85,0.6016,76,5,120.7
+2026-02-26,linkedin / social,Organic Social,not_set,Desktop,United Kingdom,91,132,81,0.6139,63,2,116.48
+2026-02-26,bing / cpc,Paid Search,product_launch,Desktop,United States,100,142,75,0.5273,51,6,100.89
+2026-02-26,google / cpc,Paid Search,product_launch,Tablet,India,98,111,56,0.5034,36,2,57.55
+2026-02-26,google / cpc,Paid Search,retargeting,Mobile,Canada,85,101,50,0.4933,63,4,122.16
+2026-02-26,google / cpc,Paid Search,summer_sale,Mobile,United States,98,138,51,0.3722,45,6,611.75
+2026-02-26,google / cpc,Paid Search,brand_campaign,Mobile,Canada,120,193,117,0.6071,58,9,689.59
+2026-02-26,bing / cpc,Paid Search,summer_sale,Tablet,India,85,97,48,0.4973,27,3,201.08
+2026-02-26,google / cpc,Paid Search,brand_campaign,Desktop,Canada,106,167,81,0.4835,64,5,280.89
+2026-02-26,bing / cpc,Paid Search,product_launch,Mobile,Canada,116,150,65,0.4344,36,8,175.55
+2026-02-26,youtube.com / referral,Referral,not_set,Mobile,India,105,160,109,0.6802,91,8,308.82
+2026-02-27,(direct) / (none),Direct,not_set,Desktop,Canada,103,109,65,0.5945,82,2,49.16
+2026-02-27,(direct) / (none),Direct,not_set,Desktop,Australia,110,165,79,0.4816,76,6,151.58
+2026-02-27,(direct) / (none),Direct,not_set,Mobile,United Kingdom,112,176,88,0.4974,57,6,666.47
+2026-02-27,yahoo / organic,Organic Search,not_set,Mobile,India,102,134,99,0.74,72,2,84.06
+2026-02-27,yahoo / organic,Organic Search,not_set,Desktop,United States,91,105,84,0.7976,79,8,395.97
+2026-02-27,google / organic,Organic Search,not_set,Desktop,India,98,134,72,0.5382,97,7,243.02
+2026-02-27,yahoo / organic,Organic Search,not_set,Mobile,United Kingdom,98,107,80,0.7513,77,6,193.72
+2026-02-27,bing / organic,Organic Search,not_set,Mobile,United States,86,108,80,0.7373,66,4,175.99
+2026-02-27,linkedin / social,Organic Social,not_set,Mobile,United States,114,132,61,0.4643,57,3,35.06
+2026-02-27,linkedin / social,Organic Social,not_set,Mobile,India,84,121,65,0.5339,60,4,175.73
+2026-02-27,google / cpc,Paid Search,retargeting,Mobile,India,106,147,61,0.4178,53,5,140.2
+2026-02-27,bing / cpc,Paid Search,product_launch,Desktop,India,105,115,69,0.6011,58,5,217.31
+2026-02-27,bing / cpc,Paid Search,product_launch,Mobile,United States,90,97,46,0.4731,42,4,115.36
+2026-02-28,(direct) / (none),Direct,not_set,Mobile,India,100,120,57,0.4713,49,3,93.0
+2026-02-28,(direct) / (none),Direct,not_set,Desktop,India,93,99,44,0.4416,56,2,82.04
+2026-02-28,(direct) / (none),Direct,not_set,Desktop,India,97,141,69,0.49,60,3,150.48
+2026-02-28,(direct) / (none),Direct,not_set,Desktop,Canada,98,107,56,0.5225,60,1,96.0
+2026-02-28,(direct) / (none),Direct,not_set,Mobile,India,98,158,72,0.4582,66,4,58.63
+2026-02-28,(direct) / (none),Direct,not_set,Mobile,United States,117,142,83,0.5872,65,3,100.74
+2026-02-28,(direct) / (none),Direct,not_set,Mobile,India,106,171,75,0.4414,76,4,94.08
+2026-02-28,google / organic,Organic Search,not_set,Tablet,India,86,112,79,0.7011,84,5,244.49
+2026-02-28,google / organic,Organic Search,not_set,Desktop,India,94,128,93,0.7252,81,6,285.09
+2026-02-28,google / organic,Organic Search,not_set,Mobile,India,93,131,97,0.7416,69,5,120.91
+2026-02-28,google / organic,Organic Search,not_set,Mobile,India,92,123,87,0.7104,63,2,87.58
+2026-02-28,google / organic,Organic Search,not_set,Tablet,United Kingdom,102,111,71,0.6352,68,4,286.09
+2026-02-28,google / organic,Organic Search,not_set,Desktop,India,109,116,77,0.6599,81,3,116.26
+2026-02-28,google / organic,Organic Search,not_set,Mobile,India,110,179,133,0.7457,63,12,427.67
+2026-02-28,instagram / social,Organic Social,not_set,Mobile,Australia,116,190,116,0.6088,66,2,136.51
+2026-02-28,facebook / social,Organic Social,not_set,Desktop,India,90,118,67,0.5718,69,2,54.21
+2026-02-28,bing / cpc,Paid Search,summer_sale,Tablet,United States,107,150,71,0.4743,67,4,130.23
+2026-02-28,bing / cpc,Paid Search,summer_sale,Tablet,United Kingdom,99,163,72,0.4447,55,2,145.76
+2026-02-28,bing / cpc,Paid Search,product_launch,Mobile,United States,100,120,65,0.5405,51,5,308.59
+2026-02-28,google / cpc,Paid Search,retargeting,Mobile,Australia,123,143,64,0.445,40,8,447.43
+2026-02-28,bing / cpc,Paid Search,retargeting,Mobile,Australia,101,164,84,0.5104,59,7,368.97
+2026-02-28,partner.com / referral,Referral,not_set,Desktop,United States,88,111,77,0.6895,89,6,133.23
+2026-02-28,youtube.com / referral,Referral,not_set,Mobile,India,110,123,78,0.6325,71,4,310.5
+2026-02-28,youtube.com / referral,Referral,not_set,Desktop,India,79,119,92,0.7752,96,2,41.12
+2026-03-01,(direct) / (none),Direct,not_set,Mobile,United Kingdom,90,110,64,0.5843,58,2,94.54
+2026-03-01,(direct) / (none),Direct,not_set,Desktop,India,96,149,74,0.4995,59,11,230.92
+2026-03-01,promo_email / email,Email,brand_campaign,Mobile,India,80,122,83,0.6793,108,8,314.97
+2026-03-01,google / organic,Organic Search,not_set,Desktop,United States,98,113,73,0.65,65,5,405.07
+2026-03-01,bing / organic,Organic Search,not_set,Mobile,Australia,95,113,87,0.7656,60,3,135.54
+2026-03-01,bing / organic,Organic Search,not_set,Desktop,India,94,122,91,0.7457,88,6,93.12
+2026-03-01,google / organic,Organic Search,not_set,Mobile,United Kingdom,106,126,95,0.752,74,6,139.39
+2026-03-01,google / organic,Organic Search,not_set,Mobile,United States,100,113,68,0.5977,87,6,168.84
+2026-03-01,google / organic,Organic Search,not_set,Desktop,Australia,96,130,92,0.7088,72,7,500.02
+2026-03-01,google / organic,Organic Search,not_set,Mobile,United States,88,142,111,0.7827,84,8,205.69
+2026-03-01,bing / organic,Organic Search,not_set,Desktop,Canada,102,122,90,0.7347,63,8,361.24
+2026-03-01,yahoo / organic,Organic Search,not_set,Desktop,United States,94,99,75,0.7574,61,4,77.58
+2026-03-01,google / organic,Organic Search,not_set,Mobile,India,90,99,61,0.6131,82,5,191.84
+2026-03-01,yahoo / organic,Organic Search,not_set,Mobile,India,103,111,75,0.6712,74,1,35.95
+2026-03-01,linkedin / social,Organic Social,not_set,Mobile,United States,114,130,96,0.7413,70,1,16.48
+2026-03-01,facebook / social,Organic Social,not_set,Desktop,United Kingdom,98,116,80,0.688,68,1,40.29
+2026-03-01,instagram / social,Organic Social,not_set,Mobile,India,95,114,61,0.5393,62,3,140.91
+2026-03-01,facebook / social,Organic Social,not_set,Mobile,India,101,107,60,0.5608,71,3,75.66
+2026-03-01,bing / cpc,Paid Search,product_launch,Mobile,India,108,169,88,0.5191,36,10,469.82
+2026-03-01,bing / cpc,Paid Search,brand_campaign,Mobile,Australia,99,137,79,0.573,72,8,329.16
+2026-03-01,blog.example.com / referral,Referral,not_set,Mobile,India,100,106,73,0.6895,98,0,0.0
+2026-03-02,(direct) / (none),Direct,not_set,Mobile,Australia,95,129,75,0.5776,44,1,37.78
+2026-03-02,(direct) / (none),Direct,not_set,Mobile,United States,98,134,43,0.3246,67,3,52.89
+2026-03-02,(direct) / (none),Direct,not_set,Mobile,India,110,160,95,0.5941,56,11,298.52
+2026-03-02,(direct) / (none),Direct,not_set,Desktop,Canada,83,115,71,0.6194,70,5,173.67
+2026-03-02,(direct) / (none),Direct,not_set,Tablet,India,94,123,73,0.5936,84,1,44.04
+2026-03-02,newsletter / email,Email,product_launch,Mobile,United States,96,111,76,0.6848,73,7,211.81
+2026-03-02,google / organic,Organic Search,not_set,Desktop,India,104,164,122,0.7447,69,8,312.47
+2026-03-02,google / organic,Organic Search,not_set,Mobile,Canada,103,113,79,0.6984,54,2,102.96
+2026-03-02,yahoo / organic,Organic Search,not_set,Mobile,Canada,97,156,94,0.605,79,8,379.59
+2026-03-02,yahoo / organic,Organic Search,not_set,Mobile,Canada,93,104,75,0.7219,99,4,188.59
+2026-03-02,bing / organic,Organic Search,not_set,Desktop,United Kingdom,117,189,126,0.6677,66,7,619.15
+2026-03-02,bing / organic,Organic Search,not_set,Desktop,United States,102,116,84,0.728,79,3,106.8
+2026-03-02,yahoo / organic,Organic Search,not_set,Mobile,India,93,139,96,0.691,110,8,545.84
+2026-03-02,yahoo / organic,Organic Search,not_set,Mobile,Canada,100,125,83,0.6667,63,8,362.23
+2026-03-02,google / organic,Organic Search,not_set,Desktop,Australia,77,126,93,0.7411,87,4,181.2
+2026-03-02,yahoo / organic,Organic Search,not_set,Mobile,India,92,149,92,0.6164,91,3,98.85
+2026-03-02,bing / organic,Organic Search,not_set,Mobile,India,93,99,63,0.6347,92,2,148.45
+2026-03-02,bing / organic,Organic Search,not_set,Desktop,India,103,119,92,0.7764,61,9,585.15
+2026-03-02,yahoo / organic,Organic Search,not_set,Desktop,India,86,113,83,0.7357,78,3,80.03
+2026-03-02,facebook / social,Organic Social,not_set,Tablet,India,108,141,81,0.5736,69,1,28.33
+2026-03-02,facebook / social,Organic Social,not_set,Desktop,Canada,107,132,74,0.5619,46,2,32.82
+2026-03-02,instagram / social,Organic Social,not_set,Mobile,Australia,97,122,70,0.5763,55,1,86.84
+2026-03-02,bing / cpc,Paid Search,retargeting,Mobile,India,96,126,45,0.3607,71,7,364.03
+2026-03-02,google / cpc,Paid Search,product_launch,Mobile,United States,104,111,51,0.461,57,8,286.59
+2026-03-02,google / cpc,Paid Search,product_launch,Mobile,India,97,106,37,0.3486,29,5,196.96
+2026-03-02,google / cpc,Paid Search,summer_sale,Desktop,Canada,91,115,65,0.5632,53,5,191.21
+2026-03-02,google / cpc,Paid Search,summer_sale,Desktop,United Kingdom,104,141,70,0.4944,40,3,72.6
+2026-03-02,google / cpc,Paid Search,retargeting,Desktop,India,90,107,52,0.4819,44,8,342.68
+2026-03-02,blog.example.com / referral,Referral,not_set,Desktop,India,102,161,91,0.5629,75,6,235.04
+2026-03-02,partner.com / referral,Referral,not_set,Mobile,United States,98,124,92,0.7382,96,4,68.84
+2026-03-03,(direct) / (none),Direct,not_set,Mobile,United States,94,155,93,0.597,41,4,198.8
+2026-03-03,(direct) / (none),Direct,not_set,Mobile,India,96,135,81,0.5965,52,7,226.62
+2026-03-03,(direct) / (none),Direct,not_set,Mobile,United Kingdom,99,123,59,0.4776,65,1,17.14
+2026-03-03,(direct) / (none),Direct,not_set,Tablet,Australia,86,137,72,0.5248,68,3,251.58
+2026-03-03,(direct) / (none),Direct,not_set,Mobile,United Kingdom,100,116,72,0.6215,59,2,42.15
+2026-03-03,yahoo / organic,Organic Search,not_set,Tablet,India,85,98,59,0.6061,88,3,224.3
+2026-03-03,bing / organic,Organic Search,not_set,Desktop,United Kingdom,107,155,108,0.6997,69,11,248.37
+2026-03-03,bing / organic,Organic Search,not_set,Mobile,India,103,113,66,0.5843,95,2,46.45
+2026-03-03,google / organic,Organic Search,not_set,Mobile,United States,115,177,124,0.701,73,14,410.5
+2026-03-03,facebook / social,Organic Social,not_set,Mobile,United States,89,110,67,0.6066,58,2,66.89
+2026-03-03,linkedin / social,Organic Social,not_set,Desktop,United States,107,123,79,0.6429,46,0,0.0
+2026-03-03,linkedin / social,Organic Social,not_set,Mobile,India,109,167,99,0.5915,74,5,113.41
+2026-03-03,facebook / social,Organic Social,not_set,Mobile,United States,114,133,85,0.6388,88,3,96.56
+2026-03-03,facebook / social,Organic Social,not_set,Desktop,India,77,89,50,0.5596,63,0,0.0
+2026-03-03,google / cpc,Paid Search,summer_sale,Mobile,United States,106,117,61,0.5196,47,8,408.74
+2026-03-03,bing / cpc,Paid Search,product_launch,Mobile,India,98,148,62,0.4175,38,5,166.92
+2026-03-03,youtube.com / referral,Referral,not_set,Desktop,India,110,120,80,0.6681,88,2,42.85
+2026-03-03,partner.com / referral,Referral,not_set,Mobile,Australia,90,118,81,0.6848,91,7,125.06
+2026-03-04,(direct) / (none),Direct,not_set,Desktop,United Kingdom,101,150,73,0.4855,63,4,54.34
+2026-03-04,(direct) / (none),Direct,not_set,Desktop,United States,101,119,81,0.6811,35,3,111.24
+2026-03-04,(direct) / (none),Direct,not_set,Desktop,India,88,103,53,0.513,39,1,46.59
+2026-03-04,(direct) / (none),Direct,not_set,Mobile,India,102,155,99,0.6362,78,5,184.53
+2026-03-04,newsletter / email,Email,brand_campaign,Desktop,United States,108,159,105,0.6617,79,5,135.88
+2026-03-04,promo_email / email,Email,brand_campaign,Mobile,India,108,171,150,0.8775,105,16,494.64
+2026-03-04,promo_email / email,Email,brand_campaign,Mobile,United States,109,157,119,0.7586,116,2,115.68
+2026-03-04,google / organic,Organic Search,not_set,Mobile,United States,111,142,89,0.6255,86,3,108.89
+2026-03-04,google / organic,Organic Search,not_set,Mobile,India,116,168,118,0.6999,86,4,140.86
+2026-03-04,yahoo / organic,Organic Search,not_set,Mobile,India,94,107,78,0.7261,72,6,274.53
+2026-03-04,bing / organic,Organic Search,not_set,Mobile,India,96,115,76,0.6641,88,9,148.53
+2026-03-04,yahoo / organic,Organic Search,not_set,Mobile,India,98,115,78,0.6811,66,7,554.06
+2026-03-04,google / organic,Organic Search,not_set,Desktop,India,99,146,81,0.5555,64,7,368.0
+2026-03-04,linkedin / social,Organic Social,not_set,Desktop,India,111,171,109,0.6401,51,3,233.2
+2026-03-04,bing / cpc,Paid Search,summer_sale,Mobile,United Kingdom,108,163,85,0.5218,57,4,109.01
+2026-03-04,google / cpc,Paid Search,brand_campaign,Mobile,India,107,141,76,0.5362,30,3,152.0
+2026-03-04,bing / cpc,Paid Search,summer_sale,Mobile,United States,82,98,54,0.5494,52,3,59.73
+2026-03-04,bing / cpc,Paid Search,retargeting,Tablet,India,108,148,76,0.5137,57,4,216.23
+2026-03-04,partner.com / referral,Referral,not_set,Mobile,United States,101,117,77,0.6575,94,2,57.79
+2026-03-04,youtube.com / referral,Referral,not_set,Mobile,India,100,163,110,0.674,85,6,202.31
+2026-03-05,newsletter / email,Email,brand_campaign,Mobile,Canada,108,121,101,0.8313,85,7,336.17
+2026-03-05,google / organic,Organic Search,not_set,Mobile,India,91,134,79,0.5929,77,6,132.68
+2026-03-05,google / organic,Organic Search,not_set,Mobile,United States,100,131,88,0.6724,67,2,308.49
+2026-03-05,yahoo / organic,Organic Search,not_set,Tablet,India,106,123,83,0.6728,79,6,279.43
+2026-03-05,google / organic,Organic Search,not_set,Mobile,United States,83,89,57,0.6412,72,5,326.5
+2026-03-05,bing / organic,Organic Search,not_set,Tablet,India,111,161,95,0.5904,75,5,238.42
+2026-03-05,yahoo / organic,Organic Search,not_set,Mobile,Canada,110,148,100,0.6746,70,7,266.63
+2026-03-05,google / organic,Organic Search,not_set,Desktop,United States,103,163,102,0.6284,85,9,441.36
+2026-03-05,linkedin / social,Organic Social,not_set,Mobile,India,100,113,66,0.5882,57,0,0.0
+2026-03-05,linkedin / social,Organic Social,not_set,Tablet,India,110,116,76,0.6518,81,3,270.35
+2026-03-05,google / cpc,Paid Search,product_launch,Desktop,India,93,110,61,0.5562,51,8,290.73
+2026-03-05,bing / cpc,Paid Search,brand_campaign,Mobile,United States,98,115,52,0.4488,38,2,74.45
+2026-03-05,google / cpc,Paid Search,summer_sale,Mobile,United Kingdom,114,145,73,0.5049,57,3,223.97
+2026-03-05,bing / cpc,Paid Search,retargeting,Desktop,Canada,102,119,54,0.4569,52,6,461.0
+2026-03-05,bing / cpc,Paid Search,retargeting,Mobile,United Kingdom,104,121,64,0.5267,70,6,169.58
+2026-03-05,bing / cpc,Paid Search,summer_sale,Desktop,India,104,111,51,0.459,54,3,236.92
+2026-03-05,bing / cpc,Paid Search,brand_campaign,Desktop,Canada,87,129,66,0.5117,33,2,223.9
+2026-03-05,google / cpc,Paid Search,product_launch,Mobile,United States,93,133,73,0.5526,48,6,155.03
+2026-03-05,blog.example.com / referral,Referral,not_set,Mobile,India,101,126,89,0.7034,64,6,177.38
+2026-03-05,blog.example.com / referral,Referral,not_set,Desktop,India,90,118,84,0.7111,87,2,113.9
+2026-03-06,(direct) / (none),Direct,not_set,Mobile,United Kingdom,95,103,54,0.5195,53,0,0.0
+2026-03-06,(direct) / (none),Direct,not_set,Mobile,United States,85,103,66,0.6375,52,4,488.29
+2026-03-06,(direct) / (none),Direct,not_set,Mobile,United States,106,147,76,0.5141,73,2,36.99
+2026-03-06,(direct) / (none),Direct,not_set,Mobile,India,81,103,55,0.5377,69,2,32.01
+2026-03-06,(direct) / (none),Direct,not_set,Tablet,India,112,121,65,0.5351,68,1,34.61
+2026-03-06,(direct) / (none),Direct,not_set,Mobile,India,98,138,73,0.5303,75,5,361.99
+2026-03-06,promo_email / email,Email,retargeting,Tablet,India,101,163,109,0.6713,101,3,126.84
+2026-03-06,bing / organic,Organic Search,not_set,Desktop,India,98,128,89,0.6924,79,5,433.37
+2026-03-06,yahoo / organic,Organic Search,not_set,Mobile,Canada,100,133,82,0.6177,81,6,280.45
+2026-03-06,google / organic,Organic Search,not_set,Mobile,India,93,126,84,0.6652,77,5,263.16
+2026-03-06,bing / organic,Organic Search,not_set,Desktop,India,88,110,65,0.5875,71,1,51.26
+2026-03-06,google / organic,Organic Search,not_set,Desktop,Australia,97,147,98,0.6672,56,6,217.89
+2026-03-06,instagram / social,Organic Social,not_set,Desktop,India,99,125,83,0.6628,71,0,0.0
+2026-03-06,instagram / social,Organic Social,not_set,Tablet,India,104,115,66,0.5728,71,5,81.32
+2026-03-06,bing / cpc,Paid Search,brand_campaign,Mobile,India,102,110,49,0.4448,47,2,112.1
+2026-03-06,google / cpc,Paid Search,retargeting,Mobile,India,86,138,72,0.5211,45,6,245.51
+2026-03-06,google / cpc,Paid Search,retargeting,Desktop,India,111,161,78,0.4844,45,8,314.04
+2026-03-06,google / cpc,Paid Search,summer_sale,Mobile,United States,102,161,88,0.5466,32,3,93.54
+2026-03-06,bing / cpc,Paid Search,brand_campaign,Mobile,United Kingdom,98,110,53,0.4791,47,1,28.26
+2026-03-06,bing / cpc,Paid Search,retargeting,Mobile,India,97,108,61,0.5691,32,4,192.92
+2026-03-06,youtube.com / referral,Referral,not_set,Mobile,United States,100,112,78,0.699,99,1,36.74
+2026-03-07,(direct) / (none),Direct,not_set,Desktop,United Kingdom,101,129,85,0.6603,70,3,154.57
+2026-03-07,(direct) / (none),Direct,not_set,Tablet,India,92,117,60,0.5109,79,2,96.36
+2026-03-07,(direct) / (none),Direct,not_set,Desktop,India,107,170,95,0.5559,52,4,136.25
+2026-03-07,promo_email / email,Email,summer_sale,Mobile,United States,102,128,103,0.8018,112,7,350.16
+2026-03-07,google / organic,Organic Search,not_set,Mobile,United States,102,148,85,0.5744,71,9,744.63
+2026-03-07,yahoo / organic,Organic Search,not_set,Mobile,India,89,133,95,0.712,88,3,100.49
+2026-03-07,yahoo / organic,Organic Search,not_set,Desktop,India,92,133,96,0.7202,50,8,212.66
+2026-03-07,google / organic,Organic Search,not_set,Mobile,India,108,171,111,0.6481,67,4,132.92
+2026-03-07,yahoo / organic,Organic Search,not_set,Mobile,United Kingdom,96,116,64,0.5492,67,9,575.54
+2026-03-07,bing / organic,Organic Search,not_set,Mobile,United States,86,123,88,0.7154,83,3,112.09
+2026-03-07,yahoo / organic,Organic Search,not_set,Mobile,Canada,90,105,68,0.6471,107,7,355.76
+2026-03-07,facebook / social,Organic Social,not_set,Mobile,United Kingdom,101,160,122,0.7603,75,2,69.98
+2026-03-07,bing / cpc,Paid Search,summer_sale,Mobile,United States,117,135,65,0.4809,33,3,83.9
+2026-03-07,bing / cpc,Paid Search,brand_campaign,Mobile,India,95,143,77,0.5377,43,6,144.96
+2026-03-07,google / cpc,Paid Search,summer_sale,Desktop,United States,115,176,93,0.5287,38,11,739.82
+2026-03-07,google / cpc,Paid Search,retargeting,Desktop,India,98,115,62,0.5362,75,6,208.42
+2026-03-07,google / cpc,Paid Search,retargeting,Desktop,India,113,172,85,0.4956,28,9,232.09
+2026-03-08,(direct) / (none),Direct,not_set,Desktop,India,93,133,67,0.5033,56,5,185.81
+2026-03-08,(direct) / (none),Direct,not_set,Mobile,Canada,79,93,46,0.4992,52,1,58.23
+2026-03-08,newsletter / email,Email,summer_sale,Mobile,India,105,115,91,0.7938,84,5,120.69
+2026-03-08,google / organic,Organic Search,not_set,Mobile,United Kingdom,106,113,86,0.7625,77,6,295.46
+2026-03-08,google / organic,Organic Search,not_set,Mobile,Canada,104,135,87,0.6468,79,2,128.74
+2026-03-08,google / organic,Organic Search,not_set,Desktop,India,102,133,85,0.637,88,7,303.19
+2026-03-08,yahoo / organic,Organic Search,not_set,Desktop,India,103,127,92,0.7256,70,2,59.19
+2026-03-08,yahoo / organic,Organic Search,not_set,Desktop,India,103,125,79,0.6299,90,5,254.36
+2026-03-08,yahoo / organic,Organic Search,not_set,Mobile,India,104,165,116,0.7026,93,5,236.45
+2026-03-08,google / organic,Organic Search,not_set,Desktop,India,86,130,91,0.6993,86,6,415.59
+2026-03-08,google / cpc,Paid Search,product_launch,Desktop,India,106,154,80,0.5197,52,5,119.19
+2026-03-08,bing / cpc,Paid Search,product_launch,Mobile,Australia,96,155,71,0.4583,41,7,320.41
+2026-03-08,bing / cpc,Paid Search,product_launch,Desktop,India,82,113,52,0.4585,48,3,261.96
+2026-03-08,google / cpc,Paid Search,summer_sale,Desktop,Canada,111,129,53,0.4137,56,5,183.65
+2026-03-09,(direct) / (none),Direct,not_set,Desktop,United States,108,139,70,0.5052,60,3,160.97
+2026-03-09,(direct) / (none),Direct,not_set,Desktop,India,92,112,49,0.4351,78,1,23.83
+2026-03-09,(direct) / (none),Direct,not_set,Mobile,Australia,95,116,78,0.6689,55,3,184.35
+2026-03-09,(direct) / (none),Direct,not_set,Desktop,United States,84,136,82,0.6022,52,4,267.37
+2026-03-09,(direct) / (none),Direct,not_set,Tablet,India,115,160,91,0.5665,55,1,24.96
+2026-03-09,newsletter / email,Email,product_launch,Mobile,United Kingdom,105,129,94,0.7287,131,5,74.66
+2026-03-09,promo_email / email,Email,retargeting,Desktop,India,109,152,113,0.7425,82,8,252.57
+2026-03-09,newsletter / email,Email,summer_sale,Mobile,United States,92,118,74,0.6304,113,9,300.3
+2026-03-09,newsletter / email,Email,brand_campaign,Desktop,United Kingdom,102,123,89,0.7274,111,4,89.75
+2026-03-09,yahoo / organic,Organic Search,not_set,Desktop,Canada,103,148,79,0.5334,73,8,278.39
+2026-03-09,bing / organic,Organic Search,not_set,Mobile,India,103,134,92,0.6856,85,5,246.97
+2026-03-09,yahoo / organic,Organic Search,not_set,Desktop,United States,91,120,81,0.6767,79,12,549.41
+2026-03-09,yahoo / organic,Organic Search,not_set,Desktop,India,108,125,84,0.6742,77,0,0.0
+2026-03-09,google / organic,Organic Search,not_set,Mobile,India,104,151,106,0.7002,92,3,157.51
+2026-03-09,facebook / social,Organic Social,not_set,Mobile,India,85,137,93,0.6797,76,0,0.0
+2026-03-09,linkedin / social,Organic Social,not_set,Desktop,India,107,149,82,0.5527,81,2,80.22
+2026-03-09,bing / cpc,Paid Search,product_launch,Desktop,United States,101,146,81,0.5557,56,7,196.19
+2026-03-09,partner.com / referral,Referral,not_set,Desktop,Australia,110,176,105,0.5966,94,9,336.02
+2026-03-09,blog.example.com / referral,Referral,not_set,Mobile,India,97,138,90,0.6491,90,5,868.28
+2026-03-09,blog.example.com / referral,Referral,not_set,Tablet,United States,95,101,68,0.6773,77,2,72.67
+2026-03-09,youtube.com / referral,Referral,not_set,Desktop,Canada,98,146,103,0.7052,109,6,1005.13
+2026-03-10,(direct) / (none),Direct,not_set,Desktop,India,95,153,94,0.6146,68,6,227.65
+2026-03-10,(direct) / (none),Direct,not_set,Mobile,United States,100,145,75,0.5165,53,5,200.01
+2026-03-10,(direct) / (none),Direct,not_set,Desktop,India,105,139,88,0.6357,90,4,246.86
+2026-03-10,(direct) / (none),Direct,not_set,Desktop,United States,111,123,73,0.5946,68,2,55.63
+2026-03-10,(direct) / (none),Direct,not_set,Tablet,Australia,92,98,49,0.5014,72,6,204.37
+2026-03-10,(direct) / (none),Direct,not_set,Mobile,India,102,163,75,0.4611,49,3,67.06
+2026-03-10,yahoo / organic,Organic Search,not_set,Mobile,Australia,107,175,115,0.6594,78,8,407.56
+2026-03-10,yahoo / organic,Organic Search,not_set,Desktop,Australia,83,100,67,0.6737,99,5,244.54
+2026-03-10,yahoo / organic,Organic Search,not_set,Desktop,India,115,186,127,0.6827,101,10,690.75
+2026-03-10,bing / organic,Organic Search,not_set,Mobile,Canada,110,117,79,0.6793,85,4,220.8
+2026-03-10,yahoo / organic,Organic Search,not_set,Mobile,India,120,171,104,0.6057,40,6,184.33
+2026-03-10,bing / organic,Organic Search,not_set,Mobile,Canada,91,133,89,0.6685,65,10,537.14
+2026-03-10,google / organic,Organic Search,not_set,Desktop,India,88,109,73,0.6732,83,3,57.61
+2026-03-10,yahoo / organic,Organic Search,not_set,Mobile,India,107,169,112,0.6608,83,5,217.63
+2026-03-10,google / organic,Organic Search,not_set,Mobile,India,94,107,71,0.6627,90,5,148.83
+2026-03-10,google / organic,Organic Search,not_set,Mobile,India,93,111,84,0.7604,59,6,171.47
+2026-03-10,instagram / social,Organic Social,not_set,Mobile,India,106,168,113,0.6732,70,3,103.9
+2026-03-10,linkedin / social,Organic Social,not_set,Mobile,India,97,145,82,0.5689,49,4,85.92
+2026-03-10,instagram / social,Organic Social,not_set,Desktop,Australia,87,107,57,0.5345,82,0,0.0
+2026-03-10,bing / cpc,Paid Search,retargeting,Desktop,India,85,101,48,0.4782,45,4,212.07
+2026-03-10,youtube.com / referral,Referral,not_set,Mobile,India,102,130,106,0.8143,111,1,68.45
+2026-03-10,partner.com / referral,Referral,not_set,Mobile,United States,86,94,67,0.712,113,0,0.0
+2026-03-10,youtube.com / referral,Referral,not_set,Tablet,India,95,106,74,0.6992,68,3,206.6
+2026-03-10,youtube.com / referral,Referral,not_set,Mobile,India,100,162,98,0.606,109,11,241.35
+2026-03-10,partner.com / referral,Referral,not_set,Desktop,United States,105,112,85,0.7592,89,8,285.0
+2026-03-11,(direct) / (none),Direct,not_set,Desktop,India,97,138,81,0.5854,66,2,50.51
+2026-03-11,(direct) / (none),Direct,not_set,Mobile,United States,104,167,91,0.5476,61,2,51.52
+2026-03-11,(direct) / (none),Direct,not_set,Desktop,United States,99,128,64,0.503,67,5,248.51
+2026-03-11,(direct) / (none),Direct,not_set,Mobile,United States,91,103,63,0.616,67,1,42.19
+2026-03-11,newsletter / email,Email,retargeting,Desktop,India,103,110,85,0.7706,83,4,148.8
+2026-03-11,newsletter / email,Email,summer_sale,Mobile,India,84,99,65,0.6562,111,8,602.72
+2026-03-11,yahoo / organic,Organic Search,not_set,Mobile,India,93,123,101,0.8178,82,4,136.6
+2026-03-11,google / organic,Organic Search,not_set,Mobile,India,97,150,112,0.7487,88,3,90.02
+2026-03-11,google / organic,Organic Search,not_set,Desktop,India,102,154,112,0.7252,63,6,239.73
+2026-03-11,yahoo / organic,Organic Search,not_set,Desktop,United States,106,127,96,0.752,91,9,398.45
+2026-03-11,yahoo / organic,Organic Search,not_set,Mobile,India,91,131,97,0.7423,88,3,67.17
+2026-03-11,linkedin / social,Organic Social,not_set,Mobile,Australia,93,134,83,0.6216,45,3,94.76
+2026-03-11,instagram / social,Organic Social,not_set,Mobile,India,107,160,93,0.5782,62,7,307.95
+2026-03-11,instagram / social,Organic Social,not_set,Desktop,India,91,119,74,0.6256,70,4,92.44
+2026-03-11,bing / cpc,Paid Search,summer_sale,Mobile,India,94,132,68,0.5128,43,8,274.12
+2026-03-11,bing / cpc,Paid Search,product_launch,Mobile,India,100,163,60,0.3673,63,8,632.29
+2026-03-11,google / cpc,Paid Search,brand_campaign,Mobile,India,93,135,49,0.3657,52,7,212.22
+2026-03-11,bing / cpc,Paid Search,summer_sale,Desktop,India,93,143,60,0.4228,28,3,98.53
+2026-03-11,bing / cpc,Paid Search,product_launch,Mobile,Canada,109,120,50,0.4128,30,5,159.8
+2026-03-11,bing / cpc,Paid Search,brand_campaign,Mobile,United States,113,151,54,0.3559,65,11,542.88
+2026-03-11,youtube.com / referral,Referral,not_set,Desktop,India,110,129,86,0.6664,88,5,184.37
+2026-03-12,(direct) / (none),Direct,not_set,Mobile,Canada,103,153,88,0.5744,76,5,325.55
+2026-03-12,(direct) / (none),Direct,not_set,Mobile,India,102,152,84,0.5504,62,8,194.66
+2026-03-12,(direct) / (none),Direct,not_set,Mobile,India,96,101,60,0.5988,37,6,197.89
+2026-03-12,(direct) / (none),Direct,not_set,Desktop,United States,114,128,79,0.6162,60,6,229.3
+2026-03-12,newsletter / email,Email,brand_campaign,Desktop,United States,107,149,86,0.5792,84,2,42.01
+2026-03-12,newsletter / email,Email,retargeting,Mobile,United States,91,108,68,0.6257,100,2,74.25
+2026-03-12,newsletter / email,Email,summer_sale,Mobile,Australia,91,111,78,0.6983,85,10,900.2
+2026-03-12,google / organic,Organic Search,not_set,Desktop,United States,82,102,71,0.6957,60,1,32.58
+2026-03-12,bing / organic,Organic Search,not_set,Mobile,India,101,116,94,0.8095,81,5,120.35
+2026-03-12,yahoo / organic,Organic Search,not_set,Tablet,India,99,148,106,0.7177,68,5,231.1
+2026-03-12,yahoo / organic,Organic Search,not_set,Mobile,India,106,141,98,0.6975,69,5,157.5
+2026-03-12,google / organic,Organic Search,not_set,Tablet,India,94,100,61,0.6096,85,4,68.69
+2026-03-12,linkedin / social,Organic Social,not_set,Mobile,United States,95,103,63,0.6146,71,3,91.55
+2026-03-12,instagram / social,Organic Social,not_set,Desktop,India,98,123,84,0.68,67,1,41.1
+2026-03-12,linkedin / social,Organic Social,not_set,Mobile,India,105,117,77,0.6619,60,1,92.09
+2026-03-12,facebook / social,Organic Social,not_set,Mobile,Australia,89,97,58,0.5932,58,1,25.93
+2026-03-12,google / cpc,Paid Search,retargeting,Tablet,United States,122,136,71,0.52,46,5,176.23
+2026-03-12,google / cpc,Paid Search,summer_sale,Desktop,United States,99,155,68,0.4398,49,7,180.36
+2026-03-12,bing / cpc,Paid Search,product_launch,Desktop,United States,101,140,59,0.4248,54,2,50.73
+2026-03-12,bing / cpc,Paid Search,summer_sale,Desktop,United Kingdom,91,108,59,0.5504,45,4,126.87
+2026-03-12,bing / cpc,Paid Search,retargeting,Mobile,United States,101,138,69,0.4966,41,5,210.81
+2026-03-13,(direct) / (none),Direct,not_set,Desktop,United Kingdom,96,112,64,0.5695,56,3,240.19
+2026-03-13,(direct) / (none),Direct,not_set,Desktop,India,91,113,57,0.5064,52,4,144.72
+2026-03-13,newsletter / email,Email,product_launch,Desktop,United States,95,148,122,0.8234,84,8,151.92
+2026-03-13,yahoo / organic,Organic Search,not_set,Mobile,Canada,106,160,113,0.7048,87,6,337.23
+2026-03-13,yahoo / organic,Organic Search,not_set,Mobile,United States,104,135,79,0.5889,76,4,100.0
+2026-03-13,yahoo / organic,Organic Search,not_set,Mobile,United States,95,104,64,0.6147,68,5,118.62
+2026-03-13,google / organic,Organic Search,not_set,Mobile,United Kingdom,90,104,69,0.6659,69,7,185.27
+2026-03-13,bing / organic,Organic Search,not_set,Desktop,India,75,116,76,0.6524,78,2,70.22
+2026-03-13,bing / organic,Organic Search,not_set,Mobile,Australia,109,121,94,0.7807,81,9,323.03
+2026-03-13,bing / organic,Organic Search,not_set,Desktop,India,93,136,84,0.6186,83,8,234.61
+2026-03-13,bing / organic,Organic Search,not_set,Tablet,India,94,120,79,0.6584,71,3,78.49
+2026-03-13,google / organic,Organic Search,not_set,Mobile,Australia,84,89,68,0.7616,78,4,136.66
+2026-03-13,bing / organic,Organic Search,not_set,Mobile,India,108,160,109,0.6831,75,6,309.21
+2026-03-13,google / organic,Organic Search,not_set,Desktop,Canada,99,112,80,0.7132,85,5,531.7
+2026-03-13,linkedin / social,Organic Social,not_set,Mobile,United States,115,130,76,0.5884,58,2,172.62
+2026-03-13,linkedin / social,Organic Social,not_set,Desktop,India,97,130,68,0.5234,56,1,30.34
+2026-03-13,google / cpc,Paid Search,summer_sale,Mobile,India,99,124,45,0.365,44,6,219.26
+2026-03-13,bing / cpc,Paid Search,brand_campaign,Desktop,India,109,147,68,0.462,53,4,290.71
+2026-03-13,partner.com / referral,Referral,not_set,Desktop,India,96,114,81,0.7132,98,3,50.56
+2026-03-13,blog.example.com / referral,Referral,not_set,Desktop,India,108,133,86,0.6496,85,5,178.3
+2026-03-13,partner.com / referral,Referral,not_set,Mobile,India,96,103,66,0.6433,103,1,30.71
+2026-03-14,(direct) / (none),Direct,not_set,Mobile,United Kingdom,99,127,77,0.6044,73,3,299.44
+2026-03-14,(direct) / (none),Direct,not_set,Desktop,India,106,114,69,0.603,40,6,329.06
+2026-03-14,(direct) / (none),Direct,not_set,Mobile,Australia,103,164,100,0.6123,87,6,201.33
+2026-03-14,(direct) / (none),Direct,not_set,Mobile,India,113,179,83,0.4643,70,5,266.31
+2026-03-14,promo_email / email,Email,retargeting,Tablet,India,95,112,77,0.6917,100,7,276.2
+2026-03-14,newsletter / email,Email,brand_campaign,Mobile,India,108,131,95,0.7243,80,9,481.8
+2026-03-14,bing / organic,Organic Search,not_set,Mobile,India,98,117,71,0.6075,85,2,55.51
+2026-03-14,yahoo / organic,Organic Search,not_set,Desktop,United States,93,99,65,0.6535,77,6,330.64
+2026-03-14,yahoo / organic,Organic Search,not_set,Mobile,United Kingdom,89,114,79,0.6888,61,6,202.67
+2026-03-14,yahoo / organic,Organic Search,not_set,Mobile,United Kingdom,89,131,86,0.6601,43,6,87.21
+2026-03-14,google / organic,Organic Search,not_set,Mobile,Canada,124,158,121,0.7633,78,7,244.55
+2026-03-14,bing / organic,Organic Search,not_set,Desktop,Australia,107,148,99,0.6698,97,6,181.13
+2026-03-14,facebook / social,Organic Social,not_set,Mobile,United States,96,128,65,0.5042,72,0,0.0
+2026-03-14,facebook / social,Organic Social,not_set,Mobile,India,105,132,72,0.5431,48,2,60.3
+2026-03-14,bing / cpc,Paid Search,summer_sale,Desktop,Canada,104,165,99,0.5992,27,6,181.57
+2026-03-14,google / cpc,Paid Search,product_launch,Mobile,India,93,147,66,0.4479,55,8,239.73
+2026-03-14,bing / cpc,Paid Search,product_launch,Desktop,United States,99,149,54,0.3655,43,5,112.55
+2026-03-14,google / cpc,Paid Search,product_launch,Desktop,United States,97,142,65,0.4603,42,8,582.39
+2026-03-15,(direct) / (none),Direct,not_set,Desktop,United States,117,181,118,0.6529,50,9,612.2
+2026-03-15,(direct) / (none),Direct,not_set,Mobile,India,108,171,84,0.4892,74,8,240.88
+2026-03-15,(direct) / (none),Direct,not_set,Desktop,India,106,140,85,0.6067,36,4,113.66
+2026-03-15,promo_email / email,Email,product_launch,Tablet,United States,106,163,108,0.6629,96,14,293.66
+2026-03-15,google / organic,Organic Search,not_set,Mobile,Canada,113,150,98,0.6554,78,6,260.46
+2026-03-15,bing / organic,Organic Search,not_set,Mobile,India,86,124,85,0.6822,109,5,232.46
+2026-03-15,google / organic,Organic Search,not_set,Desktop,India,96,134,97,0.7268,84,4,213.63
+2026-03-15,yahoo / organic,Organic Search,not_set,Mobile,United States,93,147,99,0.671,71,5,87.47
+2026-03-15,bing / organic,Organic Search,not_set,Mobile,India,109,136,91,0.6726,69,4,85.32
+2026-03-15,yahoo / organic,Organic Search,not_set,Tablet,Australia,112,136,94,0.6924,91,3,80.43
+2026-03-15,bing / organic,Organic Search,not_set,Mobile,Australia,102,137,81,0.5878,72,8,302.9
+2026-03-15,bing / organic,Organic Search,not_set,Mobile,Canada,85,94,65,0.6864,92,3,122.43
+2026-03-15,yahoo / organic,Organic Search,not_set,Desktop,United States,90,139,97,0.6995,82,5,358.96
+2026-03-15,instagram / social,Organic Social,not_set,Mobile,India,107,167,105,0.6275,64,0,0.0
+2026-03-15,linkedin / social,Organic Social,not_set,Desktop,India,94,111,63,0.5703,68,2,74.45
+2026-03-15,facebook / social,Organic Social,not_set,Mobile,India,102,145,91,0.6267,58,0,0.0
+2026-03-15,linkedin / social,Organic Social,not_set,Mobile,United States,100,151,101,0.6704,91,4,204.93
+2026-03-15,bing / cpc,Paid Search,retargeting,Desktop,United States,109,130,64,0.492,42,6,260.04
+2026-03-15,google / cpc,Paid Search,retargeting,Mobile,United States,103,167,84,0.5002,53,5,239.99
+2026-03-15,bing / cpc,Paid Search,summer_sale,Tablet,United States,111,155,76,0.4877,47,3,291.35
+2026-03-15,partner.com / referral,Referral,not_set,Desktop,Canada,91,143,93,0.6535,109,8,397.74
+2026-03-15,blog.example.com / referral,Referral,not_set,Mobile,India,97,144,102,0.7077,93,7,361.54
+2026-03-16,(direct) / (none),Direct,not_set,Mobile,United States,102,141,84,0.5941,88,8,279.35
+2026-03-16,(direct) / (none),Direct,not_set,Desktop,Canada,102,112,49,0.4379,49,3,202.21
+2026-03-16,(direct) / (none),Direct,not_set,Mobile,United States,107,158,81,0.5154,74,6,707.57
+2026-03-16,newsletter / email,Email,product_launch,Mobile,India,83,135,86,0.6387,98,9,450.99
+2026-03-16,yahoo / organic,Organic Search,not_set,Mobile,United Kingdom,99,151,106,0.7042,94,12,610.73
+2026-03-16,google / organic,Organic Search,not_set,Desktop,India,95,112,73,0.6541,79,3,94.76
+2026-03-16,yahoo / organic,Organic Search,not_set,Mobile,India,105,167,87,0.5218,51,5,125.34
+2026-03-16,bing / organic,Organic Search,not_set,Mobile,United Kingdom,103,111,69,0.6175,74,3,107.19
+2026-03-16,linkedin / social,Organic Social,not_set,Mobile,United States,104,133,66,0.4941,43,0,0.0
+2026-03-16,instagram / social,Organic Social,not_set,Mobile,United States,127,140,97,0.6959,68,1,55.88
+2026-03-16,linkedin / social,Organic Social,not_set,Desktop,India,91,96,55,0.5711,74,2,79.12
+2026-03-16,bing / cpc,Paid Search,product_launch,Desktop,India,103,161,77,0.4758,24,5,206.81
+2026-03-16,youtube.com / referral,Referral,not_set,Desktop,United States,101,148,89,0.5993,83,7,133.19
+2026-03-16,youtube.com / referral,Referral,not_set,Desktop,India,93,111,74,0.6638,79,6,264.98
+2026-03-17,(direct) / (none),Direct,not_set,Mobile,India,98,117,67,0.5748,72,8,125.02
+2026-03-17,(direct) / (none),Direct,not_set,Mobile,Australia,98,157,95,0.606,63,6,399.26
+2026-03-17,google / organic,Organic Search,not_set,Mobile,India,96,156,115,0.7376,72,9,202.71
+2026-03-17,google / organic,Organic Search,not_set,Mobile,Canada,114,142,88,0.6204,72,6,185.13
+2026-03-17,google / organic,Organic Search,not_set,Mobile,India,106,133,105,0.789,73,7,278.52
+2026-03-17,bing / organic,Organic Search,not_set,Desktop,India,91,137,75,0.5496,82,10,270.32
+2026-03-17,bing / organic,Organic Search,not_set,Mobile,United States,90,104,67,0.6431,70,3,86.96
+2026-03-17,instagram / social,Organic Social,not_set,Desktop,India,87,120,63,0.5253,78,0,0.0
+2026-03-17,google / cpc,Paid Search,summer_sale,Mobile,United States,105,123,56,0.4517,63,1,26.23
+2026-03-17,google / cpc,Paid Search,summer_sale,Mobile,India,102,126,71,0.5615,38,6,241.53
+2026-03-17,google / cpc,Paid Search,summer_sale,Mobile,India,105,169,78,0.4629,47,5,278.11
+2026-03-17,google / cpc,Paid Search,product_launch,Mobile,United States,85,127,52,0.4081,59,0,0.0
+2026-03-17,google / cpc,Paid Search,summer_sale,Mobile,United States,95,122,73,0.6014,62,2,84.67
+2026-03-17,bing / cpc,Paid Search,product_launch,Mobile,India,86,105,52,0.4909,61,6,140.87
+2026-03-17,bing / cpc,Paid Search,retargeting,Mobile,United Kingdom,102,167,73,0.4397,57,2,84.4
+2026-03-17,partner.com / referral,Referral,not_set,Tablet,India,105,171,113,0.6582,79,9,220.76
+2026-03-18,(direct) / (none),Direct,not_set,Mobile,Canada,106,138,94,0.681,61,6,271.8
+2026-03-18,(direct) / (none),Direct,not_set,Desktop,Australia,93,153,76,0.496,98,5,151.73
+2026-03-18,(direct) / (none),Direct,not_set,Desktop,India,97,117,56,0.4763,76,5,185.08
+2026-03-18,(direct) / (none),Direct,not_set,Desktop,India,96,112,72,0.6408,53,1,22.16
+2026-03-18,(direct) / (none),Direct,not_set,Mobile,United States,106,119,63,0.5258,74,9,265.83
+2026-03-18,promo_email / email,Email,product_launch,Mobile,United Kingdom,97,154,123,0.7989,85,15,1117.0
+2026-03-18,promo_email / email,Email,summer_sale,Desktop,Australia,95,127,98,0.7682,112,6,313.3
+2026-03-18,promo_email / email,Email,product_launch,Tablet,Canada,92,129,95,0.7365,97,5,266.25
+2026-03-18,bing / organic,Organic Search,not_set,Tablet,Canada,99,125,79,0.6317,83,5,233.76
+2026-03-18,google / organic,Organic Search,not_set,Mobile,United States,99,125,95,0.7599,72,1,36.37
+2026-03-18,bing / organic,Organic Search,not_set,Mobile,India,86,113,72,0.6381,68,11,231.4
+2026-03-18,bing / organic,Organic Search,not_set,Desktop,India,102,123,86,0.701,55,6,222.98
+2026-03-18,google / organic,Organic Search,not_set,Mobile,Australia,115,179,120,0.67,104,5,294.9
+2026-03-18,yahoo / organic,Organic Search,not_set,Mobile,United States,94,109,73,0.6667,83,3,86.65
+2026-03-18,google / organic,Organic Search,not_set,Mobile,Canada,103,138,112,0.8089,69,8,230.88
+2026-03-18,google / organic,Organic Search,not_set,Desktop,Australia,96,131,95,0.7262,99,5,125.93
+2026-03-18,bing / organic,Organic Search,not_set,Mobile,Canada,100,109,56,0.512,66,5,200.58
+2026-03-18,bing / organic,Organic Search,not_set,Tablet,India,93,125,86,0.6843,75,5,116.81
+2026-03-18,instagram / social,Organic Social,not_set,Mobile,Canada,113,145,75,0.5198,74,4,288.37
+2026-03-18,instagram / social,Organic Social,not_set,Mobile,United States,83,113,80,0.7085,63,0,0.0
+2026-03-18,facebook / social,Organic Social,not_set,Desktop,India,104,121,78,0.6454,44,1,50.05
+2026-03-18,facebook / social,Organic Social,not_set,Mobile,India,103,160,109,0.6815,65,3,173.36
+2026-03-18,bing / cpc,Paid Search,summer_sale,Tablet,United Kingdom,102,161,63,0.3926,57,1,26.54
+2026-03-18,google / cpc,Paid Search,summer_sale,Mobile,Australia,92,143,70,0.4921,73,8,401.61
+2026-03-18,google / cpc,Paid Search,summer_sale,Desktop,United Kingdom,108,124,58,0.4697,41,5,86.02
+2026-03-18,google / cpc,Paid Search,retargeting,Desktop,Australia,98,112,50,0.4462,46,4,67.95
+2026-03-18,bing / cpc,Paid Search,summer_sale,Desktop,India,105,163,90,0.5549,66,5,79.91
+2026-03-18,blog.example.com / referral,Referral,not_set,Mobile,United States,93,103,90,0.8708,103,4,174.5
+2026-03-18,blog.example.com / referral,Referral,not_set,Mobile,India,88,126,76,0.6011,70,4,168.08
+2026-03-18,youtube.com / referral,Referral,not_set,Mobile,Australia,92,147,105,0.711,79,6,122.55
+2026-03-19,newsletter / email,Email,retargeting,Mobile,Australia,108,124,93,0.748,102,10,268.07
+2026-03-19,bing / organic,Organic Search,not_set,Mobile,India,97,153,102,0.6687,69,6,161.1
+2026-03-19,bing / organic,Organic Search,not_set,Mobile,India,113,175,124,0.7098,90,11,247.06
+2026-03-19,bing / organic,Organic Search,not_set,Desktop,United States,112,181,135,0.7482,64,7,123.5
+2026-03-19,yahoo / organic,Organic Search,not_set,Mobile,United States,91,114,93,0.8123,92,1,51.96
+2026-03-19,google / organic,Organic Search,not_set,Mobile,United Kingdom,98,147,119,0.8073,87,6,295.31
+2026-03-19,yahoo / organic,Organic Search,not_set,Mobile,India,82,123,80,0.6519,88,2,61.08
+2026-03-19,facebook / social,Organic Social,not_set,Desktop,India,111,151,91,0.6024,51,3,166.69
+2026-03-19,instagram / social,Organic Social,not_set,Desktop,Canada,110,123,67,0.5464,66,2,57.69
+2026-03-19,google / cpc,Paid Search,product_launch,Mobile,India,91,101,50,0.4961,62,3,96.18
+2026-03-19,google / cpc,Paid Search,retargeting,Mobile,Australia,97,156,71,0.4548,45,8,203.94
+2026-03-19,google / cpc,Paid Search,product_launch,Desktop,United States,101,115,52,0.4542,38,3,233.07
+2026-03-19,bing / cpc,Paid Search,brand_campaign,Mobile,Canada,95,130,55,0.4217,44,9,552.09
+2026-03-20,(direct) / (none),Direct,not_set,Desktop,India,105,145,76,0.5251,74,5,164.82
+2026-03-20,(direct) / (none),Direct,not_set,Mobile,India,101,134,81,0.6057,47,4,120.46
+2026-03-20,(direct) / (none),Direct,not_set,Desktop,India,107,123,66,0.5392,63,3,117.34
+2026-03-20,(direct) / (none),Direct,not_set,Desktop,India,97,112,78,0.6956,46,3,118.14
+2026-03-20,(direct) / (none),Direct,not_set,Mobile,Australia,107,171,102,0.5964,66,6,133.38
+2026-03-20,yahoo / organic,Organic Search,not_set,Mobile,United States,94,111,75,0.6759,79,1,37.92
+2026-03-20,yahoo / organic,Organic Search,not_set,Mobile,Canada,99,115,78,0.6804,75,4,147.73
+2026-03-20,google / organic,Organic Search,not_set,Mobile,United Kingdom,87,119,78,0.6576,66,5,275.93
+2026-03-20,bing / organic,Organic Search,not_set,Desktop,United States,96,136,98,0.7215,94,9,326.46
+2026-03-20,bing / organic,Organic Search,not_set,Tablet,India,102,120,78,0.6534,77,10,269.97
+2026-03-20,google / organic,Organic Search,not_set,Desktop,India,99,157,110,0.7038,83,4,160.97
+2026-03-20,yahoo / organic,Organic Search,not_set,Mobile,India,114,168,112,0.6669,67,4,573.77
+2026-03-20,google / organic,Organic Search,not_set,Mobile,India,104,170,113,0.6626,73,14,747.11
+2026-03-20,facebook / social,Organic Social,not_set,Mobile,India,103,120,78,0.6471,67,0,0.0
+2026-03-20,facebook / social,Organic Social,not_set,Desktop,United States,112,151,90,0.5963,95,2,82.69
+2026-03-20,google / cpc,Paid Search,summer_sale,Desktop,United Kingdom,103,167,83,0.4951,40,6,114.95
+2026-03-20,google / cpc,Paid Search,summer_sale,Mobile,Canada,99,163,71,0.4368,53,4,204.64
+2026-03-20,google / cpc,Paid Search,summer_sale,Desktop,India,97,149,79,0.5313,35,9,202.9
+2026-03-21,(direct) / (none),Direct,not_set,Mobile,India,103,162,75,0.4653,52,6,225.94
+2026-03-21,(direct) / (none),Direct,not_set,Mobile,United States,109,162,85,0.5274,61,6,212.23
+2026-03-21,(direct) / (none),Direct,not_set,Mobile,United Kingdom,108,151,86,0.5725,91,5,381.33
+2026-03-21,(direct) / (none),Direct,not_set,Mobile,India,97,118,60,0.5123,74,1,26.93
+2026-03-21,(direct) / (none),Direct,not_set,Mobile,United Kingdom,98,107,63,0.5918,69,3,192.54
+2026-03-21,(direct) / (none),Direct,not_set,Mobile,United States,98,160,65,0.4082,74,3,201.27
+2026-03-21,(direct) / (none),Direct,not_set,Mobile,India,79,101,61,0.6065,71,5,182.59
+2026-03-21,(direct) / (none),Direct,not_set,Mobile,India,105,122,67,0.5492,83,5,188.76
+2026-03-21,(direct) / (none),Direct,not_set,Mobile,Australia,107,160,93,0.582,61,3,92.08
+2026-03-21,promo_email / email,Email,product_launch,Mobile,Australia,94,148,137,0.9252,92,7,236.14
+2026-03-21,newsletter / email,Email,summer_sale,Mobile,India,101,119,92,0.7707,102,5,148.23
+2026-03-21,newsletter / email,Email,product_launch,Mobile,United States,100,147,109,0.7424,110,9,1171.29
+2026-03-21,promo_email / email,Email,summer_sale,Tablet,Australia,109,142,102,0.7212,117,9,729.33
+2026-03-21,promo_email / email,Email,summer_sale,Mobile,Canada,91,143,115,0.8072,83,6,217.06
+2026-03-21,bing / organic,Organic Search,not_set,Desktop,India,102,129,76,0.5926,80,9,262.22
+2026-03-21,yahoo / organic,Organic Search,not_set,Desktop,India,95,125,101,0.8062,89,8,233.8
+2026-03-21,google / organic,Organic Search,not_set,Mobile,India,79,123,68,0.5552,81,4,172.97
+2026-03-21,bing / organic,Organic Search,not_set,Mobile,India,91,135,101,0.7486,90,5,134.28
+2026-03-21,yahoo / organic,Organic Search,not_set,Mobile,United States,98,146,115,0.7882,71,0,0.0
+2026-03-21,bing / organic,Organic Search,not_set,Desktop,Canada,102,151,100,0.6643,76,6,169.2
+2026-03-21,yahoo / organic,Organic Search,not_set,Desktop,India,92,101,71,0.7066,62,7,271.59
+2026-03-21,yahoo / organic,Organic Search,not_set,Mobile,Australia,104,159,104,0.6551,66,9,385.98
+2026-03-21,yahoo / organic,Organic Search,not_set,Mobile,India,105,111,79,0.7074,64,5,207.56
+2026-03-21,google / organic,Organic Search,not_set,Mobile,United Kingdom,91,121,81,0.6687,76,6,163.83
+2026-03-21,google / organic,Organic Search,not_set,Desktop,India,102,124,86,0.6903,91,8,288.81
+2026-03-21,yahoo / organic,Organic Search,not_set,Tablet,Australia,101,118,79,0.6665,89,4,76.96
+2026-03-21,yahoo / organic,Organic Search,not_set,Desktop,India,112,137,83,0.6084,88,6,328.14
+2026-03-21,bing / organic,Organic Search,not_set,Mobile,United Kingdom,83,127,108,0.848,74,7,494.35
+2026-03-21,bing / organic,Organic Search,not_set,Mobile,United States,97,153,100,0.6528,88,9,656.67
+2026-03-21,google / organic,Organic Search,not_set,Mobile,India,90,143,81,0.5689,82,7,212.42
+2026-03-21,linkedin / social,Organic Social,not_set,Mobile,Australia,102,145,85,0.5832,77,1,61.19
+2026-03-21,instagram / social,Organic Social,not_set,Mobile,India,109,145,105,0.7226,65,0,0.0
+2026-03-21,facebook / social,Organic Social,not_set,Mobile,United States,100,117,76,0.6497,54,2,55.86
+2026-03-21,facebook / social,Organic Social,not_set,Mobile,India,104,134,93,0.6975,76,1,35.02
+2026-03-21,google / cpc,Paid Search,retargeting,Mobile,United States,113,158,79,0.5022,48,5,189.46
+2026-03-21,google / cpc,Paid Search,retargeting,Mobile,India,106,125,64,0.5099,48,6,233.36
+2026-03-21,partner.com / referral,Referral,not_set,Mobile,India,99,109,74,0.6749,97,5,168.76
+2026-03-21,blog.example.com / referral,Referral,not_set,Mobile,United Kingdom,104,161,141,0.8756,80,1,41.48
+2026-03-21,partner.com / referral,Referral,not_set,Mobile,Canada,101,123,79,0.6398,104,5,161.68
+2026-03-21,partner.com / referral,Referral,not_set,Mobile,Canada,110,124,73,0.5904,85,2,91.18
+2026-03-22,(direct) / (none),Direct,not_set,Mobile,India,90,112,66,0.5932,64,3,89.56
+2026-03-22,(direct) / (none),Direct,not_set,Desktop,India,95,125,69,0.5491,69,5,239.62
+2026-03-22,(direct) / (none),Direct,not_set,Mobile,India,92,102,60,0.5848,75,4,173.08
+2026-03-22,promo_email / email,Email,brand_campaign,Mobile,United Kingdom,95,118,77,0.6512,121,7,308.21
+2026-03-22,newsletter / email,Email,retargeting,Mobile,India,105,131,106,0.8085,85,2,41.39
+2026-03-22,bing / organic,Organic Search,not_set,Desktop,Australia,103,128,94,0.7335,59,6,214.54
+2026-03-22,google / organic,Organic Search,not_set,Mobile,Canada,104,137,94,0.6848,58,2,67.08
+2026-03-22,yahoo / organic,Organic Search,not_set,Mobile,India,93,112,75,0.6664,47,5,106.33
+2026-03-22,bing / organic,Organic Search,not_set,Desktop,India,94,103,59,0.5683,69,3,201.61
+2026-03-22,facebook / social,Organic Social,not_set,Mobile,United States,114,167,101,0.6039,43,3,60.54
+2026-03-22,instagram / social,Organic Social,not_set,Mobile,India,95,137,98,0.7181,66,5,294.41
+2026-03-22,bing / cpc,Paid Search,product_launch,Desktop,India,90,144,71,0.4942,42,8,146.27
+2026-03-22,bing / cpc,Paid Search,product_launch,Mobile,United States,87,119,54,0.456,61,4,108.74
+2026-03-22,bing / cpc,Paid Search,retargeting,Desktop,Australia,91,121,55,0.4567,45,3,66.65
+2026-03-22,google / cpc,Paid Search,retargeting,Mobile,India,102,118,53,0.4516,62,3,98.48
+2026-03-22,bing / cpc,Paid Search,product_launch,Mobile,India,104,135,64,0.4763,35,8,270.37
+2026-03-22,blog.example.com / referral,Referral,not_set,Mobile,United Kingdom,106,175,120,0.6869,73,2,81.03
+2026-03-22,youtube.com / referral,Referral,not_set,Desktop,India,94,150,112,0.7468,94,7,138.19
+2026-03-22,blog.example.com / referral,Referral,not_set,Desktop,Australia,84,132,94,0.7154,80,6,252.56
+2026-03-23,(direct) / (none),Direct,not_set,Mobile,India,109,153,77,0.5047,59,3,76.81
+2026-03-23,(direct) / (none),Direct,not_set,Desktop,United States,95,139,82,0.5933,71,6,343.86
+2026-03-23,(direct) / (none),Direct,not_set,Mobile,India,109,147,82,0.559,83,1,19.1
+2026-03-23,(direct) / (none),Direct,not_set,Mobile,United States,98,143,95,0.664,51,5,194.57
+2026-03-23,(direct) / (none),Direct,not_set,Desktop,Canada,107,155,105,0.6791,66,5,64.58
+2026-03-23,promo_email / email,Email,summer_sale,Desktop,United States,103,114,80,0.7041,103,2,116.21
+2026-03-23,yahoo / organic,Organic Search,not_set,Mobile,United Kingdom,111,150,96,0.6395,62,10,426.87
+2026-03-23,bing / organic,Organic Search,not_set,Desktop,United Kingdom,99,157,108,0.6882,78,8,110.13
+2026-03-23,bing / organic,Organic Search,not_set,Tablet,India,106,119,84,0.7072,69,6,401.06
+2026-03-23,yahoo / organic,Organic Search,not_set,Mobile,Australia,112,135,103,0.7633,65,6,254.54
+2026-03-23,yahoo / organic,Organic Search,not_set,Desktop,Australia,89,126,83,0.6574,51,5,99.06
+2026-03-23,google / cpc,Paid Search,summer_sale,Desktop,Canada,112,129,75,0.5819,53,2,122.44
+2026-03-23,google / cpc,Paid Search,retargeting,Mobile,Canada,118,140,74,0.5284,40,1,19.31
+2026-03-23,google / cpc,Paid Search,retargeting,Desktop,India,106,138,56,0.4075,65,9,889.45
+2026-03-23,google / cpc,Paid Search,summer_sale,Desktop,United Kingdom,98,118,60,0.5106,45,5,471.91
+2026-03-23,google / cpc,Paid Search,summer_sale,Desktop,India,92,118,58,0.4921,56,5,224.93
+2026-03-23,partner.com / referral,Referral,not_set,Mobile,India,102,154,102,0.6634,90,6,284.44
+2026-03-24,(direct) / (none),Direct,not_set,Mobile,India,110,180,97,0.5384,73,9,191.6
+2026-03-24,(direct) / (none),Direct,not_set,Mobile,India,97,135,70,0.5192,62,3,107.96
+2026-03-24,promo_email / email,Email,product_launch,Mobile,Canada,92,132,100,0.7551,105,9,364.23
+2026-03-24,newsletter / email,Email,brand_campaign,Mobile,India,94,142,105,0.7371,96,7,431.63
+2026-03-24,bing / organic,Organic Search,not_set,Mobile,India,101,150,96,0.6399,85,4,118.41
+2026-03-24,google / organic,Organic Search,not_set,Mobile,India,112,154,96,0.6262,64,8,758.73
+2026-03-24,yahoo / organic,Organic Search,not_set,Desktop,India,99,155,97,0.623,110,9,316.9
+2026-03-24,yahoo / organic,Organic Search,not_set,Mobile,India,111,180,132,0.735,86,8,604.96
+2026-03-24,yahoo / organic,Organic Search,not_set,Desktop,India,96,126,94,0.7466,62,10,356.35
+2026-03-24,bing / organic,Organic Search,not_set,Mobile,Australia,84,116,72,0.6244,78,5,63.63
+2026-03-24,google / organic,Organic Search,not_set,Desktop,Australia,117,187,122,0.6543,72,11,725.95
+2026-03-24,yahoo / organic,Organic Search,not_set,Mobile,Canada,114,122,88,0.7191,53,2,53.23
+2026-03-24,linkedin / social,Organic Social,not_set,Desktop,India,104,127,75,0.5889,67,1,21.22
+2026-03-24,google / cpc,Paid Search,brand_campaign,Mobile,Canada,101,119,49,0.413,65,3,100.05
+2026-03-24,google / cpc,Paid Search,brand_campaign,Mobile,India,79,103,45,0.4417,47,4,216.62
+2026-03-24,bing / cpc,Paid Search,retargeting,Desktop,India,116,133,69,0.5186,37,4,247.09
+2026-03-24,bing / cpc,Paid Search,product_launch,Tablet,India,111,127,69,0.5421,50,5,172.46
+2026-03-24,partner.com / referral,Referral,not_set,Mobile,United States,95,133,90,0.6753,90,1,37.13
+2026-03-24,youtube.com / referral,Referral,not_set,Mobile,India,107,150,119,0.7903,72,5,200.5
+2026-03-24,youtube.com / referral,Referral,not_set,Desktop,India,100,161,120,0.7436,85,2,81.21
+2026-03-25,(direct) / (none),Direct,not_set,Mobile,United States,79,109,66,0.6087,74,4,234.73
+2026-03-25,(direct) / (none),Direct,not_set,Mobile,India,98,133,76,0.571,74,6,93.67
+2026-03-25,promo_email / email,Email,brand_campaign,Mobile,India,82,133,103,0.7713,95,9,519.75
+2026-03-25,newsletter / email,Email,retargeting,Mobile,India,88,133,101,0.7609,69,7,261.38
+2026-03-25,newsletter / email,Email,brand_campaign,Desktop,India,106,134,106,0.7873,85,5,140.75
+2026-03-25,google / organic,Organic Search,not_set,Mobile,India,110,179,122,0.6835,73,10,415.44
+2026-03-25,bing / organic,Organic Search,not_set,Mobile,United States,96,119,82,0.6909,72,4,153.53
+2026-03-25,yahoo / organic,Organic Search,not_set,Mobile,India,116,169,114,0.6725,76,3,79.34
+2026-03-25,linkedin / social,Organic Social,not_set,Desktop,India,99,150,93,0.6231,72,5,214.19
+2026-03-25,instagram / social,Organic Social,not_set,Mobile,India,106,160,118,0.7388,85,3,136.33
+2026-03-25,bing / cpc,Paid Search,product_launch,Desktop,India,108,168,71,0.4234,41,7,192.05
+2026-03-25,bing / cpc,Paid Search,brand_campaign,Desktop,United Kingdom,91,112,47,0.42,52,4,279.39
+2026-03-25,google / cpc,Paid Search,summer_sale,Mobile,United States,85,102,47,0.4585,44,3,155.68
+2026-03-25,bing / cpc,Paid Search,brand_campaign,Desktop,India,79,116,64,0.5546,56,5,129.73
+2026-03-25,bing / cpc,Paid Search,product_launch,Mobile,India,118,144,66,0.4554,56,6,291.54
+2026-03-26,(direct) / (none),Direct,not_set,Mobile,India,116,125,70,0.5574,56,4,150.1
+2026-03-26,(direct) / (none),Direct,not_set,Desktop,India,111,151,90,0.5943,70,4,161.24
+2026-03-26,(direct) / (none),Direct,not_set,Mobile,United Kingdom,120,170,88,0.52,43,4,132.26
+2026-03-26,promo_email / email,Email,summer_sale,Mobile,Canada,110,120,91,0.7551,105,6,198.43
+2026-03-26,google / organic,Organic Search,not_set,Mobile,United States,102,160,112,0.7018,87,5,319.48
+2026-03-26,bing / organic,Organic Search,not_set,Desktop,India,93,107,78,0.728,71,2,69.09
+2026-03-26,bing / organic,Organic Search,not_set,Mobile,India,82,124,85,0.6894,88,6,160.27
+2026-03-26,google / organic,Organic Search,not_set,Mobile,Canada,111,149,102,0.6854,78,4,186.68
+2026-03-26,bing / organic,Organic Search,not_set,Mobile,India,97,106,69,0.6521,73,8,361.05
+2026-03-26,instagram / social,Organic Social,not_set,Desktop,India,99,110,65,0.5953,59,2,56.58
+2026-03-26,google / cpc,Paid Search,product_launch,Desktop,United States,117,190,98,0.5134,49,10,178.36
+2026-03-26,partner.com / referral,Referral,not_set,Desktop,United Kingdom,101,125,90,0.7197,91,2,61.81
+2026-03-26,partner.com / referral,Referral,not_set,Mobile,India,95,150,113,0.7555,82,5,153.22
+2026-03-27,(direct) / (none),Direct,not_set,Mobile,India,100,164,84,0.5094,57,7,260.0
+2026-03-27,(direct) / (none),Direct,not_set,Mobile,United Kingdom,89,130,73,0.5624,69,2,92.98
+2026-03-27,(direct) / (none),Direct,not_set,Tablet,United States,116,127,60,0.4762,52,5,363.42
+2026-03-27,newsletter / email,Email,product_launch,Mobile,United States,111,130,98,0.7515,96,7,205.96
+2026-03-27,newsletter / email,Email,product_launch,Desktop,India,91,121,110,0.9063,93,8,463.72
+2026-03-27,yahoo / organic,Organic Search,not_set,Desktop,India,105,161,121,0.7486,85,8,229.43
+2026-03-27,bing / organic,Organic Search,not_set,Desktop,India,102,161,120,0.7484,68,5,303.54
+2026-03-27,yahoo / organic,Organic Search,not_set,Mobile,India,105,139,100,0.7184,58,3,129.85
+2026-03-27,google / organic,Organic Search,not_set,Mobile,United Kingdom,90,143,93,0.6474,58,7,162.53
+2026-03-27,google / organic,Organic Search,not_set,Mobile,United States,102,109,76,0.6965,82,4,257.04
+2026-03-27,google / organic,Organic Search,not_set,Mobile,United States,101,116,69,0.5938,80,2,86.13
+2026-03-27,instagram / social,Organic Social,not_set,Mobile,India,85,104,74,0.7123,67,0,0.0
+2026-03-27,instagram / social,Organic Social,not_set,Mobile,India,102,166,106,0.6405,69,2,61.01
+2026-03-27,instagram / social,Organic Social,not_set,Mobile,India,88,105,65,0.616,86,2,96.34
+2026-03-27,instagram / social,Organic Social,not_set,Mobile,United States,96,118,82,0.6937,69,1,25.28
+2026-03-27,linkedin / social,Organic Social,not_set,Mobile,United States,96,127,77,0.6049,63,3,93.87
+2026-03-27,google / cpc,Paid Search,summer_sale,Tablet,India,111,134,61,0.4576,64,6,201.93
+2026-03-27,google / cpc,Paid Search,product_launch,Desktop,Canada,88,134,70,0.5261,51,4,216.31
+2026-03-27,bing / cpc,Paid Search,summer_sale,Desktop,United States,101,141,75,0.5322,50,10,234.93
+2026-03-27,bing / cpc,Paid Search,product_launch,Mobile,United Kingdom,93,148,88,0.5937,46,4,113.23
+2026-03-27,bing / cpc,Paid Search,retargeting,Mobile,Canada,91,121,48,0.3937,37,4,328.22
+2026-03-27,google / cpc,Paid Search,brand_campaign,Mobile,India,98,151,66,0.4362,44,5,155.51
+2026-03-27,blog.example.com / referral,Referral,not_set,Mobile,India,97,112,74,0.665,72,4,112.57
+2026-03-27,blog.example.com / referral,Referral,not_set,Desktop,India,92,110,69,0.6307,95,0,0.0
+2026-03-27,partner.com / referral,Referral,not_set,Desktop,India,105,156,117,0.7515,95,3,84.26
+2026-03-27,partner.com / referral,Referral,not_set,Desktop,United States,92,120,80,0.6636,88,2,78.8
+2026-03-28,(direct) / (none),Direct,not_set,Desktop,India,99,152,78,0.5108,69,2,39.25
+2026-03-28,(direct) / (none),Direct,not_set,Desktop,India,101,128,62,0.4807,63,4,62.62
+2026-03-28,(direct) / (none),Direct,not_set,Mobile,United States,100,117,67,0.5762,66,6,209.3
+2026-03-28,(direct) / (none),Direct,not_set,Desktop,India,106,138,79,0.5724,86,7,244.78
+2026-03-28,(direct) / (none),Direct,not_set,Mobile,India,95,141,82,0.5783,65,6,209.62
+2026-03-28,(direct) / (none),Direct,not_set,Tablet,United Kingdom,98,144,61,0.4261,51,6,455.18
+2026-03-28,newsletter / email,Email,brand_campaign,Mobile,India,99,136,101,0.7418,96,4,183.9
+2026-03-28,promo_email / email,Email,product_launch,Mobile,India,107,171,126,0.7397,112,13,671.89
+2026-03-28,bing / organic,Organic Search,not_set,Mobile,United States,100,156,111,0.7142,77,3,106.3
+2026-03-28,bing / organic,Organic Search,not_set,Mobile,India,89,113,78,0.6913,74,4,98.96
+2026-03-28,yahoo / organic,Organic Search,not_set,Desktop,India,93,142,78,0.5501,70,3,58.21
+2026-03-28,bing / organic,Organic Search,not_set,Mobile,India,112,146,107,0.7332,78,7,247.5
+2026-03-28,instagram / social,Organic Social,not_set,Desktop,United States,100,144,97,0.6755,71,0,0.0
+2026-03-28,instagram / social,Organic Social,not_set,Desktop,India,110,172,103,0.5999,75,3,89.45
+2026-03-28,linkedin / social,Organic Social,not_set,Desktop,India,101,114,66,0.5789,73,3,59.45
+2026-03-28,instagram / social,Organic Social,not_set,Mobile,India,92,132,86,0.6521,80,2,147.83
+2026-03-28,linkedin / social,Organic Social,not_set,Desktop,India,114,136,72,0.5329,55,1,55.58
+2026-03-28,linkedin / social,Organic Social,not_set,Mobile,India,104,156,105,0.6759,45,3,200.1
+2026-03-28,bing / cpc,Paid Search,retargeting,Desktop,United Kingdom,84,119,60,0.5044,48,3,96.99
+2026-03-28,google / cpc,Paid Search,summer_sale,Desktop,United States,98,154,58,0.3762,38,7,223.64
+2026-03-28,bing / cpc,Paid Search,retargeting,Mobile,United States,99,161,58,0.3583,52,3,72.2
+2026-03-28,google / cpc,Paid Search,retargeting,Mobile,India,91,104,49,0.4747,63,9,162.1
+2026-03-28,google / cpc,Paid Search,summer_sale,Mobile,United States,91,148,69,0.4662,58,8,291.97
+2026-03-28,partner.com / referral,Referral,not_set,Mobile,Canada,92,113,65,0.5753,78,5,253.71
+2026-03-28,partner.com / referral,Referral,not_set,Mobile,United Kingdom,107,174,111,0.6368,86,2,118.18
+2026-03-28,youtube.com / referral,Referral,not_set,Mobile,United States,113,175,128,0.7295,68,3,140.49
+2026-03-29,(direct) / (none),Direct,not_set,Desktop,India,113,156,80,0.5114,40,5,346.06
+2026-03-29,(direct) / (none),Direct,not_set,Mobile,India,104,122,70,0.57,72,1,52.19
+2026-03-29,(direct) / (none),Direct,not_set,Mobile,India,100,126,65,0.5135,66,6,240.94
+2026-03-29,(direct) / (none),Direct,not_set,Desktop,India,111,180,92,0.512,61,7,270.88
+2026-03-29,newsletter / email,Email,brand_campaign,Mobile,United States,88,125,96,0.7669,113,5,246.72
+2026-03-29,yahoo / organic,Organic Search,not_set,Mobile,United States,100,146,97,0.6627,91,6,142.74
+2026-03-29,google / organic,Organic Search,not_set,Desktop,United States,111,165,106,0.6408,69,7,612.6
+2026-03-29,yahoo / organic,Organic Search,not_set,Desktop,India,93,122,85,0.6976,86,4,226.33
+2026-03-29,bing / organic,Organic Search,not_set,Desktop,India,117,136,84,0.6165,83,6,151.08
+2026-03-29,google / organic,Organic Search,not_set,Desktop,India,103,155,106,0.683,78,7,311.6
+2026-03-29,yahoo / organic,Organic Search,not_set,Mobile,India,85,109,65,0.6007,75,4,201.09
+2026-03-29,google / organic,Organic Search,not_set,Mobile,India,95,146,89,0.6079,89,7,431.27
+2026-03-29,google / organic,Organic Search,not_set,Mobile,Canada,83,95,81,0.8481,75,3,63.83
+2026-03-29,facebook / social,Organic Social,not_set,Desktop,India,98,127,82,0.6494,74,6,167.8
+2026-03-29,linkedin / social,Organic Social,not_set,Desktop,India,104,151,101,0.6686,71,2,84.74
+2026-03-29,instagram / social,Organic Social,not_set,Mobile,United States,92,108,60,0.5532,107,3,164.43
+2026-03-29,google / cpc,Paid Search,retargeting,Desktop,Canada,110,116,65,0.5626,49,7,299.54
+2026-03-29,google / cpc,Paid Search,retargeting,Desktop,United Kingdom,94,108,47,0.4371,59,7,531.0
+2026-03-29,bing / cpc,Paid Search,brand_campaign,Desktop,India,95,114,54,0.4732,52,5,135.8
+2026-03-29,bing / cpc,Paid Search,retargeting,Desktop,India,96,117,64,0.5493,41,4,138.22
+2026-03-29,google / cpc,Paid Search,summer_sale,Desktop,Canada,99,151,64,0.4266,56,7,355.01
+2026-03-29,google / cpc,Paid Search,brand_campaign,Desktop,India,86,109,56,0.5093,42,6,190.22
+2026-03-29,google / cpc,Paid Search,product_launch,Mobile,United States,70,114,57,0.5025,57,7,345.36
+2026-03-29,blog.example.com / referral,Referral,not_set,Desktop,United Kingdom,105,167,91,0.5477,64,5,184.32
+2026-03-29,blog.example.com / referral,Referral,not_set,Desktop,United Kingdom,104,127,80,0.6325,97,2,53.05
+2026-03-29,partner.com / referral,Referral,not_set,Mobile,United States,80,101,77,0.7647,76,2,98.98
+2026-03-29,partner.com / referral,Referral,not_set,Mobile,United States,101,114,86,0.7536,84,6,226.4
+2026-03-30,(direct) / (none),Direct,not_set,Desktop,India,89,127,60,0.4724,74,0,0.0
+2026-03-30,(direct) / (none),Direct,not_set,Tablet,United States,110,119,72,0.6011,58,1,38.82
+2026-03-30,(direct) / (none),Direct,not_set,Mobile,Canada,112,143,70,0.4898,65,4,152.51
+2026-03-30,(direct) / (none),Direct,not_set,Mobile,India,89,137,63,0.4586,66,2,59.37
+2026-03-30,(direct) / (none),Direct,not_set,Mobile,United Kingdom,86,109,53,0.4883,55,4,167.21
+2026-03-30,promo_email / email,Email,brand_campaign,Desktop,United States,96,154,102,0.6647,104,9,650.48
+2026-03-30,newsletter / email,Email,product_launch,Desktop,United Kingdom,104,149,110,0.7391,96,11,903.48
+2026-03-30,promo_email / email,Email,retargeting,Mobile,India,89,114,91,0.7985,80,9,142.4
+2026-03-30,google / organic,Organic Search,not_set,Mobile,India,113,122,98,0.8044,93,1,39.21
+2026-03-30,yahoo / organic,Organic Search,not_set,Mobile,India,103,115,73,0.636,54,6,272.39
+2026-03-30,bing / organic,Organic Search,not_set,Mobile,United States,102,151,100,0.6604,100,5,186.7
+2026-03-30,yahoo / organic,Organic Search,not_set,Desktop,India,110,172,128,0.7446,73,3,48.11
+2026-03-30,bing / organic,Organic Search,not_set,Mobile,Australia,104,143,93,0.6474,92,7,263.04
+2026-03-30,bing / organic,Organic Search,not_set,Desktop,India,112,181,112,0.6205,79,10,961.61
+2026-03-30,google / organic,Organic Search,not_set,Mobile,United Kingdom,97,155,99,0.6404,79,7,179.64
+2026-03-30,yahoo / organic,Organic Search,not_set,Mobile,India,103,122,75,0.611,85,8,192.34
+2026-03-30,yahoo / organic,Organic Search,not_set,Mobile,India,95,115,77,0.6721,77,9,1018.82
+2026-03-30,instagram / social,Organic Social,not_set,Desktop,India,114,158,105,0.6652,78,3,146.39
+2026-03-30,google / cpc,Paid Search,retargeting,Mobile,United Kingdom,87,122,58,0.4746,66,4,203.07
+2026-03-30,google / cpc,Paid Search,brand_campaign,Desktop,Australia,109,127,52,0.4065,36,5,245.79
+2026-03-30,google / cpc,Paid Search,retargeting,Mobile,United States,87,94,44,0.4719,46,2,124.96
+2026-03-30,bing / cpc,Paid Search,brand_campaign,Desktop,United Kingdom,97,114,49,0.4286,38,8,324.9
+2026-03-30,bing / cpc,Paid Search,brand_campaign,Mobile,India,97,120,64,0.5344,40,6,165.11
+2026-03-30,partner.com / referral,Referral,not_set,Mobile,India,100,144,92,0.637,66,3,170.18
+2026-03-30,blog.example.com / referral,Referral,not_set,Mobile,India,99,151,120,0.7933,92,9,407.98
+2026-03-31,(direct) / (none),Direct,not_set,Tablet,India,99,120,68,0.566,85,2,69.76
+2026-03-31,(direct) / (none),Direct,not_set,Mobile,United States,103,134,83,0.6188,66,2,75.57
+2026-03-31,bing / organic,Organic Search,not_set,Desktop,India,117,135,96,0.7116,87,4,111.34
+2026-03-31,bing / organic,Organic Search,not_set,Desktop,India,90,113,75,0.6607,72,7,189.02
+2026-03-31,google / organic,Organic Search,not_set,Mobile,India,105,138,96,0.6961,84,3,161.91
+2026-03-31,bing / organic,Organic Search,not_set,Mobile,United States,88,134,76,0.5645,71,4,178.17
+2026-03-31,bing / organic,Organic Search,not_set,Mobile,United States,100,157,108,0.6908,72,4,308.42
+2026-03-31,bing / organic,Organic Search,not_set,Desktop,United States,105,138,95,0.6872,56,4,51.84
+2026-03-31,google / organic,Organic Search,not_set,Mobile,India,103,124,88,0.7123,94,10,422.84
+2026-03-31,google / organic,Organic Search,not_set,Mobile,India,106,134,91,0.6767,77,4,325.24
+2026-03-31,bing / organic,Organic Search,not_set,Desktop,Australia,102,109,78,0.716,91,4,399.44
+2026-03-31,google / organic,Organic Search,not_set,Mobile,Canada,96,102,81,0.7953,82,8,301.16
+2026-03-31,yahoo / organic,Organic Search,not_set,Mobile,India,96,133,90,0.6757,68,6,230.48
+2026-03-31,bing / organic,Organic Search,not_set,Tablet,India,111,153,106,0.6959,63,5,259.31
+2026-03-31,bing / organic,Organic Search,not_set,Desktop,United States,113,170,116,0.6822,69,4,111.26
+2026-03-31,linkedin / social,Organic Social,not_set,Mobile,United States,117,164,96,0.5842,65,2,109.65
+2026-03-31,instagram / social,Organic Social,not_set,Mobile,India,99,156,100,0.6379,63,1,26.0
+2026-03-31,bing / cpc,Paid Search,product_launch,Mobile,India,112,163,106,0.65,46,8,295.0
+2026-03-31,bing / cpc,Paid Search,brand_campaign,Mobile,India,110,150,63,0.4196,60,1,31.0
+2026-03-31,google / cpc,Paid Search,product_launch,Tablet,India,100,139,56,0.3998,39,3,110.16
+2026-03-31,google / cpc,Paid Search,summer_sale,Desktop,India,77,119,55,0.4649,57,3,67.04
+2026-03-31,bing / cpc,Paid Search,brand_campaign,Mobile,India,97,135,50,0.3727,61,8,355.34
+2026-03-31,google / cpc,Paid Search,summer_sale,Mobile,India,87,120,71,0.5887,68,5,245.32
+2026-03-31,blog.example.com / referral,Referral,not_set,Desktop,United States,114,181,141,0.7797,117,6,109.38
+2026-03-31,youtube.com / referral,Referral,not_set,Desktop,India,98,149,83,0.5599,105,4,121.1
+2026-03-31,partner.com / referral,Referral,not_set,Mobile,India,103,114,74,0.6506,105,5,134.93
